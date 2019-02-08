@@ -1,0 +1,16 @@
+DEBUG - 2019-01-12 00:48:21 --> Commerce MX_Controller Initialized
+DEBUG - 2019-01-12 00:48:21 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2019-01-12 00:48:21 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2019-01-12 00:48:21 --> Database Driver Class Initialized
+INFO - 2019-01-12 00:48:21 --> Action: begin|API|5Zk4aDf9VyYP3c[::1] 
+INFO - 2019-01-12 00:48:21 --> Action: receiver |API|5Zk4aDf9VyYP3c ---|data: Array([uri] => api/m_nasabah/com/bpjs_pay[method] => post[params] => a:6:{s:8:"m_userid";s:8:"35201876";s:6:"bpjsid";s:13:"0001477850905";s:7:"paytype";s:7:"nasabah";s:4:"code";s:14:"5Zk4aDf9VyYP3c";s:8:"rekening";s:12:"35.01.007925";s:7:"periode";s:2:"01";}[api_key] => els3j4ht3r4[key_session] => 70dj2v5afH1yAkToGClO[time] => 1547228901)
+INFO - 2019-01-12 00:48:21 --> Action: info |API|5Zk4aDf9VyYP3c |message: [paytype by [nasabah]]
+INFO - 2019-01-12 00:48:21 --> Action: info |API|5Zk4aDf9VyYP3c |message: [norekening (nasabah) =>35.01.007925]
+INFO - 2019-01-12 00:48:21 --> Action: info |API|5Zk4aDf9VyYP3c |message: [Transhoot->Bpjs_pay(35201876,0001477850905,5Zk4aDf9VyYP3c,35.01.007925,nasabah)]
+INFO - 2019-01-12 00:48:21 --> Action: result |API|5Zk4aDf9VyYP3c |message: [response]
+INFO - 2019-01-12 00:48:21 --> Action: result |API|5Zk4aDf9VyYP3c |message: [success, running trasaction]
+INFO - 2019-01-12 00:48:21 --> Action: update |API|5Zk4aDf9VyYP3c |message: [Update log pulsa]
+INFO - 2019-01-12 00:48:21 --> Action: info  |API|5Zk4aDf9VyYP3c |message: [serial number : ] ---|data: Array([sn] => 94990674A2FB26CA[code] => 5Zk4aDf9VyYP3c)
+INFO - 2019-01-12 00:48:21 --> Action: response |API|5Zk4aDf9VyYP3c ---|data: Array([status] => 1[error_code] => 600[message] => success[data] => Array([sn] => 94990674A2FB26CA[code] => 5Zk4aDf9VyYP3c))
+INFO - 2019-01-12 00:48:21 --> Final output sent to browser
+DEBUG - 2019-01-12 00:48:21 --> Total execution time: 0.4595

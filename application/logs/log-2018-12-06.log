@@ -1,0 +1,822 @@
+INFO - 2018-12-06 05:48:26 --> Config Class Initialized
+INFO - 2018-12-06 05:48:26 --> Hooks Class Initialized
+DEBUG - 2018-12-06 05:48:26 --> UTF-8 Support Enabled
+INFO - 2018-12-06 05:48:26 --> Utf8 Class Initialized
+INFO - 2018-12-06 05:48:26 --> URI Class Initialized
+INFO - 2018-12-06 05:48:26 --> Router Class Initialized
+INFO - 2018-12-06 05:48:26 --> Output Class Initialized
+INFO - 2018-12-06 05:48:26 --> Security Class Initialized
+DEBUG - 2018-12-06 05:48:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 05:48:26 --> Input Class Initialized
+INFO - 2018-12-06 05:48:26 --> Language Class Initialized
+INFO - 2018-12-06 05:48:26 --> Language Class Initialized
+INFO - 2018-12-06 05:48:26 --> Config Class Initialized
+INFO - 2018-12-06 05:48:26 --> Loader Class Initialized
+DEBUG - 2018-12-06 05:48:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 05:48:26 --> Helper loaded: url_helper
+INFO - 2018-12-06 05:48:26 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 05:48:26 --> Helper loaded: string_helper
+INFO - 2018-12-06 05:48:26 --> Helper loaded: array_helper
+INFO - 2018-12-06 05:48:26 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 05:48:26 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 05:48:26 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 05:48:26 --> Email Class Initialized
+INFO - 2018-12-06 05:48:26 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 05:48:26 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 05:48:26 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 05:48:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 05:48:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Helper loaded: date_helper
+INFO - 2018-12-06 05:48:26 --> User Agent Class Initialized
+DEBUG - 2018-12-06 05:48:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:48:26 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Model Class Initialized
+INFO - 2018-12-06 05:48:26 --> Controller Class Initialized
+DEBUG - 2018-12-06 05:48:26 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 05:48:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:48:26 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 05:48:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 05:48:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 05:48:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 05:48:26 --> Database Driver Class Initialized
+INFO - 2018-12-06 11:48:26 --> Action: begin|API|AoNLan21pevQxi[::1] 
+INFO - 2018-12-06 11:48:26 --> Action: receiver |API|AoNLan21pevQxi ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544071706)
+INFO - 2018-12-06 11:48:26 --> Action: select |API|AoNLan21pevQxi |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 11:48:26 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 11:48:26 --> Action: check cost adm |API|AoNLan21pevQxi |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 11:48:26 --> Action: result |API|AoNLan21pevQxi |message: [batas min :10000.00]
+INFO - 2018-12-06 11:48:26 --> Action: result |API|AoNLan21pevQxi |message: [batas max :1000000.00]
+INFO - 2018-12-06 11:48:26 --> Action: check saldo |API|AoNLan21pevQxi |message: [101]
+INFO - 2018-12-06 11:48:26 --> Action: check saldo |API|AoNLan21pevQxi |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 11:48:26 --> Action: inquiry |API|AoNLan21pevQxi |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 11:48:26 --> Action: inquiry |API|AoNLan21pevQxi |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001126[regencycode] => JKT)
+INFO - 2018-12-06 11:48:26 --> Action: inquiry |API|AoNLan21pevQxi |message: [response req : {"status":"97","message":"IP unregistered"}]
+INFO - 2018-12-06 11:48:26 --> Action: response |API|AoNLan21pevQxi |message: [gateway error]
+INFO - 2018-12-06 11:48:26 --> Final output sent to browser
+DEBUG - 2018-12-06 11:48:26 --> Total execution time: 0.3918
+INFO - 2018-12-06 05:48:40 --> Config Class Initialized
+INFO - 2018-12-06 05:48:40 --> Hooks Class Initialized
+DEBUG - 2018-12-06 05:48:40 --> UTF-8 Support Enabled
+INFO - 2018-12-06 05:48:40 --> Utf8 Class Initialized
+INFO - 2018-12-06 05:48:40 --> URI Class Initialized
+INFO - 2018-12-06 05:48:40 --> Router Class Initialized
+INFO - 2018-12-06 05:48:40 --> Output Class Initialized
+INFO - 2018-12-06 05:48:40 --> Security Class Initialized
+DEBUG - 2018-12-06 05:48:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 05:48:40 --> Input Class Initialized
+INFO - 2018-12-06 05:48:40 --> Language Class Initialized
+INFO - 2018-12-06 05:48:40 --> Language Class Initialized
+INFO - 2018-12-06 05:48:40 --> Config Class Initialized
+INFO - 2018-12-06 05:48:40 --> Loader Class Initialized
+DEBUG - 2018-12-06 05:48:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 05:48:40 --> Helper loaded: url_helper
+INFO - 2018-12-06 05:48:40 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 05:48:40 --> Helper loaded: string_helper
+INFO - 2018-12-06 05:48:40 --> Helper loaded: array_helper
+INFO - 2018-12-06 05:48:40 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 05:48:40 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 05:48:40 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 05:48:40 --> Email Class Initialized
+INFO - 2018-12-06 05:48:40 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 05:48:40 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 05:48:40 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 05:48:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 05:48:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Helper loaded: date_helper
+INFO - 2018-12-06 05:48:40 --> User Agent Class Initialized
+DEBUG - 2018-12-06 05:48:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:48:40 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Model Class Initialized
+INFO - 2018-12-06 05:48:40 --> Controller Class Initialized
+DEBUG - 2018-12-06 05:48:40 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 05:48:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:48:40 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 05:48:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 05:48:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 05:48:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 05:48:40 --> Database Driver Class Initialized
+INFO - 2018-12-06 11:48:40 --> Action: begin|API|qQXRk6a7vYcPDF[::1] 
+INFO - 2018-12-06 11:48:40 --> Action: receiver |API|qQXRk6a7vYcPDF ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544071720)
+INFO - 2018-12-06 11:48:40 --> Action: select |API|qQXRk6a7vYcPDF |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 11:48:40 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 11:48:40 --> Action: check cost adm |API|qQXRk6a7vYcPDF |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 11:48:40 --> Action: result |API|qQXRk6a7vYcPDF |message: [batas min :10000.00]
+INFO - 2018-12-06 11:48:40 --> Action: result |API|qQXRk6a7vYcPDF |message: [batas max :1000000.00]
+INFO - 2018-12-06 11:48:40 --> Action: check saldo |API|qQXRk6a7vYcPDF |message: [101]
+INFO - 2018-12-06 11:48:40 --> Action: check saldo |API|qQXRk6a7vYcPDF |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 11:48:40 --> Action: inquiry |API|qQXRk6a7vYcPDF |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 11:48:40 --> Action: inquiry |API|qQXRk6a7vYcPDF |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001140[regencycode] => JKT)
+INFO - 2018-12-06 11:48:40 --> Action: inquiry |API|qQXRk6a7vYcPDF |message: [response req : {"status":"97","message":"IP unregistered"}]
+INFO - 2018-12-06 11:48:40 --> Action: response |API|qQXRk6a7vYcPDF |message: [gateway error]
+INFO - 2018-12-06 11:48:40 --> Final output sent to browser
+DEBUG - 2018-12-06 11:48:40 --> Total execution time: 0.2944
+INFO - 2018-12-06 05:50:41 --> Config Class Initialized
+INFO - 2018-12-06 05:50:41 --> Hooks Class Initialized
+DEBUG - 2018-12-06 05:50:41 --> UTF-8 Support Enabled
+INFO - 2018-12-06 05:50:41 --> Utf8 Class Initialized
+INFO - 2018-12-06 05:50:41 --> URI Class Initialized
+INFO - 2018-12-06 05:50:41 --> Router Class Initialized
+INFO - 2018-12-06 05:50:41 --> Output Class Initialized
+INFO - 2018-12-06 05:50:41 --> Security Class Initialized
+DEBUG - 2018-12-06 05:50:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 05:50:41 --> Input Class Initialized
+INFO - 2018-12-06 05:50:41 --> Language Class Initialized
+INFO - 2018-12-06 05:50:41 --> Language Class Initialized
+INFO - 2018-12-06 05:50:41 --> Config Class Initialized
+INFO - 2018-12-06 05:50:41 --> Loader Class Initialized
+DEBUG - 2018-12-06 05:50:41 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 05:50:41 --> Helper loaded: url_helper
+INFO - 2018-12-06 05:50:41 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 05:50:41 --> Helper loaded: string_helper
+INFO - 2018-12-06 05:50:41 --> Helper loaded: array_helper
+INFO - 2018-12-06 05:50:41 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 05:50:41 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 05:50:41 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 05:50:41 --> Email Class Initialized
+INFO - 2018-12-06 05:50:41 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 05:50:41 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 05:50:41 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 05:50:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 05:50:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Helper loaded: date_helper
+INFO - 2018-12-06 05:50:41 --> User Agent Class Initialized
+DEBUG - 2018-12-06 05:50:41 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:50:41 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:41 --> Model Class Initialized
+INFO - 2018-12-06 05:50:42 --> Model Class Initialized
+INFO - 2018-12-06 05:50:42 --> Model Class Initialized
+INFO - 2018-12-06 05:50:42 --> Model Class Initialized
+INFO - 2018-12-06 05:50:42 --> Controller Class Initialized
+DEBUG - 2018-12-06 05:50:42 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 05:50:42 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:50:42 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 05:50:42 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 05:50:42 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 05:50:42 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 05:50:42 --> Database Driver Class Initialized
+INFO - 2018-12-06 11:50:42 --> Action: begin|API|bEUP7R8aYN5dzB[::1] 
+INFO - 2018-12-06 11:50:42 --> Action: receiver |API|bEUP7R8aYN5dzB ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544071842)
+INFO - 2018-12-06 11:50:42 --> Action: select |API|bEUP7R8aYN5dzB |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 11:50:42 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 11:50:42 --> Action: check cost adm |API|bEUP7R8aYN5dzB |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 11:50:42 --> Action: result |API|bEUP7R8aYN5dzB |message: [batas min :10000.00]
+INFO - 2018-12-06 11:50:42 --> Action: result |API|bEUP7R8aYN5dzB |message: [batas max :1000000.00]
+INFO - 2018-12-06 11:50:42 --> Action: check saldo |API|bEUP7R8aYN5dzB |message: [101]
+INFO - 2018-12-06 11:50:42 --> Action: check saldo |API|bEUP7R8aYN5dzB |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 11:50:42 --> Action: inquiry |API|bEUP7R8aYN5dzB |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 11:50:42 --> Action: inquiry |API|bEUP7R8aYN5dzB |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001142[regencycode] => JKT)
+INFO - 2018-12-06 11:50:42 --> Action: inquiry |API|bEUP7R8aYN5dzB |message: [response req : {"status":"97","message":"IP unregistered"}]
+INFO - 2018-12-06 11:50:42 --> Action: response |API|bEUP7R8aYN5dzB |message: [gateway error]
+INFO - 2018-12-06 11:50:42 --> Final output sent to browser
+DEBUG - 2018-12-06 11:50:42 --> Total execution time: 0.2944
+INFO - 2018-12-06 05:52:55 --> Config Class Initialized
+INFO - 2018-12-06 05:52:55 --> Hooks Class Initialized
+DEBUG - 2018-12-06 05:52:55 --> UTF-8 Support Enabled
+INFO - 2018-12-06 05:52:55 --> Utf8 Class Initialized
+INFO - 2018-12-06 05:52:55 --> URI Class Initialized
+INFO - 2018-12-06 05:52:55 --> Router Class Initialized
+INFO - 2018-12-06 05:52:55 --> Output Class Initialized
+INFO - 2018-12-06 05:52:55 --> Security Class Initialized
+DEBUG - 2018-12-06 05:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 05:52:55 --> Input Class Initialized
+INFO - 2018-12-06 05:52:55 --> Language Class Initialized
+INFO - 2018-12-06 05:52:55 --> Language Class Initialized
+INFO - 2018-12-06 05:52:55 --> Config Class Initialized
+INFO - 2018-12-06 05:52:55 --> Loader Class Initialized
+DEBUG - 2018-12-06 05:52:55 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 05:52:55 --> Helper loaded: url_helper
+INFO - 2018-12-06 05:52:55 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 05:52:55 --> Helper loaded: string_helper
+INFO - 2018-12-06 05:52:55 --> Helper loaded: array_helper
+INFO - 2018-12-06 05:52:55 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 05:52:55 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 05:52:55 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 05:52:55 --> Email Class Initialized
+INFO - 2018-12-06 05:52:55 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 05:52:55 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 05:52:55 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 05:52:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 05:52:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Helper loaded: date_helper
+INFO - 2018-12-06 05:52:55 --> User Agent Class Initialized
+DEBUG - 2018-12-06 05:52:55 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:52:55 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Model Class Initialized
+INFO - 2018-12-06 05:52:55 --> Controller Class Initialized
+DEBUG - 2018-12-06 05:52:55 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 05:52:55 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:52:55 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 05:52:55 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 05:52:55 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 05:52:55 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 05:52:55 --> Database Driver Class Initialized
+INFO - 2018-12-06 11:52:55 --> Action: begin|API|2YaXrRwWyx1NkS[::1] 
+INFO - 2018-12-06 11:52:55 --> Action: receiver |API|2YaXrRwWyx1NkS ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544071975)
+INFO - 2018-12-06 11:52:55 --> Action: select |API|2YaXrRwWyx1NkS |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 11:52:55 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 11:52:55 --> Action: check cost adm |API|2YaXrRwWyx1NkS |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 11:52:55 --> Action: result |API|2YaXrRwWyx1NkS |message: [batas min :10000.00]
+INFO - 2018-12-06 11:52:55 --> Action: result |API|2YaXrRwWyx1NkS |message: [batas max :1000000.00]
+INFO - 2018-12-06 11:52:55 --> Action: check saldo |API|2YaXrRwWyx1NkS |message: [101]
+INFO - 2018-12-06 11:52:55 --> Action: check saldo |API|2YaXrRwWyx1NkS |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 11:52:55 --> Action: inquiry |API|2YaXrRwWyx1NkS |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 11:52:55 --> Action: inquiry |API|2YaXrRwWyx1NkS |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001155[regencycode] => JKT)
+INFO - 2018-12-06 11:52:56 --> Action: inquiry |API|2YaXrRwWyx1NkS |message: [response req : {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066869"}]
+DEBUG - 2018-12-06 11:52:56 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 11:52:56 --> Action: insert |API|2YaXrRwWyx1NkS |message: [Tab_model->Ins_Tbl->transfer_ses_e] ---|data: Array([status] => 1[errorcode] => 100[message] => OK[sender_no_rekening] => 35.01.007925[sender_nama_nasabah] => SAPTADI NURFARID QQ PT.INDOSIS[sender_kode_bank] => 106/BMT EL SEJAHTERA[receiver_no_rekening] => 1030094542103[receiver_nama_nasabah] => SAPTADI NURFARID[receiver_kode_bank] => 008/BANK MANDIRI[nominal] => 10.000,00[adm] => 10.000,00[total] => 20.000,00[code] => 1021812061152n20lo1YNxt9JeHuUKa6W)
+INFO - 2018-12-06 11:52:56 --> Action: response |API|2YaXrRwWyx1NkS |message: [Success] ---|data: Array([agent_id] => 102[rekening_sender] => 35.01.007925[kode_bank_sender] => 106[nama_sender] => SAPTADI NURFARID QQ PT.INDOSIS[alamat_sender] => [rekening_receiver] => 1030094542103[kode_bank_receiver] => 008[nama_receiver] => SAPTADI NURFARID[kode_transfer] => 101[nominal] => 10000[cost_adm] => 7000.00[total] => 17000[status] => 1[ip] => ::1[usr_agent] => PostmanRuntime/7.4.0[code_transfer] => 1021812061152n20lo1YNxt9JeHuUKa6W[master_id_sender] => [tarif_code] => [proses_type] => inquiry[respon_json] => {"status":true,"errorcode":"100","message":"OK","sender_no_rekening":"35.01.007925","sender_nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","sender_kode_bank":"106\/BMT EL SEJAHTERA","receiver_no_rekening":"1030094542103","receiver_nama_nasabah":"SAPTADI NURFARID","receiver_kode_bank":"008\/BANK MANDIRI","nominal":"10.000,00","adm":"10.000,00","total":"20.000,00","code":"1021812061152n20lo1YNxt9JeHuUKa6W"}[mesg_desc_sys] => OK[d_response] => {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066869"}[d_acc_no] => 0001130014400143[d_acc_name] => AMT/999/SAPTADI NURFARID QQ [d_transaction_id] => 21812066869[cost_adm_bmt] => 21812066869)
+INFO - 2018-12-06 11:52:56 --> Final output sent to browser
+DEBUG - 2018-12-06 11:52:56 --> Total execution time: 0.7658
+INFO - 2018-12-06 05:53:54 --> Config Class Initialized
+INFO - 2018-12-06 05:53:54 --> Hooks Class Initialized
+DEBUG - 2018-12-06 05:53:54 --> UTF-8 Support Enabled
+INFO - 2018-12-06 05:53:54 --> Utf8 Class Initialized
+INFO - 2018-12-06 05:53:54 --> URI Class Initialized
+INFO - 2018-12-06 05:53:54 --> Router Class Initialized
+INFO - 2018-12-06 05:53:54 --> Output Class Initialized
+INFO - 2018-12-06 05:53:54 --> Security Class Initialized
+DEBUG - 2018-12-06 05:53:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 05:53:54 --> Input Class Initialized
+INFO - 2018-12-06 05:53:54 --> Language Class Initialized
+INFO - 2018-12-06 05:53:54 --> Language Class Initialized
+INFO - 2018-12-06 05:53:54 --> Config Class Initialized
+INFO - 2018-12-06 05:53:54 --> Loader Class Initialized
+DEBUG - 2018-12-06 05:53:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 05:53:54 --> Helper loaded: url_helper
+INFO - 2018-12-06 05:53:54 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 05:53:54 --> Helper loaded: string_helper
+INFO - 2018-12-06 05:53:54 --> Helper loaded: array_helper
+INFO - 2018-12-06 05:53:54 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 05:53:54 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 05:53:54 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 05:53:54 --> Email Class Initialized
+INFO - 2018-12-06 05:53:54 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 05:53:54 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 05:53:54 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 05:53:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 05:53:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Helper loaded: date_helper
+INFO - 2018-12-06 05:53:54 --> User Agent Class Initialized
+DEBUG - 2018-12-06 05:53:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:53:54 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Model Class Initialized
+INFO - 2018-12-06 05:53:54 --> Controller Class Initialized
+DEBUG - 2018-12-06 05:53:54 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 05:53:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:53:54 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 05:53:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 05:53:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 05:53:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 05:53:54 --> Database Driver Class Initialized
+INFO - 2018-12-06 11:53:54 --> Action: begin|API|5XmKBpMHST9WI4[::1] 
+INFO - 2018-12-06 11:53:54 --> Action: receiver |API|5XmKBpMHST9WI4 ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544072034)
+INFO - 2018-12-06 11:53:54 --> Action: select |API|5XmKBpMHST9WI4 |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 11:53:54 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 11:53:54 --> Action: check cost adm |API|5XmKBpMHST9WI4 |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 11:53:54 --> Action: result |API|5XmKBpMHST9WI4 |message: [batas min :10000.00]
+INFO - 2018-12-06 11:53:54 --> Action: result |API|5XmKBpMHST9WI4 |message: [batas max :1000000.00]
+INFO - 2018-12-06 11:53:54 --> Action: check saldo |API|5XmKBpMHST9WI4 |message: [101]
+INFO - 2018-12-06 11:53:54 --> Action: check saldo |API|5XmKBpMHST9WI4 |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 11:53:54 --> Action: inquiry |API|5XmKBpMHST9WI4 |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 11:53:54 --> Action: inquiry |API|5XmKBpMHST9WI4 |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001154[regencycode] => JKT)
+INFO - 2018-12-06 11:53:55 --> Action: inquiry |API|5XmKBpMHST9WI4 |message: [response req : {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066871"}]
+DEBUG - 2018-12-06 11:53:55 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 11:53:55 --> Action: insert |API|5XmKBpMHST9WI4 |message: [Tab_model->Ins_Tbl->transfer_ses_e] ---|data: Array([status] => 1[errorcode] => 100[message] => OK[sender_no_rekening] => 35.01.007925[sender_nama_nasabah] => SAPTADI NURFARID QQ PT.INDOSIS[sender_kode_bank] => BMT EL SEJAHTERA[receiver_no_rekening] => 1030094542103[receiver_nama_nasabah] => SAPTADI NURFARID[receiver_kode_bank] => 008/BANK MANDIRI[nominal] => 10.000,00[adm] => 10.000,00[total] => 20.000,00[code] => 1021812061153xiV39qvYuP5UWe2zraMc)
+INFO - 2018-12-06 11:53:55 --> Action: response |API|5XmKBpMHST9WI4 |message: [Success] ---|data: Array([agent_id] => 102[rekening_sender] => 35.01.007925[kode_bank_sender] => 106[nama_sender] => SAPTADI NURFARID QQ PT.INDOSIS[alamat_sender] => [rekening_receiver] => 1030094542103[kode_bank_receiver] => 008[nama_receiver] => SAPTADI NURFARID[kode_transfer] => 101[nominal] => 10000[cost_adm] => 7000.00[total] => 17000[status] => 1[ip] => ::1[usr_agent] => PostmanRuntime/7.4.0[code_transfer] => 1021812061153xiV39qvYuP5UWe2zraMc[master_id_sender] => [tarif_code] => [proses_type] => inquiry[respon_json] => {"status":true,"errorcode":"100","message":"OK","sender_no_rekening":"35.01.007925","sender_nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","sender_kode_bank":"BMT EL SEJAHTERA","receiver_no_rekening":"1030094542103","receiver_nama_nasabah":"SAPTADI NURFARID","receiver_kode_bank":"008\/BANK MANDIRI","nominal":"10.000,00","adm":"10.000,00","total":"20.000,00","code":"1021812061153xiV39qvYuP5UWe2zraMc"}[mesg_desc_sys] => OK[d_response] => {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066871"}[d_acc_no] => 0001130014400143[d_acc_name] => AMT/999/SAPTADI NURFARID QQ [d_transaction_id] => 21812066871[cost_adm_bmt] => 21812066871)
+INFO - 2018-12-06 11:53:55 --> Final output sent to browser
+DEBUG - 2018-12-06 11:53:55 --> Total execution time: 1.0273
+INFO - 2018-12-06 05:56:05 --> Config Class Initialized
+INFO - 2018-12-06 05:56:05 --> Hooks Class Initialized
+DEBUG - 2018-12-06 05:56:05 --> UTF-8 Support Enabled
+INFO - 2018-12-06 05:56:05 --> Utf8 Class Initialized
+INFO - 2018-12-06 05:56:05 --> URI Class Initialized
+INFO - 2018-12-06 05:56:05 --> Router Class Initialized
+INFO - 2018-12-06 05:56:05 --> Output Class Initialized
+INFO - 2018-12-06 05:56:05 --> Security Class Initialized
+DEBUG - 2018-12-06 05:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 05:56:05 --> Input Class Initialized
+INFO - 2018-12-06 05:56:05 --> Language Class Initialized
+INFO - 2018-12-06 05:56:05 --> Language Class Initialized
+INFO - 2018-12-06 05:56:05 --> Config Class Initialized
+INFO - 2018-12-06 05:56:05 --> Loader Class Initialized
+DEBUG - 2018-12-06 05:56:05 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 05:56:05 --> Helper loaded: url_helper
+INFO - 2018-12-06 05:56:05 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 05:56:05 --> Helper loaded: string_helper
+INFO - 2018-12-06 05:56:05 --> Helper loaded: array_helper
+INFO - 2018-12-06 05:56:05 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 05:56:05 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 05:56:05 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 05:56:05 --> Email Class Initialized
+INFO - 2018-12-06 05:56:05 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 05:56:05 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 05:56:05 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 05:56:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 05:56:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Helper loaded: date_helper
+INFO - 2018-12-06 05:56:05 --> User Agent Class Initialized
+DEBUG - 2018-12-06 05:56:05 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:56:05 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:05 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Model Class Initialized
+INFO - 2018-12-06 05:56:06 --> Controller Class Initialized
+DEBUG - 2018-12-06 05:56:06 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 05:56:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 05:56:06 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 05:56:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 05:56:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 05:56:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 05:56:06 --> Database Driver Class Initialized
+INFO - 2018-12-06 11:56:06 --> Action: begin|API|XKpoINtDTwEuMa[::1] 
+INFO - 2018-12-06 11:56:06 --> Action: receiver |API|XKpoINtDTwEuMa ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544072166)
+INFO - 2018-12-06 11:56:06 --> Action: select |API|XKpoINtDTwEuMa |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 11:56:06 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 11:56:06 --> Action: check cost adm |API|XKpoINtDTwEuMa |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 11:56:06 --> Action: result |API|XKpoINtDTwEuMa |message: [batas min :10000.00]
+INFO - 2018-12-06 11:56:06 --> Action: result |API|XKpoINtDTwEuMa |message: [batas max :1000000.00]
+INFO - 2018-12-06 11:56:06 --> Action: check saldo |API|XKpoINtDTwEuMa |message: [101]
+INFO - 2018-12-06 11:56:06 --> Action: check saldo |API|XKpoINtDTwEuMa |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 11:56:06 --> Action: inquiry |API|XKpoINtDTwEuMa |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 11:56:06 --> Action: inquiry |API|XKpoINtDTwEuMa |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001106[regencycode] => JKT)
+INFO - 2018-12-06 11:56:06 --> Action: inquiry |API|XKpoINtDTwEuMa |message: [response req : {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066873"}]
+DEBUG - 2018-12-06 11:56:06 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 11:56:06 --> Action: insert |API|XKpoINtDTwEuMa |message: [Tab_model->Ins_Tbl->transfer_ses_e] ---|data: Array([status] => 1[errorcode] => 100[message] => OK[sender_no_rekening] => 35.01.007925[sender_nama_nasabah] => SAPTADI NURFARID QQ PT.INDOSIS[sender_kode_bank] => BMT EL SEJAHTERA[receiver_no_rekening] => 1030094542103[receiver_nama_nasabah] => SAPTADI NURFARID[receiver_kode_bank] => 008/BANK MANDIRI[nominal] => 10.000,00[adm] => 10.000,00[total] => 20.000,00[code] => 10218120611567QHUisgMF0VxCa3LpRS9)
+INFO - 2018-12-06 11:56:06 --> Action: response |API|XKpoINtDTwEuMa |message: [Success] ---|data: Array([agent_id] => 102[rekening_sender] => 35.01.007925[kode_bank_sender] => 106[nama_sender] => SAPTADI NURFARID QQ PT.INDOSIS[alamat_sender] => [rekening_receiver] => 1030094542103[kode_bank_receiver] => 008[nama_receiver] => SAPTADI NURFARID[kode_transfer] => 101[nominal] => 10000[cost_adm] => 7000.00[total] => 17000[status] => 1[ip] => ::1[usr_agent] => PostmanRuntime/7.4.0[code_transfer] => 10218120611567QHUisgMF0VxCa3LpRS9[master_id_sender] => [tarif_code] => [proses_type] => inquiry[respon_json] => {"status":true,"errorcode":"100","message":"OK","sender_no_rekening":"35.01.007925","sender_nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","sender_kode_bank":"BMT EL SEJAHTERA","receiver_no_rekening":"1030094542103","receiver_nama_nasabah":"SAPTADI NURFARID","receiver_kode_bank":"008\/BANK MANDIRI","nominal":"10.000,00","adm":"10.000,00","total":"20.000,00","code":"10218120611567QHUisgMF0VxCa3LpRS9"}[mesg_desc_sys] => OK[d_response] => {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066873"}[d_acc_no] => 0001130014400143[d_acc_name] => AMT/999/SAPTADI NURFARID QQ [d_transaction_id] => 21812066873[cost_adm_bmt] => 3000)
+INFO - 2018-12-06 11:56:06 --> Final output sent to browser
+DEBUG - 2018-12-06 11:56:06 --> Total execution time: 0.9685
+INFO - 2018-12-06 07:53:06 --> Config Class Initialized
+INFO - 2018-12-06 07:53:06 --> Hooks Class Initialized
+DEBUG - 2018-12-06 07:53:06 --> UTF-8 Support Enabled
+INFO - 2018-12-06 07:53:06 --> Utf8 Class Initialized
+INFO - 2018-12-06 07:53:06 --> URI Class Initialized
+INFO - 2018-12-06 07:53:06 --> Router Class Initialized
+INFO - 2018-12-06 07:53:06 --> Output Class Initialized
+INFO - 2018-12-06 07:53:06 --> Security Class Initialized
+DEBUG - 2018-12-06 07:53:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 07:53:06 --> Input Class Initialized
+INFO - 2018-12-06 07:53:06 --> Language Class Initialized
+INFO - 2018-12-06 07:53:06 --> Language Class Initialized
+INFO - 2018-12-06 07:53:06 --> Config Class Initialized
+INFO - 2018-12-06 07:53:06 --> Loader Class Initialized
+DEBUG - 2018-12-06 07:53:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 07:53:06 --> Helper loaded: url_helper
+INFO - 2018-12-06 07:53:06 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 07:53:06 --> Helper loaded: string_helper
+INFO - 2018-12-06 07:53:06 --> Helper loaded: array_helper
+INFO - 2018-12-06 07:53:06 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 07:53:06 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 07:53:06 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 07:53:06 --> Email Class Initialized
+INFO - 2018-12-06 07:53:06 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 07:53:06 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 07:53:06 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 07:53:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 07:53:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Helper loaded: date_helper
+INFO - 2018-12-06 07:53:06 --> User Agent Class Initialized
+DEBUG - 2018-12-06 07:53:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 07:53:06 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Model Class Initialized
+INFO - 2018-12-06 07:53:06 --> Controller Class Initialized
+DEBUG - 2018-12-06 07:53:06 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 07:53:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 07:53:06 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 07:53:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 07:53:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 07:53:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 07:53:06 --> Database Driver Class Initialized
+INFO - 2018-12-06 13:53:06 --> Action: begin|API|yqb5djzXvHTKJI[::1] 
+INFO - 2018-12-06 13:53:06 --> Action: receiver |API|yqb5djzXvHTKJI ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544079186)
+INFO - 2018-12-06 13:53:06 --> Action: select |API|yqb5djzXvHTKJI |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00))
+ERROR - 2018-12-06 13:53:06 --> Severity: Notice --> Undefined property: stdClass::$adm_bmt C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Transfer.php 456
+INFO - 2018-12-06 13:53:06 --> Action: check cost adm |API|yqb5djzXvHTKJI |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 13:53:06 --> Action: result |API|yqb5djzXvHTKJI |message: [batas min :10000.00]
+INFO - 2018-12-06 13:53:06 --> Action: result |API|yqb5djzXvHTKJI |message: [batas max :1000000.00]
+INFO - 2018-12-06 13:53:06 --> Action: check saldo |API|yqb5djzXvHTKJI |message: [101]
+INFO - 2018-12-06 13:53:06 --> Action: check saldo |API|yqb5djzXvHTKJI |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 13:53:06 --> Action: inquiry |API|yqb5djzXvHTKJI |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 13:53:06 --> Action: inquiry |API|yqb5djzXvHTKJI |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001306[regencycode] => JKT)
+INFO - 2018-12-06 13:53:07 --> Action: inquiry |API|yqb5djzXvHTKJI |message: [response req : {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066897"}]
+DEBUG - 2018-12-06 13:53:07 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 13:53:07 --> Action: insert |API|yqb5djzXvHTKJI |message: [Tab_model->Ins_Tbl->transfer_ses_e] ---|data: Array([status] => 1[errorcode] => 100[message] => OK[sender_no_rekening] => 35.01.007925[sender_nama_nasabah] => SAPTADI NURFARID QQ PT.INDOSIS[sender_kode_bank] => BMT EL SEJAHTERA[receiver_no_rekening] => 1030094542103[receiver_nama_nasabah] => SAPTADI NURFARID[receiver_kode_bank] => 008/BANK MANDIRI[nominal] => 10.000,00[adm] => 10.000,00[total] => 20.000,00[code] => 1021812061353WFKPnSD4zxHrkMV9Nu0A)
+INFO - 2018-12-06 13:53:07 --> Action: response |API|yqb5djzXvHTKJI |message: [Success] ---|data: Array([agent_id] => 102[rekening_sender] => 35.01.007925[kode_bank_sender] => 106[nama_sender] => SAPTADI NURFARID QQ PT.INDOSIS[alamat_sender] => [rekening_receiver] => 1030094542103[kode_bank_receiver] => 008[nama_receiver] => SAPTADI NURFARID[kode_transfer] => 101[nominal] => 10000[cost_adm] => 7000.00[total] => 17000[status] => 1[ip] => ::1[usr_agent] => PostmanRuntime/7.4.0[code_transfer] => 1021812061353WFKPnSD4zxHrkMV9Nu0A[master_id_sender] => [tarif_code] => [proses_type] => inquiry[respon_json] => {"status":true,"errorcode":"100","message":"OK","sender_no_rekening":"35.01.007925","sender_nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","sender_kode_bank":"BMT EL SEJAHTERA","receiver_no_rekening":"1030094542103","receiver_nama_nasabah":"SAPTADI NURFARID","receiver_kode_bank":"008\/BANK MANDIRI","nominal":"10.000,00","adm":"10.000,00","total":"20.000,00","code":"1021812061353WFKPnSD4zxHrkMV9Nu0A"}[mesg_desc_sys] => OK[d_response] => {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066897"}[d_acc_no] => 0001130014400143[d_acc_name] => AMT/999/SAPTADI NURFARID QQ [d_transaction_id] => 21812066897[cost_adm_bmt] => 3000)
+INFO - 2018-12-06 13:53:07 --> Final output sent to browser
+DEBUG - 2018-12-06 13:53:07 --> Total execution time: 0.8621
+INFO - 2018-12-06 07:56:49 --> Config Class Initialized
+INFO - 2018-12-06 07:56:49 --> Hooks Class Initialized
+DEBUG - 2018-12-06 07:56:49 --> UTF-8 Support Enabled
+INFO - 2018-12-06 07:56:49 --> Utf8 Class Initialized
+INFO - 2018-12-06 07:56:49 --> URI Class Initialized
+INFO - 2018-12-06 07:56:49 --> Router Class Initialized
+INFO - 2018-12-06 07:56:49 --> Output Class Initialized
+INFO - 2018-12-06 07:56:49 --> Security Class Initialized
+DEBUG - 2018-12-06 07:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 07:56:49 --> Input Class Initialized
+INFO - 2018-12-06 07:56:49 --> Language Class Initialized
+INFO - 2018-12-06 07:56:49 --> Language Class Initialized
+INFO - 2018-12-06 07:56:49 --> Config Class Initialized
+INFO - 2018-12-06 07:56:49 --> Loader Class Initialized
+DEBUG - 2018-12-06 07:56:49 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 07:56:49 --> Helper loaded: url_helper
+INFO - 2018-12-06 07:56:49 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 07:56:49 --> Helper loaded: string_helper
+INFO - 2018-12-06 07:56:49 --> Helper loaded: array_helper
+INFO - 2018-12-06 07:56:49 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 07:56:49 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 07:56:49 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 07:56:49 --> Email Class Initialized
+INFO - 2018-12-06 07:56:49 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 07:56:49 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 07:56:49 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 07:56:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 07:56:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Helper loaded: date_helper
+INFO - 2018-12-06 07:56:49 --> User Agent Class Initialized
+DEBUG - 2018-12-06 07:56:49 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 07:56:49 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Model Class Initialized
+INFO - 2018-12-06 07:56:49 --> Controller Class Initialized
+DEBUG - 2018-12-06 07:56:49 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 07:56:49 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 07:56:49 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 07:56:49 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 07:56:49 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 07:56:49 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 07:56:49 --> Database Driver Class Initialized
+INFO - 2018-12-06 13:56:49 --> Action: begin|API|tdlJxYGPCpbKa7[::1] 
+INFO - 2018-12-06 13:56:49 --> Action: receiver |API|tdlJxYGPCpbKa7 ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544079409)
+INFO - 2018-12-06 13:56:49 --> Action: select |API|tdlJxYGPCpbKa7 |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00[adm_bmt] => 3000))
+INFO - 2018-12-06 13:56:49 --> Action: check cost adm |API|tdlJxYGPCpbKa7 |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 13:56:49 --> Action: result |API|tdlJxYGPCpbKa7 |message: [batas min :10000.00]
+INFO - 2018-12-06 13:56:49 --> Action: result |API|tdlJxYGPCpbKa7 |message: [batas max :1000000.00]
+INFO - 2018-12-06 13:56:49 --> Action: check saldo |API|tdlJxYGPCpbKa7 |message: [101]
+INFO - 2018-12-06 13:56:49 --> Action: check saldo |API|tdlJxYGPCpbKa7 |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 13:56:49 --> Action: inquiry |API|tdlJxYGPCpbKa7 |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 13:56:49 --> Action: inquiry |API|tdlJxYGPCpbKa7 |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001349[regencycode] => JKT)
+INFO - 2018-12-06 13:56:50 --> Action: inquiry |API|tdlJxYGPCpbKa7 |message: [response req : {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066899"}]
+DEBUG - 2018-12-06 13:56:50 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 13:56:50 --> Action: insert |API|tdlJxYGPCpbKa7 |message: [Tab_model->Ins_Tbl->transfer_ses_e] ---|data: Array([status] => 1[errorcode] => 100[message] => OK[sender_no_rekening] => 35.01.007925[sender_nama_nasabah] => SAPTADI NURFARID QQ PT.INDOSIS[sender_kode_bank] => BMT EL SEJAHTERA[receiver_no_rekening] => 1030094542103[receiver_nama_nasabah] => SAPTADI NURFARID[receiver_kode_bank] => 008/BANK MANDIRI[nominal] => 10.000,00[adm] => 10.000,00[total] => 20.000,00[code] => 1021812061356IpBnbVKQfiRvCgjkMDEs)
+INFO - 2018-12-06 13:56:50 --> Action: response |API|tdlJxYGPCpbKa7 |message: [Success] ---|data: Array([agent_id] => 102[rekening_sender] => 35.01.007925[kode_bank_sender] => 106[nama_sender] => SAPTADI NURFARID QQ PT.INDOSIS[alamat_sender] => [rekening_receiver] => 1030094542103[kode_bank_receiver] => 008[nama_receiver] => SAPTADI NURFARID[kode_transfer] => 101[nominal] => 10000[cost_adm] => 7000.00[total] => 17000[status] => 1[ip] => ::1[usr_agent] => PostmanRuntime/7.4.0[code_transfer] => 1021812061356IpBnbVKQfiRvCgjkMDEs[master_id_sender] => [tarif_code] => [proses_type] => inquiry[respon_json] => {"status":true,"errorcode":"100","message":"OK","sender_no_rekening":"35.01.007925","sender_nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","sender_kode_bank":"BMT EL SEJAHTERA","receiver_no_rekening":"1030094542103","receiver_nama_nasabah":"SAPTADI NURFARID","receiver_kode_bank":"008\/BANK MANDIRI","nominal":"10.000,00","adm":"10.000,00","total":"20.000,00","code":"1021812061356IpBnbVKQfiRvCgjkMDEs"}[mesg_desc_sys] => OK[d_response] => {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066899"}[d_acc_no] => 0001130014400143[d_acc_name] => AMT/999/SAPTADI NURFARID QQ [d_transaction_id] => 21812066899[cost_adm_bmt] => 3000)
+INFO - 2018-12-06 13:56:50 --> Final output sent to browser
+DEBUG - 2018-12-06 13:56:50 --> Total execution time: 0.8173
+INFO - 2018-12-06 07:59:56 --> Config Class Initialized
+INFO - 2018-12-06 07:59:56 --> Hooks Class Initialized
+DEBUG - 2018-12-06 07:59:56 --> UTF-8 Support Enabled
+INFO - 2018-12-06 07:59:56 --> Utf8 Class Initialized
+INFO - 2018-12-06 07:59:56 --> URI Class Initialized
+INFO - 2018-12-06 07:59:56 --> Router Class Initialized
+INFO - 2018-12-06 07:59:56 --> Output Class Initialized
+INFO - 2018-12-06 07:59:56 --> Security Class Initialized
+DEBUG - 2018-12-06 07:59:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 07:59:56 --> Input Class Initialized
+INFO - 2018-12-06 07:59:56 --> Language Class Initialized
+INFO - 2018-12-06 07:59:56 --> Language Class Initialized
+INFO - 2018-12-06 07:59:56 --> Config Class Initialized
+INFO - 2018-12-06 07:59:56 --> Loader Class Initialized
+DEBUG - 2018-12-06 07:59:56 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 07:59:56 --> Helper loaded: url_helper
+INFO - 2018-12-06 07:59:56 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 07:59:56 --> Helper loaded: string_helper
+INFO - 2018-12-06 07:59:56 --> Helper loaded: array_helper
+INFO - 2018-12-06 07:59:56 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 07:59:56 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 07:59:56 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 07:59:56 --> Email Class Initialized
+INFO - 2018-12-06 07:59:56 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 07:59:56 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 07:59:56 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 07:59:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 07:59:56 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 07:59:56 --> Model Class Initialized
+INFO - 2018-12-06 07:59:56 --> Helper loaded: date_helper
+INFO - 2018-12-06 07:59:56 --> User Agent Class Initialized
+DEBUG - 2018-12-06 07:59:56 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 07:59:56 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 07:59:56 --> Model Class Initialized
+INFO - 2018-12-06 07:59:56 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Model Class Initialized
+INFO - 2018-12-06 07:59:57 --> Controller Class Initialized
+DEBUG - 2018-12-06 07:59:57 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 07:59:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 07:59:57 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 07:59:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 07:59:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 07:59:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 07:59:57 --> Database Driver Class Initialized
+INFO - 2018-12-06 13:59:57 --> Action: begin|API|2QhAT9WIilRNgu[::1] 
+INFO - 2018-12-06 13:59:57 --> Action: receiver |API|2QhAT9WIilRNgu ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544079597)
+INFO - 2018-12-06 13:59:57 --> Action: select |API|2QhAT9WIilRNgu |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00[adm_bmt] => 3000))
+INFO - 2018-12-06 13:59:57 --> Action: check cost adm |API|2QhAT9WIilRNgu |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 13:59:57 --> Action: result |API|2QhAT9WIilRNgu |message: [batas min :10000.00]
+INFO - 2018-12-06 13:59:57 --> Action: result |API|2QhAT9WIilRNgu |message: [batas max :1000000.00]
+INFO - 2018-12-06 13:59:57 --> Action: check saldo |API|2QhAT9WIilRNgu |message: [101]
+INFO - 2018-12-06 13:59:57 --> Action: check saldo |API|2QhAT9WIilRNgu |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 13:59:57 --> Action: inquiry |API|2QhAT9WIilRNgu |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 13:59:57 --> Action: inquiry |API|2QhAT9WIilRNgu |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001357[regencycode] => JKT)
+INFO - 2018-12-06 14:00:18 --> Action: inquiry |API|2QhAT9WIilRNgu |message: [response req : ]
+INFO - 2018-12-06 14:00:18 --> Action: check saldo |API|2QhAT9WIilRNgu |message: [invalid artajasa]
+INFO - 2018-12-06 14:00:18 --> Final output sent to browser
+DEBUG - 2018-12-06 14:00:18 --> Total execution time: 21.4470
+INFO - 2018-12-06 08:00:49 --> Config Class Initialized
+INFO - 2018-12-06 08:00:49 --> Hooks Class Initialized
+DEBUG - 2018-12-06 08:00:49 --> UTF-8 Support Enabled
+INFO - 2018-12-06 08:00:49 --> Utf8 Class Initialized
+INFO - 2018-12-06 08:00:50 --> URI Class Initialized
+INFO - 2018-12-06 08:00:50 --> Router Class Initialized
+INFO - 2018-12-06 08:00:50 --> Output Class Initialized
+INFO - 2018-12-06 08:00:50 --> Security Class Initialized
+DEBUG - 2018-12-06 08:00:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 08:00:50 --> Input Class Initialized
+INFO - 2018-12-06 08:00:50 --> Language Class Initialized
+INFO - 2018-12-06 08:00:50 --> Language Class Initialized
+INFO - 2018-12-06 08:00:50 --> Config Class Initialized
+INFO - 2018-12-06 08:00:50 --> Loader Class Initialized
+DEBUG - 2018-12-06 08:00:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 08:00:50 --> Helper loaded: url_helper
+INFO - 2018-12-06 08:00:50 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 08:00:50 --> Helper loaded: string_helper
+INFO - 2018-12-06 08:00:50 --> Helper loaded: array_helper
+INFO - 2018-12-06 08:00:50 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 08:00:50 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 08:00:50 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 08:00:50 --> Email Class Initialized
+INFO - 2018-12-06 08:00:50 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 08:00:50 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 08:00:50 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 08:00:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 08:00:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Helper loaded: date_helper
+INFO - 2018-12-06 08:00:50 --> User Agent Class Initialized
+DEBUG - 2018-12-06 08:00:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 08:00:50 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Model Class Initialized
+INFO - 2018-12-06 08:00:50 --> Controller Class Initialized
+DEBUG - 2018-12-06 08:00:50 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 08:00:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 08:00:50 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 08:00:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 08:00:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 08:00:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 08:00:50 --> Database Driver Class Initialized
+INFO - 2018-12-06 14:00:50 --> Action: begin|API|YQ7Jfik3G8lxVC[::1] 
+INFO - 2018-12-06 14:00:50 --> Action: receiver |API|YQ7Jfik3G8lxVC ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544079650)
+INFO - 2018-12-06 14:00:50 --> Action: select |API|YQ7Jfik3G8lxVC |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00[adm_bmt] => 3000))
+INFO - 2018-12-06 14:00:50 --> Action: check cost adm |API|YQ7Jfik3G8lxVC |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 14:00:50 --> Action: result |API|YQ7Jfik3G8lxVC |message: [batas min :10000.00]
+INFO - 2018-12-06 14:00:50 --> Action: result |API|YQ7Jfik3G8lxVC |message: [batas max :1000000.00]
+INFO - 2018-12-06 14:00:50 --> Action: check saldo |API|YQ7Jfik3G8lxVC |message: [101]
+INFO - 2018-12-06 14:00:50 --> Action: check saldo |API|YQ7Jfik3G8lxVC |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 14:00:50 --> Action: inquiry |API|YQ7Jfik3G8lxVC |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 14:00:50 --> Action: inquiry |API|YQ7Jfik3G8lxVC |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001450[regencycode] => JKT)
+INFO - 2018-12-06 14:01:11 --> Action: inquiry |API|YQ7Jfik3G8lxVC |message: [response req : ]
+INFO - 2018-12-06 14:01:11 --> Action: check saldo |API|YQ7Jfik3G8lxVC |message: [invalid artajasa]
+INFO - 2018-12-06 14:01:11 --> Final output sent to browser
+DEBUG - 2018-12-06 14:01:11 --> Total execution time: 21.4427
+INFO - 2018-12-06 08:02:50 --> Config Class Initialized
+INFO - 2018-12-06 08:02:50 --> Hooks Class Initialized
+DEBUG - 2018-12-06 08:02:50 --> UTF-8 Support Enabled
+INFO - 2018-12-06 08:02:50 --> Utf8 Class Initialized
+INFO - 2018-12-06 08:02:50 --> URI Class Initialized
+INFO - 2018-12-06 08:02:50 --> Router Class Initialized
+INFO - 2018-12-06 08:02:50 --> Output Class Initialized
+INFO - 2018-12-06 08:02:50 --> Security Class Initialized
+DEBUG - 2018-12-06 08:02:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-12-06 08:02:50 --> Input Class Initialized
+INFO - 2018-12-06 08:02:50 --> Language Class Initialized
+INFO - 2018-12-06 08:02:50 --> Language Class Initialized
+INFO - 2018-12-06 08:02:50 --> Config Class Initialized
+INFO - 2018-12-06 08:02:50 --> Loader Class Initialized
+DEBUG - 2018-12-06 08:02:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-12-06 08:02:50 --> Helper loaded: url_helper
+INFO - 2018-12-06 08:02:50 --> Helper loaded: inflector_helper
+INFO - 2018-12-06 08:02:50 --> Helper loaded: string_helper
+INFO - 2018-12-06 08:02:50 --> Helper loaded: array_helper
+INFO - 2018-12-06 08:02:50 --> Database Driver Class Initialized
+DEBUG - 2018-12-06 08:02:50 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-12-06 08:02:50 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-12-06 08:02:50 --> Email Class Initialized
+INFO - 2018-12-06 08:02:50 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-12-06 08:02:50 --> Helper loaded: cookie_helper
+INFO - 2018-12-06 08:02:50 --> Helper loaded: language_helper
+DEBUG - 2018-12-06 08:02:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-12-06 08:02:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Helper loaded: date_helper
+INFO - 2018-12-06 08:02:50 --> User Agent Class Initialized
+DEBUG - 2018-12-06 08:02:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 08:02:50 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Model Class Initialized
+INFO - 2018-12-06 08:02:50 --> Controller Class Initialized
+DEBUG - 2018-12-06 08:02:50 --> Transfer MX_Controller Initialized
+DEBUG - 2018-12-06 08:02:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-12-06 08:02:50 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-12-06 08:02:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-12-06 08:02:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-12-06 08:02:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-12-06 08:02:50 --> Database Driver Class Initialized
+INFO - 2018-12-06 14:02:50 --> Action: begin|API|KtxSNHAGDZQ4X6[::1] 
+INFO - 2018-12-06 14:02:50 --> Action: receiver |API|KtxSNHAGDZQ4X6 ---|data: Array([uri] => api/transfer/BmtKeBanklain_inquiry[method] => post[params] => a:5:{s:7:"agentid";s:3:"102";s:10:"rek_sender";s:12:"35.01.007925";s:12:"rek_receiver";s:13:"1030094542103";s:18:"kode_bank_receiver";s:3:"008";s:7:"nominal";s:5:"10000";}[api_key] => els3j4ht3r4[key_session] => [time] => 1544079770)
+INFO - 2018-12-06 14:02:50 --> Action: select |API|KtxSNHAGDZQ4X6 |message: [Trf_model->Model_transfer(101)] ---|data: Array([0] => stdClass Object([set_adm_default] => bydefault[adm_default] => 7000.00[set_limit] => YES[min_trf] => 10000.00[max_trf] => 1000000.00[adm_bmt] => 3000))
+INFO - 2018-12-06 14:02:50 --> Action: check cost adm |API|KtxSNHAGDZQ4X6 |message: [set by default] ---|data: Array([biaya adm] => 7000.00)
+INFO - 2018-12-06 14:02:50 --> Action: result |API|KtxSNHAGDZQ4X6 |message: [batas min :10000.00]
+INFO - 2018-12-06 14:02:50 --> Action: result |API|KtxSNHAGDZQ4X6 |message: [batas max :1000000.00]
+INFO - 2018-12-06 14:02:50 --> Action: check saldo |API|KtxSNHAGDZQ4X6 |message: [101]
+INFO - 2018-12-06 14:02:50 --> Action: check saldo |API|KtxSNHAGDZQ4X6 |message: [{"norekening":"35.01.007925","nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","alamat":"","saldo":"534913.00","status":true,"message":""}]
+INFO - 2018-12-06 14:02:50 --> Action: inquiry |API|KtxSNHAGDZQ4X6 |message: [parameter url : http://103.75.103.126/payment/gw/api/disbursement/inquiry]
+INFO - 2018-12-06 14:02:50 --> Action: inquiry |API|KtxSNHAGDZQ4X6 |message: [parameter req] ---|data: Array([acc_no] => 0014400143[acc_name] => 999/SAPTADI NURFARID QQ [dest_bank_code] => 008[dest_acc_no] => 1030094542103[amount] => 10000[terminal_id] => 100001[area_code] => 192[chaneltype] => 6010[refcust_number] => 10000001450[regencycode] => JKT)
+INFO - 2018-12-06 14:02:52 --> Action: inquiry |API|KtxSNHAGDZQ4X6 |message: [response req : {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066901"}]
+DEBUG - 2018-12-06 14:02:52 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-12-06 14:02:52 --> Action: insert |API|KtxSNHAGDZQ4X6 |message: [Tab_model->Ins_Tbl->transfer_ses_e] ---|data: Array([status] => 1[errorcode] => 100[message] => OK[sender_no_rekening] => 35.01.007925[sender_nama_nasabah] => SAPTADI NURFARID QQ PT.INDOSIS[sender_kode_bank] => BMT EL SEJAHTERA[receiver_no_rekening] => 1030094542103[receiver_nama_nasabah] => SAPTADI NURFARID[receiver_kode_bank] => 008/BANK MANDIRI[nominal] => 10.000,00[adm] => 10.000,00[total] => 20.000,00[code] => 1021812061402TgB24ImiXQ7DEOZonkCu)
+INFO - 2018-12-06 14:02:52 --> Action: response |API|KtxSNHAGDZQ4X6 |message: [Success] ---|data: Array([agent_id] => 102[rekening_sender] => 35.01.007925[kode_bank_sender] => 106[nama_sender] => SAPTADI NURFARID QQ PT.INDOSIS[alamat_sender] => [rekening_receiver] => 1030094542103[kode_bank_receiver] => 008[nama_receiver] => SAPTADI NURFARID[kode_transfer] => 101[nominal] => 10000[cost_adm] => 7000.00[total] => 20000[status] => 1[ip] => ::1[usr_agent] => PostmanRuntime/7.4.0[code_transfer] => 1021812061402TgB24ImiXQ7DEOZonkCu[master_id_sender] => [tarif_code] => [proses_type] => inquiry[respon_json] => {"status":true,"errorcode":"100","message":"OK","sender_no_rekening":"35.01.007925","sender_nama_nasabah":"SAPTADI NURFARID QQ PT.INDOSIS","sender_kode_bank":"BMT EL SEJAHTERA","receiver_no_rekening":"1030094542103","receiver_nama_nasabah":"SAPTADI NURFARID","receiver_kode_bank":"008\/BANK MANDIRI","nominal":"10.000,00","adm":"10.000,00","total":"20.000,00","code":"1021812061402TgB24ImiXQ7DEOZonkCu"}[mesg_desc_sys] => OK[d_response] => {"status":"00","message":"OK","acc_no":"0001130014400143","acc_name":"AMT\/999\/SAPTADI NURFARID QQ ","dest_bank_code":"008","dest_acc_no":"1030094542103","dest_acc_name":"SAPTADI NURFARID","amount":"10000","terminal_id":"100001","transaction_id":"21812066901"}[d_acc_no] => 0001130014400143[d_acc_name] => AMT/999/SAPTADI NURFARID QQ [d_transaction_id] => 21812066901[cost_adm_bmt] => 3000)
+INFO - 2018-12-06 14:02:52 --> Final output sent to browser
+DEBUG - 2018-12-06 14:02:52 --> Total execution time: 1.8353

@@ -1,0 +1,446 @@
+INFO - 2018-04-02 11:35:34 --> Config Class Initialized
+INFO - 2018-04-02 11:35:34 --> Hooks Class Initialized
+DEBUG - 2018-04-02 11:35:34 --> UTF-8 Support Enabled
+INFO - 2018-04-02 11:35:34 --> Utf8 Class Initialized
+INFO - 2018-04-02 11:35:34 --> URI Class Initialized
+INFO - 2018-04-02 11:35:34 --> Router Class Initialized
+INFO - 2018-04-02 11:35:34 --> Output Class Initialized
+INFO - 2018-04-02 11:35:34 --> Security Class Initialized
+DEBUG - 2018-04-02 11:35:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-02 11:35:34 --> Input Class Initialized
+INFO - 2018-04-02 11:35:34 --> Language Class Initialized
+INFO - 2018-04-02 11:35:34 --> Language Class Initialized
+INFO - 2018-04-02 11:35:34 --> Config Class Initialized
+INFO - 2018-04-02 11:35:34 --> Loader Class Initialized
+DEBUG - 2018-04-02 11:35:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-04-02 11:35:34 --> Helper loaded: url_helper
+INFO - 2018-04-02 11:35:34 --> Helper loaded: inflector_helper
+INFO - 2018-04-02 11:35:34 --> Helper loaded: string_helper
+INFO - 2018-04-02 11:35:34 --> Helper loaded: array_helper
+INFO - 2018-04-02 11:35:34 --> Database Driver Class Initialized
+DEBUG - 2018-04-02 11:35:35 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-04-02 11:35:35 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-04-02 11:35:35 --> Email Class Initialized
+INFO - 2018-04-02 11:35:35 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-02 11:35:35 --> Helper loaded: cookie_helper
+INFO - 2018-04-02 11:35:35 --> Helper loaded: language_helper
+DEBUG - 2018-04-02 11:35:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-02 11:35:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Helper loaded: date_helper
+INFO - 2018-04-02 11:35:36 --> User Agent Class Initialized
+DEBUG - 2018-04-02 11:35:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:35:36 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Model Class Initialized
+INFO - 2018-04-02 11:35:36 --> Controller Class Initialized
+DEBUG - 2018-04-02 11:35:36 --> Commerce MX_Controller Initialized
+DEBUG - 2018-04-02 11:35:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:35:36 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-04-02 11:35:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-04-02 11:35:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-04-02 11:35:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-04-02 11:35:36 --> Database Driver Class Initialized
+INFO - 2018-04-02 16:35:38 --> Action: begin|API|9PMbr4imKO3Zvf[::1] 
+INFO - 2018-04-02 16:35:38 --> Action: receiver |API|9PMbr4imKO3Zvf ---|data: Array([uri] => api/commerce/topup[method] => post[params] => a:5:{s:7:"agentid";s:3:"224";s:6:"msisdn";s:12:"081319292741";s:7:"paytype";s:7:"nasabah";s:6:"produk";s:3:"sn5";s:11:"no_rekening";s:12:"35.01.007925";}[api_key] => els3j4ht3r4[key_session] => [time] => 1522661738)
+INFO - 2018-04-02 16:35:38 --> Action: info |API|9PMbr4imKO3Zvf |message: [paytype by [nasabah]]
+INFO - 2018-04-02 16:35:38 --> Action: info |API|9PMbr4imKO3Zvf |message: [norekening (nasabah) =>35.01.007925]
+INFO - 2018-04-02 16:35:38 --> Action: transaction |API|9PMbr4imKO3Zvf |message: [get rekening partner :Tab_model->Acc_by_partnerid(INDOSIS_PRODUCTION)]
+INFO - 2018-04-02 16:35:38 --> Action: transaction |API|9PMbr4imKO3Zvf |message: [rek partner : 35.01.007946]
+INFO - 2018-04-02 16:35:38 --> Action: openhttp |API|9PMbr4imKO3Zvf |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000)
+INFO - 2018-04-02 16:35:59 --> Action: result |API|9PMbr4imKO3Zvf |message: [failed, response error third party] ---|data: Array([status] => [error_code] => 633[message] => error provider[sn] => [code] => )
+INFO - 2018-04-02 16:35:59 --> Final output sent to browser
+DEBUG - 2018-04-02 16:35:59 --> Total execution time: 25.6315
+INFO - 2018-04-02 11:37:28 --> Config Class Initialized
+INFO - 2018-04-02 11:37:28 --> Hooks Class Initialized
+DEBUG - 2018-04-02 11:37:28 --> UTF-8 Support Enabled
+INFO - 2018-04-02 11:37:28 --> Utf8 Class Initialized
+INFO - 2018-04-02 11:37:28 --> URI Class Initialized
+INFO - 2018-04-02 11:37:28 --> Router Class Initialized
+INFO - 2018-04-02 11:37:28 --> Output Class Initialized
+INFO - 2018-04-02 11:37:28 --> Security Class Initialized
+DEBUG - 2018-04-02 11:37:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-02 11:37:28 --> Input Class Initialized
+INFO - 2018-04-02 11:37:28 --> Language Class Initialized
+INFO - 2018-04-02 11:37:28 --> Language Class Initialized
+INFO - 2018-04-02 11:37:28 --> Config Class Initialized
+INFO - 2018-04-02 11:37:28 --> Loader Class Initialized
+DEBUG - 2018-04-02 11:37:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-04-02 11:37:28 --> Helper loaded: url_helper
+INFO - 2018-04-02 11:37:28 --> Helper loaded: inflector_helper
+INFO - 2018-04-02 11:37:28 --> Helper loaded: string_helper
+INFO - 2018-04-02 11:37:28 --> Helper loaded: array_helper
+INFO - 2018-04-02 11:37:28 --> Database Driver Class Initialized
+DEBUG - 2018-04-02 11:37:29 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-04-02 11:37:29 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-04-02 11:37:29 --> Email Class Initialized
+INFO - 2018-04-02 11:37:29 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-02 11:37:29 --> Helper loaded: cookie_helper
+INFO - 2018-04-02 11:37:29 --> Helper loaded: language_helper
+DEBUG - 2018-04-02 11:37:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-02 11:37:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Helper loaded: date_helper
+INFO - 2018-04-02 11:37:29 --> User Agent Class Initialized
+DEBUG - 2018-04-02 11:37:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:37:29 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Model Class Initialized
+INFO - 2018-04-02 11:37:29 --> Controller Class Initialized
+DEBUG - 2018-04-02 11:37:29 --> Commerce MX_Controller Initialized
+DEBUG - 2018-04-02 11:37:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:37:29 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-04-02 11:37:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-04-02 11:37:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-04-02 11:37:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-04-02 11:37:29 --> Database Driver Class Initialized
+INFO - 2018-04-02 16:37:30 --> Action: begin|API|QEH6igPB5raykL[::1] 
+INFO - 2018-04-02 16:37:30 --> Action: receiver |API|QEH6igPB5raykL ---|data: Array([uri] => api/commerce/topup[method] => post[params] => a:5:{s:7:"agentid";s:3:"224";s:6:"msisdn";s:12:"081319292741";s:7:"paytype";s:7:"nasabah";s:6:"produk";s:3:"sn5";s:11:"no_rekening";s:12:"35.01.007925";}[api_key] => els3j4ht3r4[key_session] => [time] => 1522661850)
+INFO - 2018-04-02 16:37:30 --> Action: info |API|QEH6igPB5raykL |message: [paytype by [nasabah]]
+INFO - 2018-04-02 16:37:30 --> Action: info |API|QEH6igPB5raykL |message: [norekening (nasabah) =>35.01.007925]
+INFO - 2018-04-02 16:37:30 --> Action: transaction |API|QEH6igPB5raykL |message: [get rekening partner :Tab_model->Acc_by_partnerid(INDOSIS_PRODUCTION)]
+INFO - 2018-04-02 16:37:30 --> Action: transaction |API|QEH6igPB5raykL |message: [rek partner : 35.01.007946]
+INFO - 2018-04-02 16:37:30 --> Action: openhttp |API|QEH6igPB5raykL |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000)
+INFO - 2018-04-02 16:37:30 --> Action: result |API|QEH6igPB5raykL |message: [response : {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}]
+INFO - 2018-04-02 16:37:30 --> Action: response |API|QEH6igPB5raykL |message: [harga mitra :5.675 - harga indosis : 5.395]
+INFO - 2018-04-02 16:37:30 --> Action: insert |API|QEH6igPB5raykL |message: [Tab_model->Ins_Tbl("com_pulsa_log")] ---|data: Array([request] => agentid=224&msisdn=081319292741&paytype=nasabah&produk=sn5&no_rekening=35.01.007925[ip_request] => ::1[msisdn] => 081319292741[product] => sn5[nominal] => PULSA[urlhit] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000[response] => {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}[res_status] => OK[res_code] => 00[res_message] => SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD[res_saldo] => 5273323[userid] => 224[trx_status] => topup[desc_trx] => hit topup 3party[provider] => sunreload[price_selling] => 7000.00[price_stok] => 6200.00[price_original] => 5675[price_fr_mitra] => 5675[res_sn] => 8040215515021180780[res_transid] => 628551000727[log_trace] => QEH6igPB5raykL)
+INFO - 2018-04-02 16:37:30 --> Action: insert |API|QEH6igPB5raykL |message: [resulrt,responcode [00] >> SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD]
+INFO - 2018-04-02 16:37:32 --> Action: insert |API|QEH6igPB5raykL |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5662941[TGL_TRANS] => 2018-04-02[NOCUSTOMER] => 081319292741[COMTYPE] => PULSA[MY_KODE_TRANS] => 100[KUITANSI] => 0402001[POKOK] => 7000.00[ADM] => 0.00[KETERANGAN] => Commerce TELKOMSEL 081319292741 7.000 SN:.8040215515021180780[VERIFIKASI] => 1[USERID] => 224[KODE_TRANS] => 102[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5662942)
+INFO - 2018-04-02 16:37:32 --> Action: insert |API|QEH6igPB5raykL |message: [partner : Tab_model->Tab_commerce(35.01.007925,081319292741,224,7000.00,227,200,5662941,,TARIK]
+INFO - 2018-04-02 16:37:44 --> Action: insert |API|QEH6igPB5raykL |message: [result : OK]
+INFO - 2018-04-02 16:37:44 --> Action: insert |API|QEH6igPB5raykL |message: [partner : Tab_model->Tab_commerce(35.01.007946,081319292741,224,7000.00,127,100,5662941,,SETOR]
+INFO - 2018-04-02 16:37:45 --> Action: insert |API|QEH6igPB5raykL |message: [result : OK]
+INFO - 2018-04-02 16:37:45 --> Action: update |API|QEH6igPB5raykL |message: [ADD POIN] ---|data: Array([tid] => 5662941[agent] => 224[kode] => 100[jenis] => COM[nilai] => 7000.00)
+INFO - 2018-04-02 16:37:45 --> Action: result |API|QEH6igPB5raykL |message: [success, running trasaction]
+INFO - 2018-04-02 16:37:45 --> Action: update |API|QEH6igPB5raykL |message: [Update log pulsa]
+INFO - 2018-04-02 16:37:45 --> Action: response |API|QEH6igPB5raykL ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 8040215515021180780[code] => QEH6igPB5raykL)
+INFO - 2018-04-02 16:37:45 --> Final output sent to browser
+DEBUG - 2018-04-02 16:37:45 --> Total execution time: 17.6920
+INFO - 2018-04-02 11:42:56 --> Config Class Initialized
+INFO - 2018-04-02 11:42:56 --> Hooks Class Initialized
+DEBUG - 2018-04-02 11:42:56 --> UTF-8 Support Enabled
+INFO - 2018-04-02 11:42:56 --> Utf8 Class Initialized
+INFO - 2018-04-02 11:42:56 --> URI Class Initialized
+INFO - 2018-04-02 11:42:56 --> Router Class Initialized
+INFO - 2018-04-02 11:42:56 --> Output Class Initialized
+INFO - 2018-04-02 11:42:56 --> Security Class Initialized
+DEBUG - 2018-04-02 11:42:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-02 11:42:56 --> Input Class Initialized
+INFO - 2018-04-02 11:42:56 --> Language Class Initialized
+INFO - 2018-04-02 11:42:56 --> Language Class Initialized
+INFO - 2018-04-02 11:42:56 --> Config Class Initialized
+INFO - 2018-04-02 11:42:56 --> Loader Class Initialized
+DEBUG - 2018-04-02 11:42:56 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-04-02 11:42:56 --> Helper loaded: url_helper
+INFO - 2018-04-02 11:42:56 --> Helper loaded: inflector_helper
+INFO - 2018-04-02 11:42:56 --> Helper loaded: string_helper
+INFO - 2018-04-02 11:42:56 --> Helper loaded: array_helper
+INFO - 2018-04-02 11:42:56 --> Database Driver Class Initialized
+DEBUG - 2018-04-02 11:42:57 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-04-02 11:42:57 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-04-02 11:42:57 --> Email Class Initialized
+INFO - 2018-04-02 11:42:57 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-02 11:42:57 --> Helper loaded: cookie_helper
+INFO - 2018-04-02 11:42:57 --> Helper loaded: language_helper
+DEBUG - 2018-04-02 11:42:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-02 11:42:57 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Helper loaded: date_helper
+INFO - 2018-04-02 11:42:57 --> User Agent Class Initialized
+DEBUG - 2018-04-02 11:42:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:42:57 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:57 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Model Class Initialized
+INFO - 2018-04-02 11:42:58 --> Controller Class Initialized
+DEBUG - 2018-04-02 11:42:58 --> Commerce MX_Controller Initialized
+DEBUG - 2018-04-02 11:42:58 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:42:58 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-04-02 11:42:58 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-04-02 11:42:58 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-04-02 11:42:58 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-04-02 11:42:58 --> Database Driver Class Initialized
+INFO - 2018-04-02 16:42:59 --> Action: begin|API|64DzWbsEKgqjYk[::1] 
+INFO - 2018-04-02 16:42:59 --> Action: receiver |API|64DzWbsEKgqjYk ---|data: Array([uri] => api/commerce/topup[method] => post[params] => a:5:{s:7:"agentid";s:3:"224";s:6:"msisdn";s:12:"081319292741";s:7:"paytype";s:7:"nasabah";s:6:"produk";s:3:"sn5";s:11:"no_rekening";s:12:"35.01.007925";}[api_key] => els3j4ht3r4[key_session] => [time] => 1522662179)
+INFO - 2018-04-02 16:42:59 --> Action: info |API|64DzWbsEKgqjYk |message: [paytype by [nasabah]]
+INFO - 2018-04-02 16:42:59 --> Action: info |API|64DzWbsEKgqjYk |message: [norekening (nasabah) =>35.01.007925]
+INFO - 2018-04-02 16:42:59 --> Action: transaction |API|64DzWbsEKgqjYk |message: [get rekening partner :Tab_model->Acc_by_partnerid(INDOSIS_PRODUCTION)]
+INFO - 2018-04-02 16:42:59 --> Action: transaction |API|64DzWbsEKgqjYk |message: [rek partner : 35.01.007946]
+INFO - 2018-04-02 16:42:59 --> Action: openhttp |API|64DzWbsEKgqjYk |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000)
+INFO - 2018-04-02 16:42:59 --> Action: result |API|64DzWbsEKgqjYk |message: [response : {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}]
+INFO - 2018-04-02 16:42:59 --> Action: response |API|64DzWbsEKgqjYk |message: [harga mitra :5.675 - harga indosis : 5.395]
+INFO - 2018-04-02 16:42:59 --> Action: insert |API|64DzWbsEKgqjYk |message: [Tab_model->Ins_Tbl("com_pulsa_log")] ---|data: Array([request] => agentid=224&msisdn=081319292741&paytype=nasabah&produk=sn5&no_rekening=35.01.007925[ip_request] => ::1[msisdn] => 081319292741[product] => sn5[nominal] => PULSA[urlhit] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000[response] => {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}[res_status] => OK[res_code] => 00[res_message] => SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD[res_saldo] => 5273323[userid] => 224[trx_status] => topup[desc_trx] => hit topup 3party[provider] => sunreload[price_selling] => 7000.00[price_stok] => 6200.00[price_original] => 5675[price_fr_mitra] => 5675[res_sn] => 8040215515021180780[res_transid] => 628551000727[log_trace] => 64DzWbsEKgqjYk)
+INFO - 2018-04-02 16:42:59 --> Action: insert |API|64DzWbsEKgqjYk |message: [resulrt,responcode [00] >> SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD]
+INFO - 2018-04-02 16:42:59 --> Action: insert |API|64DzWbsEKgqjYk |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5662954[TGL_TRANS] => 2018-04-02[NOCUSTOMER] => 081319292741[COMTYPE] => PULSA[MY_KODE_TRANS] => 100[KUITANSI] => 402002[POKOK] => 7000.00[ADM] => 0.00[KETERANGAN] => Commerce TELKOMSEL 081319292741 7.000 SN:.8040215515021180780[VERIFIKASI] => 1[USERID] => 224[KODE_TRANS] => 102[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5662955)
+INFO - 2018-04-02 16:42:59 --> Action: insert |API|64DzWbsEKgqjYk |message: [partner : Tab_model->Tab_commerce(35.01.007925,081319292741,224,7000.00,227,200,5662954,,TARIK]
+INFO - 2018-04-02 16:43:00 --> Action: insert |API|64DzWbsEKgqjYk |message: [result : OK]
+INFO - 2018-04-02 16:43:00 --> Action: insert |API|64DzWbsEKgqjYk |message: [partner : Tab_model->Tab_commerce(35.01.007946,081319292741,224,7000.00,127,100,5662954,,SETOR]
+INFO - 2018-04-02 16:43:00 --> Action: insert |API|64DzWbsEKgqjYk |message: [result : OK]
+INFO - 2018-04-02 16:43:00 --> Action: update |API|64DzWbsEKgqjYk |message: [ADD POIN] ---|data: Array([tid] => 5662954[agent] => 224[kode] => 100[jenis] => COM[nilai] => 7000.00)
+INFO - 2018-04-02 16:43:00 --> Action: result |API|64DzWbsEKgqjYk |message: [success, running trasaction]
+INFO - 2018-04-02 16:43:00 --> Action: update |API|64DzWbsEKgqjYk |message: [Update log pulsa]
+INFO - 2018-04-02 16:43:00 --> Action: response |API|64DzWbsEKgqjYk ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 8040215515021180780[code] => 64DzWbsEKgqjYk)
+INFO - 2018-04-02 16:43:01 --> Final output sent to browser
+DEBUG - 2018-04-02 16:43:01 --> Total execution time: 4.8323
+INFO - 2018-04-02 11:44:43 --> Config Class Initialized
+INFO - 2018-04-02 11:44:43 --> Hooks Class Initialized
+DEBUG - 2018-04-02 11:44:43 --> UTF-8 Support Enabled
+INFO - 2018-04-02 11:44:43 --> Utf8 Class Initialized
+INFO - 2018-04-02 11:44:43 --> URI Class Initialized
+INFO - 2018-04-02 11:44:43 --> Router Class Initialized
+INFO - 2018-04-02 11:44:43 --> Output Class Initialized
+INFO - 2018-04-02 11:44:43 --> Security Class Initialized
+DEBUG - 2018-04-02 11:44:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-02 11:44:43 --> Input Class Initialized
+INFO - 2018-04-02 11:44:43 --> Language Class Initialized
+INFO - 2018-04-02 11:44:43 --> Language Class Initialized
+INFO - 2018-04-02 11:44:43 --> Config Class Initialized
+INFO - 2018-04-02 11:44:43 --> Loader Class Initialized
+DEBUG - 2018-04-02 11:44:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-04-02 11:44:43 --> Helper loaded: url_helper
+INFO - 2018-04-02 11:44:43 --> Helper loaded: inflector_helper
+INFO - 2018-04-02 11:44:43 --> Helper loaded: string_helper
+INFO - 2018-04-02 11:44:43 --> Helper loaded: array_helper
+INFO - 2018-04-02 11:44:43 --> Database Driver Class Initialized
+DEBUG - 2018-04-02 11:44:44 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-04-02 11:44:44 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-04-02 11:44:44 --> Email Class Initialized
+INFO - 2018-04-02 11:44:44 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-02 11:44:44 --> Helper loaded: cookie_helper
+INFO - 2018-04-02 11:44:44 --> Helper loaded: language_helper
+DEBUG - 2018-04-02 11:44:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-02 11:44:44 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Helper loaded: date_helper
+INFO - 2018-04-02 11:44:44 --> User Agent Class Initialized
+DEBUG - 2018-04-02 11:44:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:44:44 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Model Class Initialized
+INFO - 2018-04-02 11:44:44 --> Controller Class Initialized
+DEBUG - 2018-04-02 11:44:44 --> Commerce MX_Controller Initialized
+DEBUG - 2018-04-02 11:44:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:44:44 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-04-02 11:44:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-04-02 11:44:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-04-02 11:44:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-04-02 11:44:44 --> Database Driver Class Initialized
+INFO - 2018-04-02 16:44:45 --> Action: begin|API|qfT7mjPXdNpZBg[::1] 
+INFO - 2018-04-02 16:44:45 --> Action: receiver |API|qfT7mjPXdNpZBg ---|data: Array([uri] => api/commerce/topup[method] => post[params] => a:5:{s:7:"agentid";s:3:"224";s:6:"msisdn";s:12:"081319292741";s:7:"paytype";s:7:"nasabah";s:6:"produk";s:3:"sn5";s:11:"no_rekening";s:12:"35.01.007925";}[api_key] => els3j4ht3r4[key_session] => [time] => 1522662285)
+INFO - 2018-04-02 16:44:45 --> Action: info |API|qfT7mjPXdNpZBg |message: [paytype by [nasabah]]
+INFO - 2018-04-02 16:44:45 --> Action: info |API|qfT7mjPXdNpZBg |message: [norekening (nasabah) =>35.01.007925]
+INFO - 2018-04-02 16:44:45 --> Action: transaction |API|qfT7mjPXdNpZBg |message: [get rekening partner :Tab_model->Acc_by_partnerid(INDOSIS_PRODUCTION)]
+INFO - 2018-04-02 16:44:45 --> Action: transaction |API|qfT7mjPXdNpZBg |message: [rek partner : 35.01.007946]
+INFO - 2018-04-02 16:44:45 --> Action: openhttp |API|qfT7mjPXdNpZBg |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000)
+INFO - 2018-04-02 16:44:45 --> Action: result |API|qfT7mjPXdNpZBg |message: [response : {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}]
+INFO - 2018-04-02 16:44:45 --> Action: response |API|qfT7mjPXdNpZBg |message: [harga mitra :5.675 - harga indosis : 5.395]
+INFO - 2018-04-02 16:44:45 --> Action: insert |API|qfT7mjPXdNpZBg |message: [Tab_model->Ins_Tbl("com_pulsa_log")] ---|data: Array([request] => agentid=224&msisdn=081319292741&paytype=nasabah&produk=sn5&no_rekening=35.01.007925[ip_request] => ::1[msisdn] => 081319292741[product] => sn5[nominal] => PULSA[urlhit] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000[response] => {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}[res_status] => OK[res_code] => 00[res_message] => SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD[res_saldo] => 5273323[userid] => 224[trx_status] => topup[desc_trx] => hit topup 3party[provider] => sunreload[price_selling] => 7000.00[price_stok] => 6200.00[price_original] => 5675[price_fr_mitra] => 5675[res_sn] => 8040215515021180780[res_transid] => 628551000727[log_trace] => qfT7mjPXdNpZBg)
+INFO - 2018-04-02 16:44:45 --> Action: insert |API|qfT7mjPXdNpZBg |message: [resulrt,responcode [00] >> SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD]
+INFO - 2018-04-02 16:44:45 --> Action: insert |API|qfT7mjPXdNpZBg |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5662967[TGL_TRANS] => 2018-04-02[NOCUSTOMER] => 081319292741[COMTYPE] => PULSA[MY_KODE_TRANS] => 100[KUITANSI] => 402003[POKOK] => 7000.00[ADM] => 0.00[KETERANGAN] => Commerce TELKOMSEL 081319292741 7.000 SN:.8040215515021180780[VERIFIKASI] => 1[USERID] => 224[KODE_TRANS] => 102[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5662968)
+INFO - 2018-04-02 16:44:45 --> Action: insert |API|qfT7mjPXdNpZBg |message: [partner : Tab_model->Tab_commerce(35.01.007925,081319292741,224,7000.00,227,200,5662967,,TARIK]
+INFO - 2018-04-02 16:44:45 --> Action: insert |API|qfT7mjPXdNpZBg |message: [result : OK]
+INFO - 2018-04-02 16:44:45 --> Action: insert |API|qfT7mjPXdNpZBg |message: [partner : Tab_model->Tab_commerce(35.01.007946,081319292741,224,7000.00,127,100,5662967,,SETOR]
+INFO - 2018-04-02 16:44:46 --> Action: insert |API|qfT7mjPXdNpZBg |message: [result : OK]
+INFO - 2018-04-02 16:44:46 --> Action: update |API|qfT7mjPXdNpZBg |message: [ADD POIN] ---|data: Array([tid] => 5662967[agent] => 224[kode] => 100[jenis] => COM[nilai] => 7000.00)
+INFO - 2018-04-02 16:44:46 --> Action: result |API|qfT7mjPXdNpZBg |message: [success, running trasaction]
+INFO - 2018-04-02 16:44:46 --> Action: update |API|qfT7mjPXdNpZBg |message: [Update log pulsa]
+INFO - 2018-04-02 16:44:46 --> Action: response |API|qfT7mjPXdNpZBg ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 8040215515021180780[code] => qfT7mjPXdNpZBg)
+INFO - 2018-04-02 16:44:46 --> Final output sent to browser
+DEBUG - 2018-04-02 16:44:46 --> Total execution time: 3.9612
+INFO - 2018-04-02 11:45:45 --> Config Class Initialized
+INFO - 2018-04-02 11:45:45 --> Hooks Class Initialized
+DEBUG - 2018-04-02 11:45:45 --> UTF-8 Support Enabled
+INFO - 2018-04-02 11:45:45 --> Utf8 Class Initialized
+INFO - 2018-04-02 11:45:45 --> URI Class Initialized
+INFO - 2018-04-02 11:45:45 --> Router Class Initialized
+INFO - 2018-04-02 11:45:45 --> Output Class Initialized
+INFO - 2018-04-02 11:45:45 --> Security Class Initialized
+DEBUG - 2018-04-02 11:45:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-02 11:45:45 --> Input Class Initialized
+INFO - 2018-04-02 11:45:45 --> Language Class Initialized
+INFO - 2018-04-02 11:45:45 --> Language Class Initialized
+INFO - 2018-04-02 11:45:45 --> Config Class Initialized
+INFO - 2018-04-02 11:45:45 --> Loader Class Initialized
+DEBUG - 2018-04-02 11:45:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-04-02 11:45:45 --> Helper loaded: url_helper
+INFO - 2018-04-02 11:45:45 --> Helper loaded: inflector_helper
+INFO - 2018-04-02 11:45:45 --> Helper loaded: string_helper
+INFO - 2018-04-02 11:45:45 --> Helper loaded: array_helper
+INFO - 2018-04-02 11:45:45 --> Database Driver Class Initialized
+DEBUG - 2018-04-02 11:45:46 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-04-02 11:45:46 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-04-02 11:45:46 --> Email Class Initialized
+INFO - 2018-04-02 11:45:46 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-02 11:45:46 --> Helper loaded: cookie_helper
+INFO - 2018-04-02 11:45:46 --> Helper loaded: language_helper
+DEBUG - 2018-04-02 11:45:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-02 11:45:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Helper loaded: date_helper
+INFO - 2018-04-02 11:45:46 --> User Agent Class Initialized
+DEBUG - 2018-04-02 11:45:46 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:45:46 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Model Class Initialized
+INFO - 2018-04-02 11:45:46 --> Controller Class Initialized
+ERROR - 2018-04-02 11:45:46 --> Severity: error --> Exception: syntax error, unexpected ',' C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php 928
+INFO - 2018-04-02 11:47:05 --> Config Class Initialized
+INFO - 2018-04-02 11:47:05 --> Hooks Class Initialized
+DEBUG - 2018-04-02 11:47:05 --> UTF-8 Support Enabled
+INFO - 2018-04-02 11:47:05 --> Utf8 Class Initialized
+INFO - 2018-04-02 11:47:05 --> URI Class Initialized
+INFO - 2018-04-02 11:47:05 --> Router Class Initialized
+INFO - 2018-04-02 11:47:05 --> Output Class Initialized
+INFO - 2018-04-02 11:47:05 --> Security Class Initialized
+DEBUG - 2018-04-02 11:47:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-02 11:47:05 --> Input Class Initialized
+INFO - 2018-04-02 11:47:05 --> Language Class Initialized
+INFO - 2018-04-02 11:47:05 --> Language Class Initialized
+INFO - 2018-04-02 11:47:05 --> Config Class Initialized
+INFO - 2018-04-02 11:47:05 --> Loader Class Initialized
+DEBUG - 2018-04-02 11:47:05 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-04-02 11:47:05 --> Helper loaded: url_helper
+INFO - 2018-04-02 11:47:05 --> Helper loaded: inflector_helper
+INFO - 2018-04-02 11:47:05 --> Helper loaded: string_helper
+INFO - 2018-04-02 11:47:05 --> Helper loaded: array_helper
+INFO - 2018-04-02 11:47:05 --> Database Driver Class Initialized
+DEBUG - 2018-04-02 11:47:06 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-04-02 11:47:06 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-04-02 11:47:06 --> Email Class Initialized
+INFO - 2018-04-02 11:47:06 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-02 11:47:06 --> Helper loaded: cookie_helper
+INFO - 2018-04-02 11:47:06 --> Helper loaded: language_helper
+DEBUG - 2018-04-02 11:47:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-02 11:47:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Helper loaded: date_helper
+INFO - 2018-04-02 11:47:06 --> User Agent Class Initialized
+DEBUG - 2018-04-02 11:47:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:47:06 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Model Class Initialized
+INFO - 2018-04-02 11:47:06 --> Controller Class Initialized
+DEBUG - 2018-04-02 11:47:07 --> Commerce MX_Controller Initialized
+DEBUG - 2018-04-02 11:47:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-04-02 11:47:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-04-02 11:47:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-04-02 11:47:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-04-02 11:47:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-04-02 11:47:07 --> Database Driver Class Initialized
+INFO - 2018-04-02 16:47:08 --> Action: begin|API|4SOUTD2CVv8lh1[::1] 
+INFO - 2018-04-02 16:47:08 --> Action: receiver |API|4SOUTD2CVv8lh1 ---|data: Array([uri] => api/commerce/topup[method] => post[params] => a:5:{s:7:"agentid";s:3:"224";s:6:"msisdn";s:12:"081319292741";s:7:"paytype";s:7:"nasabah";s:6:"produk";s:3:"sn5";s:11:"no_rekening";s:12:"35.01.007925";}[api_key] => els3j4ht3r4[key_session] => [time] => 1522662428)
+INFO - 2018-04-02 16:47:08 --> Action: info |API|4SOUTD2CVv8lh1 |message: [paytype by [nasabah]]
+INFO - 2018-04-02 16:47:08 --> Action: info |API|4SOUTD2CVv8lh1 |message: [norekening (nasabah) =>35.01.007925]
+INFO - 2018-04-02 16:47:08 --> Action: transaction |API|4SOUTD2CVv8lh1 |message: [get rekening partner :Tab_model->Acc_by_partnerid(INDOSIS_PRODUCTION)]
+INFO - 2018-04-02 16:47:08 --> Action: transaction |API|4SOUTD2CVv8lh1 |message: [rek partner : 35.01.007946]
+INFO - 2018-04-02 16:47:08 --> Action: openhttp |API|4SOUTD2CVv8lh1 |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000)
+INFO - 2018-04-02 16:47:08 --> Action: result |API|4SOUTD2CVv8lh1 |message: [response : {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}]
+INFO - 2018-04-02 16:47:08 --> Action: response |API|4SOUTD2CVv8lh1 |message: [harga mitra :5.675 - harga indosis : 5.395]
+INFO - 2018-04-02 16:47:08 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [Tab_model->Ins_Tbl("com_pulsa_log")] ---|data: Array([request] => agentid=224&msisdn=081319292741&paytype=nasabah&produk=sn5&no_rekening=35.01.007925[ip_request] => ::1[msisdn] => 081319292741[product] => sn5[nominal] => PULSA[urlhit] => http://10.1.1.62/API_BMT_NEW/topup_pulsa.php?no_hp=081319292741&kode_produk=sn5&jumlah=5000[response] => {"status":"OK","rc":"00","kode_produk":"SN5","trx_id":"628551000727","saldo":"5273323","harga":"5675","no_hp":"081319292741","jumlah":"5000","message":"SN=8040215515021180780;02\/04\/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD","sn":"8040215515021180780","provider":"sunreload"}[res_status] => OK[res_code] => 00[res_message] => SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD[res_saldo] => 5273323[userid] => 224[trx_status] => topup[desc_trx] => hit topup 3party[provider] => sunreload[price_selling] => 7000.00[price_stok] => 6200.00[price_original] => 5675[price_fr_mitra] => 5675[res_sn] => 8040215515021180780[res_transid] => 628551000727[log_trace] => 4SOUTD2CVv8lh1)
+INFO - 2018-04-02 16:47:08 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [resulrt,responcode [00] >> SN=8040215515021180780;02/04/18 16:14 ISI HS5T KE 081319292741, SUKSES. SAL=5.273.323,HRG=5.675,ID=3314742,SN=8040215515021180780; BESTRELOAD]
+INFO - 2018-04-02 16:47:08 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5662980[TGL_TRANS] => 2018-04-02[NOCUSTOMER] => 081319292741[COMTYPE] => PULSA[MY_KODE_TRANS] => 100[KUITANSI] => 402004[POKOK] => 7000.00[ADM] => 0.00[KETERANGAN] => Commerce TELKOMSEL 081319292741 7.000 SN:.8040215515021180780[VERIFIKASI] => 1[USERID] => 224[KODE_TRANS] => 102[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5662981)
+INFO - 2018-04-02 16:47:08 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [partner : Tab_model->Tab_commerce(35.01.007925,081319292741,224,7000.00,227,200,5662980,,TARIK]
+INFO - 2018-04-02 16:47:08 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [result : OK]
+INFO - 2018-04-02 16:47:08 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [partner : Tab_model->Tab_commerce(35.01.007946,081319292741,224,7000.00,127,100,5662980,,SETOR]
+INFO - 2018-04-02 16:47:09 --> Action: insert |API|4SOUTD2CVv8lh1 |message: [result : OK]
+INFO - 2018-04-02 16:47:09 --> Action: update |API|4SOUTD2CVv8lh1 |message: [ADD POIN] ---|data: Array([tid] => 5662980[agent] => 224[kode] => 100[jenis] => COM[nilai] => 7000.00)
+INFO - 2018-04-02 16:47:09 --> Action: result |API|4SOUTD2CVv8lh1 |message: [success, running trasaction]
+INFO - 2018-04-02 16:47:09 --> Action: update |API|4SOUTD2CVv8lh1 |message: [Update log pulsa]
+INFO - 2018-04-02 16:47:09 --> Action: response |API|4SOUTD2CVv8lh1 ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 8040215515021180780[code] => 4SOUTD2CVv8lh1)
+INFO - 2018-04-02 16:47:09 --> Final output sent to browser
+DEBUG - 2018-04-02 16:47:09 --> Total execution time: 3.7452

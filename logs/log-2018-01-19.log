@@ -1,0 +1,59 @@
+INFO - 2018-01-19 04:41:59 --> Config Class Initialized
+INFO - 2018-01-19 04:41:59 --> Hooks Class Initialized
+DEBUG - 2018-01-19 04:41:59 --> UTF-8 Support Enabled
+INFO - 2018-01-19 04:41:59 --> Utf8 Class Initialized
+INFO - 2018-01-19 04:41:59 --> URI Class Initialized
+DEBUG - 2018-01-19 04:41:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-01-19 04:41:59 --> Router Class Initialized
+INFO - 2018-01-19 04:41:59 --> Output Class Initialized
+INFO - 2018-01-19 04:42:00 --> Security Class Initialized
+DEBUG - 2018-01-19 04:42:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-01-19 04:42:00 --> Input Class Initialized
+INFO - 2018-01-19 04:42:00 --> Language Class Initialized
+INFO - 2018-01-19 04:42:00 --> Language Class Initialized
+INFO - 2018-01-19 04:42:00 --> Config Class Initialized
+INFO - 2018-01-19 04:42:00 --> Loader Class Initialized
+DEBUG - 2018-01-19 04:42:00 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-01-19 04:42:00 --> Helper loaded: url_helper
+INFO - 2018-01-19 04:42:00 --> Helper loaded: inflector_helper
+INFO - 2018-01-19 04:42:00 --> Helper loaded: string_helper
+INFO - 2018-01-19 04:42:00 --> Helper loaded: array_helper
+INFO - 2018-01-19 04:42:00 --> Database Driver Class Initialized
+DEBUG - 2018-01-19 04:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-01-19 04:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-01-19 04:42:01 --> Email Class Initialized
+INFO - 2018-01-19 04:42:01 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-01-19 04:42:01 --> Helper loaded: cookie_helper
+INFO - 2018-01-19 04:42:01 --> Helper loaded: language_helper
+DEBUG - 2018-01-19 04:42:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-01-19 04:42:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Helper loaded: date_helper
+INFO - 2018-01-19 04:42:01 --> User Agent Class Initialized
+DEBUG - 2018-01-19 04:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-01-19 04:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-01-19 04:42:01 --> Helper loaded: form_helper
+INFO - 2018-01-19 04:42:01 --> Form Validation Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Model Class Initialized
+INFO - 2018-01-19 04:42:01 --> Controller Class Initialized
+DEBUG - 2018-01-19 04:42:01 --> Login MX_Controller Initialized
+DEBUG - 2018-01-19 04:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-01-19 10:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2018-01-19 10:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2018-01-19 10:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/login.php
+DEBUG - 2018-01-19 10:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_layouts/empty.php
+DEBUG - 2018-01-19 10:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2018-01-19 10:42:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2018-01-19 10:42:01 --> Final output sent to browser
+DEBUG - 2018-01-19 10:42:01 --> Total execution time: 2.1550

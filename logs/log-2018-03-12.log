@@ -1,0 +1,1677 @@
+INFO - 2018-03-12 05:21:34 --> Config Class Initialized
+INFO - 2018-03-12 05:21:34 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:21:34 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:21:34 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:21:34 --> URI Class Initialized
+INFO - 2018-03-12 05:21:34 --> Router Class Initialized
+INFO - 2018-03-12 05:21:35 --> Output Class Initialized
+INFO - 2018-03-12 05:21:35 --> Security Class Initialized
+DEBUG - 2018-03-12 05:21:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:21:35 --> Input Class Initialized
+INFO - 2018-03-12 05:21:35 --> Language Class Initialized
+INFO - 2018-03-12 05:21:35 --> Language Class Initialized
+INFO - 2018-03-12 05:21:35 --> Config Class Initialized
+INFO - 2018-03-12 05:21:35 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:21:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:21:35 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:21:35 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:21:35 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:21:35 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:21:35 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:21:36 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:21:36 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:21:36 --> Email Class Initialized
+INFO - 2018-03-12 05:21:36 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:21:36 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:21:36 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:21:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:21:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:21:36 --> Model Class Initialized
+INFO - 2018-03-12 05:21:36 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:21:36 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:21:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:21:37 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Model Class Initialized
+INFO - 2018-03-12 05:21:37 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:21:37 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:21:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:21:37 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:21:37 --> Final output sent to browser
+DEBUG - 2018-03-12 11:21:37 --> Total execution time: 2.6384
+INFO - 2018-03-12 05:22:17 --> Config Class Initialized
+INFO - 2018-03-12 05:22:17 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:22:17 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:22:17 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:22:17 --> URI Class Initialized
+INFO - 2018-03-12 05:22:17 --> Router Class Initialized
+INFO - 2018-03-12 05:22:17 --> Output Class Initialized
+INFO - 2018-03-12 05:22:17 --> Security Class Initialized
+DEBUG - 2018-03-12 05:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:22:17 --> Input Class Initialized
+INFO - 2018-03-12 05:22:17 --> Language Class Initialized
+INFO - 2018-03-12 05:22:17 --> Language Class Initialized
+INFO - 2018-03-12 05:22:17 --> Config Class Initialized
+INFO - 2018-03-12 05:22:17 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:22:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:22:17 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:22:17 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:22:17 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:22:17 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:22:17 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:22:18 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:22:18 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:22:18 --> Email Class Initialized
+INFO - 2018-03-12 05:22:18 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:22:18 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:22:18 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:22:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:22:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:22:18 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:22:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:18 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Model Class Initialized
+INFO - 2018-03-12 05:22:18 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:22:18 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:22:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:18 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:22:18 --> Final output sent to browser
+DEBUG - 2018-03-12 11:22:18 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:22:22 --> Config Class Initialized
+INFO - 2018-03-12 05:22:22 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:22:22 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:22:22 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:22:22 --> URI Class Initialized
+INFO - 2018-03-12 05:22:22 --> Router Class Initialized
+INFO - 2018-03-12 05:22:22 --> Output Class Initialized
+INFO - 2018-03-12 05:22:22 --> Security Class Initialized
+DEBUG - 2018-03-12 05:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:22:22 --> Input Class Initialized
+INFO - 2018-03-12 05:22:22 --> Language Class Initialized
+INFO - 2018-03-12 05:22:22 --> Language Class Initialized
+INFO - 2018-03-12 05:22:22 --> Config Class Initialized
+INFO - 2018-03-12 05:22:22 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:22:22 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:22:22 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:22:22 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:22:22 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:22:22 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:22:22 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:22:23 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:22:23 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:22:23 --> Email Class Initialized
+INFO - 2018-03-12 05:22:23 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:22:23 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:22:23 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:22:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:22:23 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:22:23 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:22:23 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:23 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Model Class Initialized
+INFO - 2018-03-12 05:22:23 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:22:23 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:22:23 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:23 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:22:23 --> Final output sent to browser
+DEBUG - 2018-03-12 11:22:23 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:22:29 --> Config Class Initialized
+INFO - 2018-03-12 05:22:29 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:22:29 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:22:29 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:22:29 --> URI Class Initialized
+INFO - 2018-03-12 05:22:29 --> Router Class Initialized
+INFO - 2018-03-12 05:22:29 --> Output Class Initialized
+INFO - 2018-03-12 05:22:29 --> Security Class Initialized
+DEBUG - 2018-03-12 05:22:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:22:29 --> Input Class Initialized
+INFO - 2018-03-12 05:22:29 --> Language Class Initialized
+INFO - 2018-03-12 05:22:29 --> Language Class Initialized
+INFO - 2018-03-12 05:22:29 --> Config Class Initialized
+INFO - 2018-03-12 05:22:29 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:22:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:22:29 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:22:29 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:22:29 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:22:29 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:22:29 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:22:30 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:22:30 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:22:30 --> Email Class Initialized
+INFO - 2018-03-12 05:22:30 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:22:30 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:22:30 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:22:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:22:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:22:30 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:22:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:30 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Model Class Initialized
+INFO - 2018-03-12 05:22:30 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:22:30 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:22:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:30 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:22:30 --> Final output sent to browser
+DEBUG - 2018-03-12 11:22:30 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:22:32 --> Config Class Initialized
+INFO - 2018-03-12 05:22:32 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:22:32 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:22:32 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:22:32 --> URI Class Initialized
+INFO - 2018-03-12 05:22:32 --> Router Class Initialized
+INFO - 2018-03-12 05:22:32 --> Output Class Initialized
+INFO - 2018-03-12 05:22:32 --> Security Class Initialized
+DEBUG - 2018-03-12 05:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:22:32 --> Input Class Initialized
+INFO - 2018-03-12 05:22:32 --> Language Class Initialized
+INFO - 2018-03-12 05:22:32 --> Language Class Initialized
+INFO - 2018-03-12 05:22:32 --> Config Class Initialized
+INFO - 2018-03-12 05:22:32 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:22:32 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:22:32 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:22:32 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:22:32 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:22:32 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:22:32 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:22:33 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:22:33 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:22:33 --> Email Class Initialized
+INFO - 2018-03-12 05:22:33 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:22:33 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:22:33 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:22:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:22:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:22:33 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:22:33 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:33 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Model Class Initialized
+INFO - 2018-03-12 05:22:33 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:22:33 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:22:33 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:33 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:22:33 --> Final output sent to browser
+DEBUG - 2018-03-12 11:22:33 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:22:41 --> Config Class Initialized
+INFO - 2018-03-12 05:22:41 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:22:41 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:22:41 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:22:41 --> URI Class Initialized
+INFO - 2018-03-12 05:22:41 --> Router Class Initialized
+INFO - 2018-03-12 05:22:41 --> Output Class Initialized
+INFO - 2018-03-12 05:22:41 --> Security Class Initialized
+DEBUG - 2018-03-12 05:22:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:22:41 --> Input Class Initialized
+INFO - 2018-03-12 05:22:41 --> Language Class Initialized
+INFO - 2018-03-12 05:22:41 --> Language Class Initialized
+INFO - 2018-03-12 05:22:41 --> Config Class Initialized
+INFO - 2018-03-12 05:22:41 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:22:41 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:22:41 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:22:41 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:22:41 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:22:41 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:22:41 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:22:42 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:22:42 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:22:42 --> Email Class Initialized
+INFO - 2018-03-12 05:22:42 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:22:42 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:22:42 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:22:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:22:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:22:42 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:22:42 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:42 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Model Class Initialized
+INFO - 2018-03-12 05:22:42 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:22:42 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:22:42 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:42 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:22:42 --> Final output sent to browser
+DEBUG - 2018-03-12 11:22:42 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:22:44 --> Config Class Initialized
+INFO - 2018-03-12 05:22:44 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:22:44 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:22:44 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:22:44 --> URI Class Initialized
+INFO - 2018-03-12 05:22:44 --> Router Class Initialized
+INFO - 2018-03-12 05:22:44 --> Output Class Initialized
+INFO - 2018-03-12 05:22:44 --> Security Class Initialized
+DEBUG - 2018-03-12 05:22:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:22:44 --> Input Class Initialized
+INFO - 2018-03-12 05:22:44 --> Language Class Initialized
+INFO - 2018-03-12 05:22:44 --> Language Class Initialized
+INFO - 2018-03-12 05:22:44 --> Config Class Initialized
+INFO - 2018-03-12 05:22:44 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:22:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:22:44 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:22:44 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:22:44 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:22:44 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:22:44 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:22:45 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:22:45 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:22:45 --> Email Class Initialized
+INFO - 2018-03-12 05:22:45 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:22:45 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:22:45 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:22:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:22:45 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:22:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:45 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Model Class Initialized
+INFO - 2018-03-12 05:22:45 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:22:45 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:22:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:22:45 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:22:45 --> Final output sent to browser
+DEBUG - 2018-03-12 11:22:45 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:33:47 --> Config Class Initialized
+INFO - 2018-03-12 05:33:47 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:33:47 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:33:47 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:33:47 --> URI Class Initialized
+INFO - 2018-03-12 05:33:47 --> Router Class Initialized
+INFO - 2018-03-12 05:33:47 --> Output Class Initialized
+INFO - 2018-03-12 05:33:47 --> Security Class Initialized
+DEBUG - 2018-03-12 05:33:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:33:47 --> Input Class Initialized
+INFO - 2018-03-12 05:33:47 --> Language Class Initialized
+INFO - 2018-03-12 05:33:47 --> Language Class Initialized
+INFO - 2018-03-12 05:33:47 --> Config Class Initialized
+INFO - 2018-03-12 05:33:47 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:33:47 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:33:47 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:33:47 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:33:47 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:33:47 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:33:47 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:33:48 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:33:48 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:33:48 --> Email Class Initialized
+INFO - 2018-03-12 05:33:48 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:33:48 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:33:48 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:33:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:33:48 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:33:48 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:33:48 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:33:48 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Model Class Initialized
+INFO - 2018-03-12 05:33:48 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:33:48 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:33:48 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:33:48 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:33:48 --> Final output sent to browser
+DEBUG - 2018-03-12 11:33:48 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:34:07 --> Config Class Initialized
+INFO - 2018-03-12 05:34:07 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:34:07 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:34:07 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:34:07 --> URI Class Initialized
+INFO - 2018-03-12 05:34:07 --> Router Class Initialized
+INFO - 2018-03-12 05:34:07 --> Output Class Initialized
+INFO - 2018-03-12 05:34:07 --> Security Class Initialized
+DEBUG - 2018-03-12 05:34:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:34:07 --> Input Class Initialized
+INFO - 2018-03-12 05:34:07 --> Language Class Initialized
+INFO - 2018-03-12 05:34:07 --> Language Class Initialized
+INFO - 2018-03-12 05:34:07 --> Config Class Initialized
+INFO - 2018-03-12 05:34:07 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:34:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:34:07 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:34:07 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:34:07 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:34:07 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:34:07 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:34:08 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:34:08 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:34:08 --> Email Class Initialized
+INFO - 2018-03-12 05:34:08 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:34:08 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:34:08 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:34:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:34:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:34:08 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:34:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:08 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Model Class Initialized
+INFO - 2018-03-12 05:34:08 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:34:08 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:34:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:08 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:34:08 --> Final output sent to browser
+DEBUG - 2018-03-12 11:34:08 --> Total execution time: 1.1388
+INFO - 2018-03-12 05:34:11 --> Config Class Initialized
+INFO - 2018-03-12 05:34:11 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:34:11 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:34:11 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:34:11 --> URI Class Initialized
+INFO - 2018-03-12 05:34:11 --> Router Class Initialized
+INFO - 2018-03-12 05:34:11 --> Output Class Initialized
+INFO - 2018-03-12 05:34:11 --> Security Class Initialized
+DEBUG - 2018-03-12 05:34:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:34:11 --> Input Class Initialized
+INFO - 2018-03-12 05:34:11 --> Language Class Initialized
+INFO - 2018-03-12 05:34:11 --> Language Class Initialized
+INFO - 2018-03-12 05:34:11 --> Config Class Initialized
+INFO - 2018-03-12 05:34:11 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:34:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:34:11 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:34:11 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:34:11 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:34:11 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:34:11 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:34:12 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:34:12 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:34:12 --> Email Class Initialized
+INFO - 2018-03-12 05:34:12 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:34:12 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:34:12 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:34:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:34:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:34:12 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:34:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:12 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Model Class Initialized
+INFO - 2018-03-12 05:34:12 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:34:12 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:34:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:12 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:34:12 --> Final output sent to browser
+DEBUG - 2018-03-12 11:34:12 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:34:50 --> Config Class Initialized
+INFO - 2018-03-12 05:34:50 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:34:50 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:34:50 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:34:50 --> URI Class Initialized
+INFO - 2018-03-12 05:34:50 --> Router Class Initialized
+INFO - 2018-03-12 05:34:50 --> Output Class Initialized
+INFO - 2018-03-12 05:34:50 --> Security Class Initialized
+DEBUG - 2018-03-12 05:34:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:34:50 --> Input Class Initialized
+INFO - 2018-03-12 05:34:50 --> Language Class Initialized
+INFO - 2018-03-12 05:34:50 --> Language Class Initialized
+INFO - 2018-03-12 05:34:50 --> Config Class Initialized
+INFO - 2018-03-12 05:34:50 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:34:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:34:50 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:34:50 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:34:50 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:34:50 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:34:50 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:34:51 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:34:51 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:34:51 --> Email Class Initialized
+INFO - 2018-03-12 05:34:51 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:34:51 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:34:51 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:34:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:34:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:34:51 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:34:51 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:51 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Model Class Initialized
+INFO - 2018-03-12 05:34:51 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:34:51 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:34:51 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:51 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:34:51 --> Final output sent to browser
+DEBUG - 2018-03-12 11:34:51 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:34:53 --> Config Class Initialized
+INFO - 2018-03-12 05:34:53 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:34:53 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:34:53 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:34:53 --> URI Class Initialized
+INFO - 2018-03-12 05:34:53 --> Router Class Initialized
+INFO - 2018-03-12 05:34:53 --> Output Class Initialized
+INFO - 2018-03-12 05:34:53 --> Security Class Initialized
+DEBUG - 2018-03-12 05:34:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:34:53 --> Input Class Initialized
+INFO - 2018-03-12 05:34:53 --> Language Class Initialized
+INFO - 2018-03-12 05:34:53 --> Language Class Initialized
+INFO - 2018-03-12 05:34:53 --> Config Class Initialized
+INFO - 2018-03-12 05:34:53 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:34:53 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:34:53 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:34:53 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:34:53 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:34:53 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:34:53 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:34:54 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:34:54 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:34:54 --> Email Class Initialized
+INFO - 2018-03-12 05:34:54 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:34:54 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:34:54 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:34:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:34:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:34:54 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:34:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:54 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Model Class Initialized
+INFO - 2018-03-12 05:34:54 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:34:54 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:34:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:34:54 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:34:54 --> Final output sent to browser
+DEBUG - 2018-03-12 11:34:54 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:35:28 --> Config Class Initialized
+INFO - 2018-03-12 05:35:28 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:35:28 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:35:28 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:35:28 --> URI Class Initialized
+INFO - 2018-03-12 05:35:28 --> Router Class Initialized
+INFO - 2018-03-12 05:35:28 --> Output Class Initialized
+INFO - 2018-03-12 05:35:28 --> Security Class Initialized
+DEBUG - 2018-03-12 05:35:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:35:28 --> Input Class Initialized
+INFO - 2018-03-12 05:35:28 --> Language Class Initialized
+INFO - 2018-03-12 05:35:28 --> Language Class Initialized
+INFO - 2018-03-12 05:35:28 --> Config Class Initialized
+INFO - 2018-03-12 05:35:28 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:35:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:35:28 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:35:28 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:35:28 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:35:28 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:35:28 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:35:29 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:35:29 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:35:29 --> Email Class Initialized
+INFO - 2018-03-12 05:35:29 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:35:29 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:35:29 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:35:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:35:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:35:29 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:35:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:35:29 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Model Class Initialized
+INFO - 2018-03-12 05:35:29 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:35:29 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:35:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:35:29 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:35:29 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 816
+INFO - 2018-03-12 11:35:29 --> Final output sent to browser
+DEBUG - 2018-03-12 11:35:29 --> Total execution time: 1.1388
+INFO - 2018-03-12 05:35:53 --> Config Class Initialized
+INFO - 2018-03-12 05:35:53 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:35:53 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:35:53 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:35:53 --> URI Class Initialized
+INFO - 2018-03-12 05:35:53 --> Router Class Initialized
+INFO - 2018-03-12 05:35:53 --> Output Class Initialized
+INFO - 2018-03-12 05:35:53 --> Security Class Initialized
+DEBUG - 2018-03-12 05:35:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:35:53 --> Input Class Initialized
+INFO - 2018-03-12 05:35:53 --> Language Class Initialized
+INFO - 2018-03-12 05:35:53 --> Language Class Initialized
+INFO - 2018-03-12 05:35:53 --> Config Class Initialized
+INFO - 2018-03-12 05:35:53 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:35:53 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:35:53 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:35:53 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:35:53 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:35:53 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:35:53 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:35:54 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:35:54 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:35:54 --> Email Class Initialized
+INFO - 2018-03-12 05:35:54 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:35:54 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:35:54 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:35:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:35:54 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:35:54 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:35:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:35:54 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Model Class Initialized
+INFO - 2018-03-12 05:35:54 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:35:54 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:35:54 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:35:54 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:35:54 --> Final output sent to browser
+DEBUG - 2018-03-12 11:35:54 --> Total execution time: 1.1388
+INFO - 2018-03-12 05:36:01 --> Config Class Initialized
+INFO - 2018-03-12 05:36:01 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:36:01 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:36:01 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:36:01 --> URI Class Initialized
+INFO - 2018-03-12 05:36:01 --> Router Class Initialized
+INFO - 2018-03-12 05:36:01 --> Output Class Initialized
+INFO - 2018-03-12 05:36:01 --> Security Class Initialized
+DEBUG - 2018-03-12 05:36:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:36:01 --> Input Class Initialized
+INFO - 2018-03-12 05:36:01 --> Language Class Initialized
+INFO - 2018-03-12 05:36:01 --> Language Class Initialized
+INFO - 2018-03-12 05:36:01 --> Config Class Initialized
+INFO - 2018-03-12 05:36:01 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:36:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:36:01 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:36:01 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:36:01 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:36:01 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:36:01 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:36:02 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:36:02 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:36:02 --> Email Class Initialized
+INFO - 2018-03-12 05:36:02 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:36:02 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:36:02 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:36:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:36:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:36:02 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:36:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:36:02 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Model Class Initialized
+INFO - 2018-03-12 05:36:02 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:36:02 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:36:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:36:02 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:36:02 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 821
+ERROR - 2018-03-12 11:36:02 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 823
+ERROR - 2018-03-12 11:36:02 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+INFO - 2018-03-12 11:36:02 --> Final output sent to browser
+DEBUG - 2018-03-12 11:36:02 --> Total execution time: 1.1544
+INFO - 2018-03-12 05:36:46 --> Config Class Initialized
+INFO - 2018-03-12 05:36:46 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:36:46 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:36:46 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:36:46 --> URI Class Initialized
+INFO - 2018-03-12 05:36:46 --> Router Class Initialized
+INFO - 2018-03-12 05:36:46 --> Output Class Initialized
+INFO - 2018-03-12 05:36:46 --> Security Class Initialized
+DEBUG - 2018-03-12 05:36:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:36:46 --> Input Class Initialized
+INFO - 2018-03-12 05:36:46 --> Language Class Initialized
+INFO - 2018-03-12 05:36:46 --> Language Class Initialized
+INFO - 2018-03-12 05:36:46 --> Config Class Initialized
+INFO - 2018-03-12 05:36:46 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:36:46 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:36:46 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:36:46 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:36:46 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:36:46 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:36:46 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:36:47 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:36:47 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:36:47 --> Email Class Initialized
+INFO - 2018-03-12 05:36:47 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:36:47 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:36:47 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:36:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:36:47 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:36:47 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:36:47 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:36:47 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Model Class Initialized
+INFO - 2018-03-12 05:36:47 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:36:47 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:36:47 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:36:47 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:36:47 --> Final output sent to browser
+DEBUG - 2018-03-12 11:36:47 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:45:50 --> Config Class Initialized
+INFO - 2018-03-12 05:45:50 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:45:50 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:45:50 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:45:50 --> URI Class Initialized
+INFO - 2018-03-12 05:45:50 --> Router Class Initialized
+INFO - 2018-03-12 05:45:50 --> Output Class Initialized
+INFO - 2018-03-12 05:45:50 --> Security Class Initialized
+DEBUG - 2018-03-12 05:45:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:45:50 --> Input Class Initialized
+INFO - 2018-03-12 05:45:50 --> Language Class Initialized
+INFO - 2018-03-12 05:45:50 --> Language Class Initialized
+INFO - 2018-03-12 05:45:50 --> Config Class Initialized
+INFO - 2018-03-12 05:45:50 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:45:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:45:50 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:45:50 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:45:50 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:45:50 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:45:50 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:45:51 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:45:51 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:45:51 --> Email Class Initialized
+INFO - 2018-03-12 05:45:51 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:45:51 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:45:51 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:45:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:45:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:45:51 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:45:51 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:45:51 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Model Class Initialized
+INFO - 2018-03-12 05:45:51 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:45:51 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:45:51 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:45:51 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:45:51 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 822
+ERROR - 2018-03-12 11:45:51 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:45:51 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:45:51 --> Final output sent to browser
+DEBUG - 2018-03-12 11:45:51 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:46:01 --> Config Class Initialized
+INFO - 2018-03-12 05:46:01 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:46:01 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:46:01 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:46:01 --> URI Class Initialized
+INFO - 2018-03-12 05:46:01 --> Router Class Initialized
+INFO - 2018-03-12 05:46:01 --> Output Class Initialized
+INFO - 2018-03-12 05:46:01 --> Security Class Initialized
+DEBUG - 2018-03-12 05:46:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:46:01 --> Input Class Initialized
+INFO - 2018-03-12 05:46:01 --> Language Class Initialized
+INFO - 2018-03-12 05:46:01 --> Language Class Initialized
+INFO - 2018-03-12 05:46:01 --> Config Class Initialized
+INFO - 2018-03-12 05:46:01 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:46:01 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:46:01 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:46:01 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:46:01 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:46:01 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:46:01 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:46:02 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:46:02 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:46:02 --> Email Class Initialized
+INFO - 2018-03-12 05:46:02 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:46:02 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:46:02 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:46:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:46:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:46:02 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:46:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:46:02 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Model Class Initialized
+INFO - 2018-03-12 05:46:02 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:46:02 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:46:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:46:02 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:46:02 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 822
+ERROR - 2018-03-12 11:46:02 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:46:02 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:46:02 --> Final output sent to browser
+DEBUG - 2018-03-12 11:46:02 --> Total execution time: 1.1076
+INFO - 2018-03-12 05:46:07 --> Config Class Initialized
+INFO - 2018-03-12 05:46:07 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:46:07 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:46:07 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:46:07 --> URI Class Initialized
+INFO - 2018-03-12 05:46:07 --> Router Class Initialized
+INFO - 2018-03-12 05:46:07 --> Output Class Initialized
+INFO - 2018-03-12 05:46:07 --> Security Class Initialized
+DEBUG - 2018-03-12 05:46:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:46:07 --> Input Class Initialized
+INFO - 2018-03-12 05:46:07 --> Language Class Initialized
+INFO - 2018-03-12 05:46:07 --> Language Class Initialized
+INFO - 2018-03-12 05:46:07 --> Config Class Initialized
+INFO - 2018-03-12 05:46:07 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:46:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:46:07 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:46:07 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:46:07 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:46:07 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:46:07 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:46:08 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:46:08 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:46:08 --> Email Class Initialized
+INFO - 2018-03-12 05:46:08 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:46:08 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:46:08 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:46:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:46:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:46:08 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:46:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:46:08 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Model Class Initialized
+INFO - 2018-03-12 05:46:08 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:46:08 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:46:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:46:08 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:46:08 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 822
+ERROR - 2018-03-12 11:46:08 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:46:08 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:46:08 --> Final output sent to browser
+DEBUG - 2018-03-12 11:46:08 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:46:10 --> Config Class Initialized
+INFO - 2018-03-12 05:46:10 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:46:10 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:46:10 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:46:10 --> URI Class Initialized
+INFO - 2018-03-12 05:46:10 --> Router Class Initialized
+INFO - 2018-03-12 05:46:10 --> Output Class Initialized
+INFO - 2018-03-12 05:46:10 --> Security Class Initialized
+DEBUG - 2018-03-12 05:46:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:46:10 --> Input Class Initialized
+INFO - 2018-03-12 05:46:10 --> Language Class Initialized
+INFO - 2018-03-12 05:46:10 --> Language Class Initialized
+INFO - 2018-03-12 05:46:10 --> Config Class Initialized
+INFO - 2018-03-12 05:46:10 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:46:10 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:46:10 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:46:10 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:46:10 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:46:10 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:46:10 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:46:11 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:46:11 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:46:11 --> Email Class Initialized
+INFO - 2018-03-12 05:46:11 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:46:11 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:46:11 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:46:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:46:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:46:11 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:46:11 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Model Class Initialized
+INFO - 2018-03-12 05:46:11 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:46:11 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:46:11 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:46:11 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 822
+ERROR - 2018-03-12 11:46:11 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:46:11 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:46:11 --> Final output sent to browser
+DEBUG - 2018-03-12 11:46:11 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:47:07 --> Config Class Initialized
+INFO - 2018-03-12 05:47:07 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:47:07 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:47:07 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:47:07 --> URI Class Initialized
+INFO - 2018-03-12 05:47:07 --> Router Class Initialized
+INFO - 2018-03-12 05:47:07 --> Output Class Initialized
+INFO - 2018-03-12 05:47:07 --> Security Class Initialized
+DEBUG - 2018-03-12 05:47:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:47:07 --> Input Class Initialized
+INFO - 2018-03-12 05:47:07 --> Language Class Initialized
+INFO - 2018-03-12 05:47:07 --> Language Class Initialized
+INFO - 2018-03-12 05:47:07 --> Config Class Initialized
+INFO - 2018-03-12 05:47:07 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:47:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:47:07 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:47:07 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:47:07 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:47:07 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:47:07 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:47:08 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:47:08 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:47:08 --> Email Class Initialized
+INFO - 2018-03-12 05:47:08 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:47:08 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:47:08 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:47:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:47:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:47:08 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:47:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:47:08 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Model Class Initialized
+INFO - 2018-03-12 05:47:08 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:47:08 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:47:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:47:08 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:47:08 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 822
+ERROR - 2018-03-12 11:47:08 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:47:08 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:47:08 --> Final output sent to browser
+DEBUG - 2018-03-12 11:47:08 --> Total execution time: 1.1096
+INFO - 2018-03-12 05:47:21 --> Config Class Initialized
+INFO - 2018-03-12 05:47:21 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:47:21 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:47:21 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:47:21 --> URI Class Initialized
+INFO - 2018-03-12 05:47:21 --> Router Class Initialized
+INFO - 2018-03-12 05:47:21 --> Output Class Initialized
+INFO - 2018-03-12 05:47:21 --> Security Class Initialized
+DEBUG - 2018-03-12 05:47:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:47:21 --> Input Class Initialized
+INFO - 2018-03-12 05:47:21 --> Language Class Initialized
+INFO - 2018-03-12 05:47:21 --> Language Class Initialized
+INFO - 2018-03-12 05:47:21 --> Config Class Initialized
+INFO - 2018-03-12 05:47:21 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:47:21 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:47:21 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:47:21 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:47:21 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:47:21 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:47:21 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:47:22 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:47:22 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:47:22 --> Email Class Initialized
+INFO - 2018-03-12 05:47:22 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:47:22 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:47:22 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:47:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:47:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:47:22 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:47:22 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:47:22 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Model Class Initialized
+INFO - 2018-03-12 05:47:22 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:47:22 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:47:22 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:47:22 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:47:22 --> Severity: Notice --> Undefined property: stdClass::$periode1 C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 822
+ERROR - 2018-03-12 11:47:22 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:47:22 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:47:22 --> Final output sent to browser
+DEBUG - 2018-03-12 11:47:22 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:47:57 --> Config Class Initialized
+INFO - 2018-03-12 05:47:57 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:47:57 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:47:57 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:47:57 --> URI Class Initialized
+INFO - 2018-03-12 05:47:57 --> Router Class Initialized
+INFO - 2018-03-12 05:47:57 --> Output Class Initialized
+INFO - 2018-03-12 05:47:57 --> Security Class Initialized
+DEBUG - 2018-03-12 05:47:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:47:57 --> Input Class Initialized
+INFO - 2018-03-12 05:47:57 --> Language Class Initialized
+INFO - 2018-03-12 05:47:57 --> Language Class Initialized
+INFO - 2018-03-12 05:47:57 --> Config Class Initialized
+INFO - 2018-03-12 05:47:57 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:47:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:47:57 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:47:57 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:47:57 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:47:57 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:47:57 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:47:58 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:47:58 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:47:58 --> Email Class Initialized
+INFO - 2018-03-12 05:47:58 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:47:58 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:47:58 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:47:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:47:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:47:58 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:47:58 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:47:58 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Model Class Initialized
+INFO - 2018-03-12 05:47:58 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:47:58 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:47:58 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:47:58 --> User_agent class already loaded. Second attempt ignored.
+ERROR - 2018-03-12 11:47:58 --> Severity: Notice --> Undefined property: stdClass::$pokok C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 824
+ERROR - 2018-03-12 11:47:58 --> Severity: Notice --> Undefined property: stdClass::$adm C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Generate.php 825
+INFO - 2018-03-12 11:47:58 --> Final output sent to browser
+DEBUG - 2018-03-12 11:47:58 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:48:07 --> Config Class Initialized
+INFO - 2018-03-12 05:48:07 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:48:07 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:48:07 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:48:07 --> URI Class Initialized
+INFO - 2018-03-12 05:48:07 --> Router Class Initialized
+INFO - 2018-03-12 05:48:07 --> Output Class Initialized
+INFO - 2018-03-12 05:48:07 --> Security Class Initialized
+DEBUG - 2018-03-12 05:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:48:08 --> Input Class Initialized
+INFO - 2018-03-12 05:48:08 --> Language Class Initialized
+INFO - 2018-03-12 05:48:08 --> Language Class Initialized
+INFO - 2018-03-12 05:48:08 --> Config Class Initialized
+INFO - 2018-03-12 05:48:08 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:48:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:48:08 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:48:08 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:48:08 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:48:08 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:48:08 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:48:09 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:48:09 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:48:09 --> Email Class Initialized
+INFO - 2018-03-12 05:48:09 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:48:09 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:48:09 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:48:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:48:09 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:48:09 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:48:09 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:48:09 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Model Class Initialized
+INFO - 2018-03-12 05:48:09 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:48:09 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:48:09 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:48:09 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:48:09 --> Final output sent to browser
+DEBUG - 2018-03-12 11:48:09 --> Total execution time: 1.1232
+INFO - 2018-03-12 05:48:30 --> Config Class Initialized
+INFO - 2018-03-12 05:48:30 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:48:30 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:48:30 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:48:30 --> URI Class Initialized
+INFO - 2018-03-12 05:48:30 --> Router Class Initialized
+INFO - 2018-03-12 05:48:30 --> Output Class Initialized
+INFO - 2018-03-12 05:48:30 --> Security Class Initialized
+DEBUG - 2018-03-12 05:48:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:48:30 --> Input Class Initialized
+INFO - 2018-03-12 05:48:30 --> Language Class Initialized
+INFO - 2018-03-12 05:48:30 --> Language Class Initialized
+INFO - 2018-03-12 05:48:30 --> Config Class Initialized
+INFO - 2018-03-12 05:48:30 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:48:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:48:30 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:48:30 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:48:30 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:48:30 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:48:30 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:48:31 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:48:31 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:48:31 --> Email Class Initialized
+INFO - 2018-03-12 05:48:31 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:48:31 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:48:31 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:48:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:48:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:48:31 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:48:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:48:31 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Model Class Initialized
+INFO - 2018-03-12 05:48:31 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:48:31 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:48:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:48:31 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:48:31 --> Final output sent to browser
+DEBUG - 2018-03-12 11:48:31 --> Total execution time: 1.1388
+INFO - 2018-03-12 05:49:34 --> Config Class Initialized
+INFO - 2018-03-12 05:49:34 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:49:34 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:49:34 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:49:34 --> URI Class Initialized
+INFO - 2018-03-12 05:49:34 --> Router Class Initialized
+INFO - 2018-03-12 05:49:34 --> Output Class Initialized
+INFO - 2018-03-12 05:49:34 --> Security Class Initialized
+DEBUG - 2018-03-12 05:49:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:49:34 --> Input Class Initialized
+INFO - 2018-03-12 05:49:34 --> Language Class Initialized
+INFO - 2018-03-12 05:49:34 --> Language Class Initialized
+INFO - 2018-03-12 05:49:34 --> Config Class Initialized
+INFO - 2018-03-12 05:49:34 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:49:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:49:34 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:49:34 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:49:34 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:49:34 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:49:34 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:49:35 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:49:35 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:49:35 --> Email Class Initialized
+INFO - 2018-03-12 05:49:35 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:49:35 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:49:35 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:49:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:49:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:49:35 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:49:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:49:35 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Model Class Initialized
+INFO - 2018-03-12 05:49:35 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:49:35 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:49:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:49:35 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:49:35 --> Final output sent to browser
+DEBUG - 2018-03-12 11:49:35 --> Total execution time: 1.1121
+INFO - 2018-03-12 05:49:36 --> Config Class Initialized
+INFO - 2018-03-12 05:49:36 --> Hooks Class Initialized
+DEBUG - 2018-03-12 05:49:36 --> UTF-8 Support Enabled
+INFO - 2018-03-12 05:49:36 --> Utf8 Class Initialized
+INFO - 2018-03-12 05:49:36 --> URI Class Initialized
+INFO - 2018-03-12 05:49:36 --> Router Class Initialized
+INFO - 2018-03-12 05:49:36 --> Output Class Initialized
+INFO - 2018-03-12 05:49:36 --> Security Class Initialized
+DEBUG - 2018-03-12 05:49:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 05:49:36 --> Input Class Initialized
+INFO - 2018-03-12 05:49:36 --> Language Class Initialized
+INFO - 2018-03-12 05:49:36 --> Language Class Initialized
+INFO - 2018-03-12 05:49:36 --> Config Class Initialized
+INFO - 2018-03-12 05:49:36 --> Loader Class Initialized
+DEBUG - 2018-03-12 05:49:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 05:49:36 --> Helper loaded: url_helper
+INFO - 2018-03-12 05:49:36 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 05:49:36 --> Helper loaded: string_helper
+INFO - 2018-03-12 05:49:36 --> Helper loaded: array_helper
+INFO - 2018-03-12 05:49:36 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 05:49:37 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 05:49:37 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 05:49:37 --> Email Class Initialized
+INFO - 2018-03-12 05:49:37 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 05:49:37 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 05:49:37 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 05:49:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 05:49:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Helper loaded: date_helper
+INFO - 2018-03-12 05:49:37 --> User Agent Class Initialized
+DEBUG - 2018-03-12 05:49:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:49:37 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:37 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Model Class Initialized
+INFO - 2018-03-12 05:49:38 --> Controller Class Initialized
+DEBUG - 2018-03-12 05:49:38 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 05:49:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 05:49:38 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 11:49:38 --> Final output sent to browser
+DEBUG - 2018-03-12 11:49:38 --> Total execution time: 1.1011
+INFO - 2018-03-12 06:06:36 --> Config Class Initialized
+INFO - 2018-03-12 06:06:36 --> Hooks Class Initialized
+DEBUG - 2018-03-12 06:06:36 --> UTF-8 Support Enabled
+INFO - 2018-03-12 06:06:36 --> Utf8 Class Initialized
+INFO - 2018-03-12 06:06:36 --> URI Class Initialized
+INFO - 2018-03-12 06:06:36 --> Router Class Initialized
+INFO - 2018-03-12 06:06:36 --> Output Class Initialized
+INFO - 2018-03-12 06:06:36 --> Security Class Initialized
+DEBUG - 2018-03-12 06:06:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 06:06:36 --> Input Class Initialized
+INFO - 2018-03-12 06:06:36 --> Language Class Initialized
+INFO - 2018-03-12 06:06:36 --> Language Class Initialized
+INFO - 2018-03-12 06:06:36 --> Config Class Initialized
+INFO - 2018-03-12 06:06:36 --> Loader Class Initialized
+DEBUG - 2018-03-12 06:06:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 06:06:36 --> Helper loaded: url_helper
+INFO - 2018-03-12 06:06:36 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 06:06:36 --> Helper loaded: string_helper
+INFO - 2018-03-12 06:06:36 --> Helper loaded: array_helper
+INFO - 2018-03-12 06:06:36 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 06:06:37 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 06:06:37 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 06:06:37 --> Email Class Initialized
+INFO - 2018-03-12 06:06:37 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 06:06:37 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 06:06:37 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 06:06:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 06:06:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Helper loaded: date_helper
+INFO - 2018-03-12 06:06:37 --> User Agent Class Initialized
+DEBUG - 2018-03-12 06:06:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 06:06:37 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Model Class Initialized
+INFO - 2018-03-12 06:06:37 --> Controller Class Initialized
+DEBUG - 2018-03-12 06:06:37 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 06:06:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 06:06:37 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 12:06:37 --> Final output sent to browser
+DEBUG - 2018-03-12 12:06:37 --> Total execution time: 1.0851
+INFO - 2018-03-12 06:06:39 --> Config Class Initialized
+INFO - 2018-03-12 06:06:39 --> Hooks Class Initialized
+DEBUG - 2018-03-12 06:06:39 --> UTF-8 Support Enabled
+INFO - 2018-03-12 06:06:39 --> Utf8 Class Initialized
+INFO - 2018-03-12 06:06:39 --> URI Class Initialized
+INFO - 2018-03-12 06:06:39 --> Router Class Initialized
+INFO - 2018-03-12 06:06:39 --> Output Class Initialized
+INFO - 2018-03-12 06:06:39 --> Security Class Initialized
+DEBUG - 2018-03-12 06:06:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-03-12 06:06:39 --> Input Class Initialized
+INFO - 2018-03-12 06:06:39 --> Language Class Initialized
+INFO - 2018-03-12 06:06:39 --> Language Class Initialized
+INFO - 2018-03-12 06:06:39 --> Config Class Initialized
+INFO - 2018-03-12 06:06:39 --> Loader Class Initialized
+DEBUG - 2018-03-12 06:06:39 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-03-12 06:06:39 --> Helper loaded: url_helper
+INFO - 2018-03-12 06:06:39 --> Helper loaded: inflector_helper
+INFO - 2018-03-12 06:06:39 --> Helper loaded: string_helper
+INFO - 2018-03-12 06:06:39 --> Helper loaded: array_helper
+INFO - 2018-03-12 06:06:39 --> Database Driver Class Initialized
+DEBUG - 2018-03-12 06:06:40 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-03-12 06:06:40 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-03-12 06:06:40 --> Email Class Initialized
+INFO - 2018-03-12 06:06:40 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-03-12 06:06:40 --> Helper loaded: cookie_helper
+INFO - 2018-03-12 06:06:40 --> Helper loaded: language_helper
+DEBUG - 2018-03-12 06:06:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-03-12 06:06:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Helper loaded: date_helper
+INFO - 2018-03-12 06:06:40 --> User Agent Class Initialized
+DEBUG - 2018-03-12 06:06:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 06:06:40 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Model Class Initialized
+INFO - 2018-03-12 06:06:40 --> Controller Class Initialized
+DEBUG - 2018-03-12 06:06:40 --> Generate MX_Controller Initialized
+DEBUG - 2018-03-12 06:06:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-03-12 06:06:40 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-03-12 12:06:40 --> Final output sent to browser
+DEBUG - 2018-03-12 12:06:40 --> Total execution time: 1.0981

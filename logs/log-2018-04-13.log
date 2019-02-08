@@ -1,0 +1,110 @@
+INFO - 2018-04-13 03:58:26 --> Config Class Initialized
+INFO - 2018-04-13 03:58:26 --> Hooks Class Initialized
+DEBUG - 2018-04-13 03:58:26 --> UTF-8 Support Enabled
+INFO - 2018-04-13 03:58:26 --> Utf8 Class Initialized
+INFO - 2018-04-13 03:58:26 --> URI Class Initialized
+DEBUG - 2018-04-13 03:58:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-04-13 03:58:26 --> Router Class Initialized
+INFO - 2018-04-13 03:58:26 --> Output Class Initialized
+INFO - 2018-04-13 03:58:26 --> Security Class Initialized
+DEBUG - 2018-04-13 03:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-13 03:58:26 --> Input Class Initialized
+INFO - 2018-04-13 03:58:26 --> Language Class Initialized
+INFO - 2018-04-13 03:58:27 --> Language Class Initialized
+INFO - 2018-04-13 03:58:27 --> Config Class Initialized
+INFO - 2018-04-13 03:58:27 --> Loader Class Initialized
+DEBUG - 2018-04-13 03:58:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-04-13 03:58:27 --> Helper loaded: url_helper
+INFO - 2018-04-13 03:58:27 --> Helper loaded: inflector_helper
+INFO - 2018-04-13 03:58:27 --> Helper loaded: string_helper
+INFO - 2018-04-13 03:58:27 --> Helper loaded: array_helper
+INFO - 2018-04-13 03:58:27 --> Database Driver Class Initialized
+DEBUG - 2018-04-13 03:58:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-04-13 03:58:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-04-13 03:58:28 --> Email Class Initialized
+INFO - 2018-04-13 03:58:28 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-13 03:58:28 --> Helper loaded: cookie_helper
+INFO - 2018-04-13 03:58:28 --> Helper loaded: language_helper
+DEBUG - 2018-04-13 03:58:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-13 03:58:28 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Helper loaded: date_helper
+INFO - 2018-04-13 03:58:28 --> User Agent Class Initialized
+DEBUG - 2018-04-13 03:58:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-04-13 03:58:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-04-13 03:58:28 --> Helper loaded: form_helper
+INFO - 2018-04-13 03:58:28 --> Form Validation Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Model Class Initialized
+INFO - 2018-04-13 03:58:28 --> Controller Class Initialized
+DEBUG - 2018-04-13 03:58:28 --> Simpanan MX_Controller Initialized
+DEBUG - 2018-04-13 03:58:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+INFO - 2018-04-13 03:58:28 --> Config Class Initialized
+INFO - 2018-04-13 03:58:28 --> Hooks Class Initialized
+DEBUG - 2018-04-13 03:58:28 --> UTF-8 Support Enabled
+INFO - 2018-04-13 03:58:28 --> Utf8 Class Initialized
+INFO - 2018-04-13 03:58:28 --> URI Class Initialized
+DEBUG - 2018-04-13 03:58:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-04-13 03:58:28 --> Router Class Initialized
+INFO - 2018-04-13 03:58:29 --> Output Class Initialized
+INFO - 2018-04-13 03:58:29 --> Security Class Initialized
+DEBUG - 2018-04-13 03:58:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-04-13 03:58:29 --> Input Class Initialized
+INFO - 2018-04-13 03:58:29 --> Language Class Initialized
+INFO - 2018-04-13 03:58:29 --> Language Class Initialized
+INFO - 2018-04-13 03:58:29 --> Config Class Initialized
+INFO - 2018-04-13 03:58:29 --> Loader Class Initialized
+DEBUG - 2018-04-13 03:58:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-04-13 03:58:29 --> Helper loaded: url_helper
+INFO - 2018-04-13 03:58:29 --> Helper loaded: inflector_helper
+INFO - 2018-04-13 03:58:29 --> Helper loaded: string_helper
+INFO - 2018-04-13 03:58:29 --> Helper loaded: array_helper
+INFO - 2018-04-13 03:58:29 --> Database Driver Class Initialized
+DEBUG - 2018-04-13 03:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-04-13 03:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-04-13 03:58:30 --> Email Class Initialized
+INFO - 2018-04-13 03:58:30 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-04-13 03:58:30 --> Helper loaded: cookie_helper
+INFO - 2018-04-13 03:58:30 --> Helper loaded: language_helper
+DEBUG - 2018-04-13 03:58:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-04-13 03:58:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Helper loaded: date_helper
+INFO - 2018-04-13 03:58:30 --> User Agent Class Initialized
+DEBUG - 2018-04-13 03:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-04-13 03:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-04-13 03:58:30 --> Helper loaded: form_helper
+INFO - 2018-04-13 03:58:30 --> Form Validation Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Model Class Initialized
+INFO - 2018-04-13 03:58:30 --> Controller Class Initialized
+DEBUG - 2018-04-13 03:58:30 --> Login MX_Controller Initialized
+DEBUG - 2018-04-13 03:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-04-13 08:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2018-04-13 08:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2018-04-13 08:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/login.php
+DEBUG - 2018-04-13 08:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_layouts/empty.php
+DEBUG - 2018-04-13 08:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2018-04-13 08:58:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2018-04-13 08:58:30 --> Final output sent to browser
+DEBUG - 2018-04-13 08:58:30 --> Total execution time: 1.2168

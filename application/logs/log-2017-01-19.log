@@ -1,0 +1,321 @@
+INFO - 2017-01-19 00:03:26 --> Model Class Initialized
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:03:26 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:03:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:03:26 --> Final output sent to browser
+DEBUG - 2017-01-19 00:03:26 --> Total execution time: 0.2150
+INFO - 2017-01-19 00:11:15 --> Model Class Initialized
+DEBUG - 2017-01-19 00:11:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:11:16 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:11:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:11:16 --> Final output sent to browser
+DEBUG - 2017-01-19 00:11:16 --> Total execution time: 0.2140
+INFO - 2017-01-19 00:11:19 --> Model Class Initialized
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:11:19 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:11:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:11:19 --> Final output sent to browser
+DEBUG - 2017-01-19 00:11:19 --> Total execution time: 0.1940
+INFO - 2017-01-19 00:11:25 --> Model Class Initialized
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:11:25 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:11:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:11:25 --> Final output sent to browser
+DEBUG - 2017-01-19 00:11:25 --> Total execution time: 0.2620
+DEBUG - 2017-01-19 00:11:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/grocery_crud.php
+DEBUG - 2017-01-19 00:11:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/libraries/Grocery_CRUD.php
+DEBUG - 2017-01-19 00:11:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/grocery_crud.php
+DEBUG - 2017-01-19 00:11:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/models/Grocery_crud_model.php
+INFO - 2017-01-19 00:11:27 --> Model Class Initialized
+INFO - 2017-01-19 00:11:27 --> Model Class Initialized
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/crud.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:11:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:11:28 --> Final output sent to browser
+DEBUG - 2017-01-19 00:11:28 --> Total execution time: 0.5770
+ERROR - 2017-01-19 00:11:43 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:11:43 --> Unable to connect to the database
+ERROR - 2017-01-19 00:11:43 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:11:43 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+ERROR - 2017-01-19 00:11:45 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:11:45 --> Unable to connect to the database
+ERROR - 2017-01-19 00:11:45 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:11:45 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+ERROR - 2017-01-19 00:11:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:11:47 --> Unable to connect to the database
+ERROR - 2017-01-19 00:11:47 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:11:47 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+ERROR - 2017-01-19 00:11:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:11:48 --> Unable to connect to the database
+ERROR - 2017-01-19 00:11:48 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:11:48 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+ERROR - 2017-01-19 00:11:51 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:11:51 --> Unable to connect to the database
+ERROR - 2017-01-19 00:11:51 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:11:51 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+INFO - 2017-01-19 00:19:52 --> Model Class Initialized
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:19:52 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:19:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:19:52 --> Final output sent to browser
+DEBUG - 2017-01-19 00:19:52 --> Total execution time: 0.2840
+INFO - 2017-01-19 00:20:06 --> Model Class Initialized
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:20:06 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:20:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:20:06 --> Final output sent to browser
+DEBUG - 2017-01-19 00:20:06 --> Total execution time: 0.2630
+ERROR - 2017-01-19 00:20:16 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:20:16 --> Unable to connect to the database
+ERROR - 2017-01-19 00:20:16 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:20:16 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+INFO - 2017-01-19 00:20:25 --> Model Class Initialized
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:20:25 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:20:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:20:25 --> Final output sent to browser
+DEBUG - 2017-01-19 00:20:25 --> Total execution time: 0.2730
+ERROR - 2017-01-19 00:55:45 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:55:45 --> Unable to connect to the database
+ERROR - 2017-01-19 00:55:45 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:55:45 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+ERROR - 2017-01-19 00:55:46 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) C:\xampp\htdocs\ci\ussiweb\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-01-19 00:55:46 --> Unable to connect to the database
+ERROR - 2017-01-19 00:55:46 --> Query error: Access denied for user ''@'localhost' (using password: NO) - Invalid query: SELECT distinct (urutan_group),menu_group FROM sys_user_menu_def where user_name ="PUTUT"  
+ORDER BY URUTAN_GROUP ASC
+ERROR - 2017-01-19 00:55:46 --> Severity: error --> Exception: Call to a member function result() on boolean C:\xampp\htdocs\ci\ussiweb\application\core\MY_Controller.php 188
+INFO - 2017-01-19 00:55:59 --> Model Class Initialized
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:55:59 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:55:59 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:55:59 --> Final output sent to browser
+DEBUG - 2017-01-19 00:55:59 --> Total execution time: 0.2780
+INFO - 2017-01-19 00:56:02 --> Model Class Initialized
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:56:02 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:56:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:56:02 --> Final output sent to browser
+DEBUG - 2017-01-19 00:56:02 --> Total execution time: 0.2590
+INFO - 2017-01-19 00:56:50 --> Model Class Initialized
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:56:50 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:56:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:56:50 --> Final output sent to browser
+DEBUG - 2017-01-19 00:56:50 --> Total execution time: 0.3060
+INFO - 2017-01-19 00:57:24 --> Model Class Initialized
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:57:24 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:57:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:57:24 --> Final output sent to browser
+DEBUG - 2017-01-19 00:57:24 --> Total execution time: 0.2040
+INFO - 2017-01-19 00:57:43 --> Model Class Initialized
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:57:43 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:57:43 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:57:43 --> Final output sent to browser
+DEBUG - 2017-01-19 00:57:43 --> Total execution time: 0.2610
+INFO - 2017-01-19 00:58:13 --> Model Class Initialized
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 00:58:13 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 00:58:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 00:58:13 --> Final output sent to browser
+DEBUG - 2017-01-19 00:58:13 --> Total execution time: 0.2490
+INFO - 2017-01-19 01:11:08 --> Model Class Initialized
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 01:11:08 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 01:11:08 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 01:11:08 --> Final output sent to browser
+DEBUG - 2017-01-19 01:11:08 --> Total execution time: 0.2350
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/login.php
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_layouts/empty.php
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 01:11:50 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 01:11:50 --> Final output sent to browser
+DEBUG - 2017-01-19 01:11:50 --> Total execution time: 0.2240
+DEBUG - 2017-01-19 01:12:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2017-01-19 01:12:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 01:12:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/login.php
+DEBUG - 2017-01-19 01:12:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_layouts/empty.php
+DEBUG - 2017-01-19 01:12:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 01:12:12 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 01:12:12 --> Final output sent to browser
+DEBUG - 2017-01-19 01:12:12 --> Total execution time: 0.2000
+DEBUG - 2017-01-19 01:13:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2017-01-19 01:13:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-01-19 01:13:18 --> Model Class Initialized
+DEBUG - 2017-01-19 01:13:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\controllers/../modules/adminlte/controllers/Widget.php
+DEBUG - 2017-01-19 01:13:19 --> Widget MX_Controller Initialized
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/home.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 01:13:19 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 01:13:19 --> Final output sent to browser
+DEBUG - 2017-01-19 01:13:19 --> Total execution time: 0.2090
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/grocery_crud.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/libraries/Grocery_CRUD.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/grocery_crud.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/models/Grocery_crud_model.php
+INFO - 2017-01-19 01:14:37 --> Model Class Initialized
+INFO - 2017-01-19 01:14:37 --> Model Class Initialized
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/crud.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 01:14:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 01:14:37 --> Final output sent to browser
+DEBUG - 2017-01-19 01:14:37 --> Total execution time: 0.5170
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/grocery_crud.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/libraries/Grocery_CRUD.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/grocery_crud.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/models/Grocery_crud_model.php
+INFO - 2017-01-19 01:23:15 --> Model Class Initialized
+INFO - 2017-01-19 01:23:15 --> Model Class Initialized
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/navbar.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/sidemenu.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/breadcrumb.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/crud.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_partials/back_btn.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/_layouts/default.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2017-01-19 01:23:15 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2017-01-19 01:23:15 --> Final output sent to browser
+DEBUG - 2017-01-19 01:23:15 --> Total execution time: 0.2890

@@ -1,0 +1,1182 @@
+INFO - 2018-02-27 04:00:33 --> Config Class Initialized
+INFO - 2018-02-27 04:00:33 --> Hooks Class Initialized
+DEBUG - 2018-02-27 04:00:33 --> UTF-8 Support Enabled
+INFO - 2018-02-27 04:00:33 --> Utf8 Class Initialized
+INFO - 2018-02-27 04:00:33 --> URI Class Initialized
+DEBUG - 2018-02-27 04:00:33 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-02-27 04:00:33 --> Router Class Initialized
+INFO - 2018-02-27 04:00:33 --> Output Class Initialized
+INFO - 2018-02-27 04:00:33 --> Security Class Initialized
+DEBUG - 2018-02-27 04:00:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 04:00:33 --> Input Class Initialized
+INFO - 2018-02-27 04:00:33 --> Language Class Initialized
+INFO - 2018-02-27 04:00:33 --> Language Class Initialized
+INFO - 2018-02-27 04:00:33 --> Config Class Initialized
+INFO - 2018-02-27 04:00:33 --> Loader Class Initialized
+DEBUG - 2018-02-27 04:00:33 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-02-27 04:00:33 --> Helper loaded: url_helper
+INFO - 2018-02-27 04:00:33 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 04:00:33 --> Helper loaded: string_helper
+INFO - 2018-02-27 04:00:33 --> Helper loaded: array_helper
+INFO - 2018-02-27 04:00:33 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-02-27 04:00:34 --> Email Class Initialized
+INFO - 2018-02-27 04:00:34 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 04:00:34 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 04:00:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 04:00:34 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Helper loaded: date_helper
+INFO - 2018-02-27 04:00:34 --> User Agent Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-02-27 04:00:34 --> Helper loaded: form_helper
+INFO - 2018-02-27 04:00:34 --> Form Validation Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Model Class Initialized
+INFO - 2018-02-27 04:00:34 --> Controller Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> Com MX_Controller Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+INFO - 2018-02-27 04:00:34 --> Config Class Initialized
+INFO - 2018-02-27 04:00:34 --> Hooks Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> UTF-8 Support Enabled
+INFO - 2018-02-27 04:00:34 --> Utf8 Class Initialized
+INFO - 2018-02-27 04:00:34 --> URI Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-02-27 04:00:34 --> Router Class Initialized
+INFO - 2018-02-27 04:00:34 --> Output Class Initialized
+INFO - 2018-02-27 04:00:34 --> Security Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 04:00:34 --> Input Class Initialized
+INFO - 2018-02-27 04:00:34 --> Language Class Initialized
+INFO - 2018-02-27 04:00:34 --> Language Class Initialized
+INFO - 2018-02-27 04:00:34 --> Config Class Initialized
+INFO - 2018-02-27 04:00:34 --> Loader Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-02-27 04:00:34 --> Helper loaded: url_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: string_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: array_helper
+INFO - 2018-02-27 04:00:34 --> Database Driver Class Initialized
+INFO - 2018-02-27 04:00:34 --> Config Class Initialized
+INFO - 2018-02-27 04:00:34 --> Hooks Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> UTF-8 Support Enabled
+INFO - 2018-02-27 04:00:34 --> Utf8 Class Initialized
+INFO - 2018-02-27 04:00:34 --> URI Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-02-27 04:00:34 --> Router Class Initialized
+INFO - 2018-02-27 04:00:34 --> Output Class Initialized
+INFO - 2018-02-27 04:00:34 --> Security Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 04:00:34 --> Input Class Initialized
+INFO - 2018-02-27 04:00:34 --> Language Class Initialized
+INFO - 2018-02-27 04:00:34 --> Language Class Initialized
+INFO - 2018-02-27 04:00:34 --> Config Class Initialized
+INFO - 2018-02-27 04:00:34 --> Loader Class Initialized
+DEBUG - 2018-02-27 04:00:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-02-27 04:00:34 --> Helper loaded: url_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: string_helper
+INFO - 2018-02-27 04:00:34 --> Helper loaded: array_helper
+INFO - 2018-02-27 04:00:34 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-02-27 04:00:35 --> Email Class Initialized
+INFO - 2018-02-27 04:00:35 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 04:00:35 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 04:00:35 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 04:00:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 04:00:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Helper loaded: date_helper
+INFO - 2018-02-27 04:00:35 --> User Agent Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-02-27 04:00:35 --> Helper loaded: form_helper
+INFO - 2018-02-27 04:00:35 --> Form Validation Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Controller Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> Login MX_Controller Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-02-27 10:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-02-27 04:00:35 --> Email Class Initialized
+INFO - 2018-02-27 04:00:35 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2018-02-27 10:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+INFO - 2018-02-27 04:00:35 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 04:00:35 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 04:00:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2018-02-27 10:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/login.php
+DEBUG - 2018-02-27 10:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_layouts/empty.php
+DEBUG - 2018-02-27 10:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2018-02-27 10:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2018-02-27 10:00:35 --> Final output sent to browser
+DEBUG - 2018-02-27 10:00:35 --> Total execution time: 1.1544
+INFO - 2018-02-27 04:00:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Helper loaded: date_helper
+INFO - 2018-02-27 04:00:35 --> User Agent Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-02-27 04:00:35 --> Helper loaded: form_helper
+INFO - 2018-02-27 04:00:35 --> Form Validation Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Model Class Initialized
+INFO - 2018-02-27 04:00:35 --> Controller Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> Simpanan MX_Controller Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+INFO - 2018-02-27 04:00:35 --> Config Class Initialized
+INFO - 2018-02-27 04:00:35 --> Hooks Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> UTF-8 Support Enabled
+INFO - 2018-02-27 04:00:35 --> Utf8 Class Initialized
+INFO - 2018-02-27 04:00:35 --> URI Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/routes.php
+INFO - 2018-02-27 04:00:35 --> Router Class Initialized
+INFO - 2018-02-27 04:00:35 --> Output Class Initialized
+INFO - 2018-02-27 04:00:35 --> Security Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 04:00:35 --> Input Class Initialized
+INFO - 2018-02-27 04:00:35 --> Language Class Initialized
+INFO - 2018-02-27 04:00:35 --> Language Class Initialized
+INFO - 2018-02-27 04:00:35 --> Config Class Initialized
+INFO - 2018-02-27 04:00:35 --> Loader Class Initialized
+DEBUG - 2018-02-27 04:00:35 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/site.php
+INFO - 2018-02-27 04:00:35 --> Helper loaded: url_helper
+INFO - 2018-02-27 04:00:35 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 04:00:35 --> Helper loaded: string_helper
+INFO - 2018-02-27 04:00:35 --> Helper loaded: array_helper
+INFO - 2018-02-27 04:00:35 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 04:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+DEBUG - 2018-02-27 04:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/ion_auth.php
+INFO - 2018-02-27 04:00:36 --> Email Class Initialized
+INFO - 2018-02-27 04:00:36 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 04:00:36 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 04:00:36 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 04:00:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 04:00:36 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Helper loaded: date_helper
+INFO - 2018-02-27 04:00:36 --> User Agent Class Initialized
+DEBUG - 2018-02-27 04:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-02-27 04:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+INFO - 2018-02-27 04:00:36 --> Helper loaded: form_helper
+INFO - 2018-02-27 04:00:36 --> Form Validation Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Model Class Initialized
+INFO - 2018-02-27 04:00:36 --> Controller Class Initialized
+DEBUG - 2018-02-27 04:00:36 --> Login MX_Controller Initialized
+DEBUG - 2018-02-27 04:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/autoload.php
+DEBUG - 2018-02-27 10:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/config/form_validation.php
+DEBUG - 2018-02-27 10:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/head.php
+DEBUG - 2018-02-27 10:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/admin/views/login.php
+DEBUG - 2018-02-27 10:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_layouts/empty.php
+DEBUG - 2018-02-27 10:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_partials/ga.php
+DEBUG - 2018-02-27 10:00:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\views\_base/foot.php
+INFO - 2018-02-27 10:00:36 --> Final output sent to browser
+DEBUG - 2018-02-27 10:00:36 --> Total execution time: 1.0920
+INFO - 2018-02-27 08:23:19 --> Config Class Initialized
+INFO - 2018-02-27 08:23:19 --> Hooks Class Initialized
+DEBUG - 2018-02-27 08:23:19 --> UTF-8 Support Enabled
+INFO - 2018-02-27 08:23:19 --> Utf8 Class Initialized
+INFO - 2018-02-27 08:23:19 --> URI Class Initialized
+INFO - 2018-02-27 08:23:20 --> Router Class Initialized
+INFO - 2018-02-27 08:23:20 --> Output Class Initialized
+INFO - 2018-02-27 08:23:20 --> Security Class Initialized
+DEBUG - 2018-02-27 08:23:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 08:23:20 --> Input Class Initialized
+INFO - 2018-02-27 08:23:20 --> Language Class Initialized
+INFO - 2018-02-27 08:23:20 --> Language Class Initialized
+INFO - 2018-02-27 08:23:20 --> Config Class Initialized
+INFO - 2018-02-27 08:23:20 --> Loader Class Initialized
+DEBUG - 2018-02-27 08:23:20 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 08:23:20 --> Helper loaded: url_helper
+INFO - 2018-02-27 08:23:20 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 08:23:20 --> Helper loaded: string_helper
+INFO - 2018-02-27 08:23:20 --> Helper loaded: array_helper
+INFO - 2018-02-27 08:23:20 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 08:23:22 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 08:23:22 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 08:23:22 --> Email Class Initialized
+INFO - 2018-02-27 08:23:22 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 08:23:22 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 08:23:22 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 08:23:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 08:23:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Helper loaded: date_helper
+INFO - 2018-02-27 08:23:23 --> User Agent Class Initialized
+DEBUG - 2018-02-27 08:23:23 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:23:23 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:23 --> Model Class Initialized
+INFO - 2018-02-27 08:23:24 --> Model Class Initialized
+INFO - 2018-02-27 08:23:24 --> Model Class Initialized
+INFO - 2018-02-27 08:23:24 --> Controller Class Initialized
+DEBUG - 2018-02-27 08:23:24 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 08:23:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:23:24 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 08:23:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 08:23:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 08:23:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 08:23:24 --> Database Driver Class Initialized
+INFO - 2018-02-27 14:23:25 --> Action: begin|API|yc5VzUMD1KSGBH[::1] 
+INFO - 2018-02-27 14:23:25 --> Action: receiver |API|yc5VzUMD1KSGBH ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:1:{s:7:"agentid";s:3:"103";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519716205)
+INFO - 2018-02-27 14:23:25 --> Action: response |API|yc5VzUMD1KSGBH |message: [failed,plnid isempty] ---|data: Array([status] => [error_code] => 614[message] => plnid isempty[sn] => [code] => )
+INFO - 2018-02-27 14:23:25 --> Final output sent to browser
+DEBUG - 2018-02-27 14:23:25 --> Total execution time: 6.2834
+INFO - 2018-02-27 08:24:39 --> Config Class Initialized
+INFO - 2018-02-27 08:24:39 --> Hooks Class Initialized
+DEBUG - 2018-02-27 08:24:39 --> UTF-8 Support Enabled
+INFO - 2018-02-27 08:24:39 --> Utf8 Class Initialized
+INFO - 2018-02-27 08:24:39 --> URI Class Initialized
+INFO - 2018-02-27 08:24:39 --> Router Class Initialized
+INFO - 2018-02-27 08:24:39 --> Output Class Initialized
+INFO - 2018-02-27 08:24:39 --> Security Class Initialized
+DEBUG - 2018-02-27 08:24:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 08:24:39 --> Input Class Initialized
+INFO - 2018-02-27 08:24:39 --> Language Class Initialized
+INFO - 2018-02-27 08:24:39 --> Language Class Initialized
+INFO - 2018-02-27 08:24:39 --> Config Class Initialized
+INFO - 2018-02-27 08:24:39 --> Loader Class Initialized
+DEBUG - 2018-02-27 08:24:39 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 08:24:39 --> Helper loaded: url_helper
+INFO - 2018-02-27 08:24:39 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 08:24:39 --> Helper loaded: string_helper
+INFO - 2018-02-27 08:24:39 --> Helper loaded: array_helper
+INFO - 2018-02-27 08:24:39 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 08:24:40 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 08:24:40 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 08:24:40 --> Email Class Initialized
+INFO - 2018-02-27 08:24:40 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 08:24:40 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 08:24:40 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 08:24:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 08:24:40 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Helper loaded: date_helper
+INFO - 2018-02-27 08:24:40 --> User Agent Class Initialized
+DEBUG - 2018-02-27 08:24:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:24:40 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Model Class Initialized
+INFO - 2018-02-27 08:24:40 --> Controller Class Initialized
+DEBUG - 2018-02-27 08:24:40 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 08:24:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:24:40 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 08:24:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 08:24:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 08:24:40 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 08:24:40 --> Database Driver Class Initialized
+INFO - 2018-02-27 14:24:41 --> Action: begin|API|DmXS5tKUdp0vq7[::1] 
+INFO - 2018-02-27 14:24:41 --> Action: receiver |API|DmXS5tKUdp0vq7 ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"103";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519716281)
+INFO - 2018-02-27 14:24:41 --> Action: info |API|DmXS5tKUdp0vq7 |message: [paytype by [agent]]
+INFO - 2018-02-27 14:24:41 --> Action: check |API|DmXS5tKUdp0vq7 |message: [Admin_user2_model->User_by_username [103]]
+INFO - 2018-02-27 14:24:41 --> Action: result |API|DmXS5tKUdp0vq7 |message: [OK] ---|data: Array([0] => stdClass Object([id] => 103[username] => putut[first_name] => Putut[last_name] => Pujiyanto[nasabah_id] => 35200538[no_rekening] => 35.01.000538[active] => 1))
+INFO - 2018-02-27 14:24:41 --> Action: info |API|DmXS5tKUdp0vq7 |message: [norekening (agent) =>35.01.000538]
+INFO - 2018-02-27 14:24:41 --> Action: openhttp |API|DmXS5tKUdp0vq7 |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/tokenpln.php?id_pln=92739284299424&kode_produk=pln20)
+INFO - 2018-02-27 14:24:41 --> Action: result |API|DmXS5tKUdp0vq7 |message: [response : {"status":"OK","respon_code":"00","request_id":"628551000727","message":"SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40;26\/01\/17 14:27 ISI PLN20 KE 01108490556, BERHASIL SISA. SAL=112.800,HRG=19.860,ID=57693947,SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40; INFO : XL, AXIS, ISAT DATA untuk RS silahkan cek harga , thx.","kode_token":"3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13","saldo":"112800","id":"57693947","provider":"Powermedia"}]
+INFO - 2018-02-27 14:24:41 --> Action: insert |API|DmXS5tKUdp0vq7 |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5959647[TGL_TRANS] => 2018-02-27[NOCUSTOMER] => 92739284299424[COMTYPE] => PLN[MY_KODE_TRANS] => 100[KUITANSI] => 201618[POKOK] => 22000.00[ADM] => 0.00[KETERANGAN] => Commerce PLN 92739284299424 22.000 SN:92372892749748[VERIFIKASI] => 1[USERID] => 103[KODE_TRANS] => 101[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5959648)
+INFO - 2018-02-27 14:24:41 --> Action: update |API|DmXS5tKUdp0vq7 |message: [ADD POIN] ---|data: Array([tid] => 5959647[agent] => 103[kode] => 100[jenis] => COM[nilai] => 22000.00)
+INFO - 2018-02-27 14:24:41 --> Action: result |API|DmXS5tKUdp0vq7 |message: [success, running trasaction]
+INFO - 2018-02-27 14:24:41 --> Action: update |API|DmXS5tKUdp0vq7 |message: [Update log pulsa]
+INFO - 2018-02-27 14:24:41 --> Action: response |API|DmXS5tKUdp0vq7 ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 3561-2601-7730-8936-8010[code] => DmXS5tKUdp0vq7[data] => Array([token] => 3561-2601-7730-8936-8010[nama] => JOHNNYWENNYWEOL[tarif_daya] => R1/1300VA[jml_kwh] => 13[nominal] => PLN[jml_bayar] => 0))
+INFO - 2018-02-27 14:24:41 --> Final output sent to browser
+DEBUG - 2018-02-27 14:24:41 --> Total execution time: 2.8382
+INFO - 2018-02-27 08:27:33 --> Config Class Initialized
+INFO - 2018-02-27 08:27:33 --> Hooks Class Initialized
+DEBUG - 2018-02-27 08:27:33 --> UTF-8 Support Enabled
+INFO - 2018-02-27 08:27:33 --> Utf8 Class Initialized
+INFO - 2018-02-27 08:27:33 --> URI Class Initialized
+INFO - 2018-02-27 08:27:33 --> Router Class Initialized
+INFO - 2018-02-27 08:27:33 --> Output Class Initialized
+INFO - 2018-02-27 08:27:33 --> Security Class Initialized
+DEBUG - 2018-02-27 08:27:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 08:27:33 --> Input Class Initialized
+INFO - 2018-02-27 08:27:33 --> Language Class Initialized
+INFO - 2018-02-27 08:27:33 --> Language Class Initialized
+INFO - 2018-02-27 08:27:33 --> Config Class Initialized
+INFO - 2018-02-27 08:27:33 --> Loader Class Initialized
+DEBUG - 2018-02-27 08:27:33 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 08:27:33 --> Helper loaded: url_helper
+INFO - 2018-02-27 08:27:33 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 08:27:33 --> Helper loaded: string_helper
+INFO - 2018-02-27 08:27:33 --> Helper loaded: array_helper
+INFO - 2018-02-27 08:27:33 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 08:27:34 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 08:27:34 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 08:27:34 --> Email Class Initialized
+INFO - 2018-02-27 08:27:34 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 08:27:34 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 08:27:34 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 08:27:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 08:27:34 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Helper loaded: date_helper
+INFO - 2018-02-27 08:27:34 --> User Agent Class Initialized
+DEBUG - 2018-02-27 08:27:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:27:34 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Model Class Initialized
+INFO - 2018-02-27 08:27:34 --> Controller Class Initialized
+DEBUG - 2018-02-27 08:27:34 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 08:27:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:27:34 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 08:27:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 08:27:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 08:27:34 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 08:27:34 --> Database Driver Class Initialized
+INFO - 2018-02-27 14:27:35 --> Action: begin|API|JYGA10mNWFOjia[::1] 
+INFO - 2018-02-27 14:27:35 --> Action: receiver |API|JYGA10mNWFOjia ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"103";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519716455)
+INFO - 2018-02-27 14:27:35 --> Action: info |API|JYGA10mNWFOjia |message: [paytype by [agent]]
+INFO - 2018-02-27 14:27:35 --> Action: check |API|JYGA10mNWFOjia |message: [Admin_user2_model->User_by_username [103]]
+INFO - 2018-02-27 14:27:35 --> Action: result |API|JYGA10mNWFOjia |message: [OK] ---|data: Array([0] => stdClass Object([id] => 103[username] => putut[first_name] => Putut[last_name] => Pujiyanto[nasabah_id] => 35200538[no_rekening] => 35.01.000538[active] => 1))
+INFO - 2018-02-27 14:27:35 --> Action: info |API|JYGA10mNWFOjia |message: [norekening (agent) =>35.01.000538]
+INFO - 2018-02-27 14:27:35 --> Action: openhttp |API|JYGA10mNWFOjia |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/tokenpln.php?id_pln=92739284299424&kode_produk=pln20)
+INFO - 2018-02-27 14:27:35 --> Action: result |API|JYGA10mNWFOjia |message: [response : {"status":"OK","respon_code":"00","request_id":"628551000727","message":"SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40;26\/01\/17 14:27 ISI PLN20 KE 01108490556, BERHASIL SISA. SAL=112.800,HRG=19.860,ID=57693947,SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40; INFO : XL, AXIS, ISAT DATA untuk RS silahkan cek harga , thx.","kode_token":"3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13","saldo":"112800","id":"57693947","provider":"Powermedia"}]
+INFO - 2018-02-27 14:27:35 --> Action: insert |API|JYGA10mNWFOjia |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5959650[TGL_TRANS] => 2018-02-27[NOCUSTOMER] => 92739284299424[COMTYPE] => PLN[MY_KODE_TRANS] => 100[KUITANSI] => 201619[POKOK] => 22000.00[ADM] => 0.00[KETERANGAN] => Commerce PLN 92739284299424 22.000 SN:92372892749748[VERIFIKASI] => 1[USERID] => 103[KODE_TRANS] => 101[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5959651)
+INFO - 2018-02-27 14:27:35 --> Action: update |API|JYGA10mNWFOjia |message: [ADD POIN] ---|data: Array([tid] => 5959650[agent] => 103[kode] => 100[jenis] => COM[nilai] => 22000.00)
+INFO - 2018-02-27 14:27:35 --> Action: result |API|JYGA10mNWFOjia |message: [success, running trasaction]
+INFO - 2018-02-27 14:27:35 --> Action: update |API|JYGA10mNWFOjia |message: [Update log pulsa]
+INFO - 2018-02-27 14:27:35 --> Action: response |API|JYGA10mNWFOjia ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 3561-2601-7730-8936-8010[code] => JYGA10mNWFOjia[data] => Array([token] => 3561-2601-7730-8936-8010[nama] => JOHNNYWENNYWEOL[tarif_daya] => R1/1300VA[jml_kwh] => 13[nominal] => 20000[jml_bayar] => 0))
+INFO - 2018-02-27 14:27:36 --> Final output sent to browser
+DEBUG - 2018-02-27 14:27:36 --> Total execution time: 3.0442
+INFO - 2018-02-27 08:32:06 --> Config Class Initialized
+INFO - 2018-02-27 08:32:06 --> Hooks Class Initialized
+DEBUG - 2018-02-27 08:32:06 --> UTF-8 Support Enabled
+INFO - 2018-02-27 08:32:06 --> Utf8 Class Initialized
+INFO - 2018-02-27 08:32:06 --> URI Class Initialized
+INFO - 2018-02-27 08:32:06 --> Router Class Initialized
+INFO - 2018-02-27 08:32:06 --> Output Class Initialized
+INFO - 2018-02-27 08:32:06 --> Security Class Initialized
+DEBUG - 2018-02-27 08:32:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 08:32:06 --> Input Class Initialized
+INFO - 2018-02-27 08:32:06 --> Language Class Initialized
+INFO - 2018-02-27 08:32:06 --> Language Class Initialized
+INFO - 2018-02-27 08:32:06 --> Config Class Initialized
+INFO - 2018-02-27 08:32:06 --> Loader Class Initialized
+DEBUG - 2018-02-27 08:32:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 08:32:06 --> Helper loaded: url_helper
+INFO - 2018-02-27 08:32:06 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 08:32:06 --> Helper loaded: string_helper
+INFO - 2018-02-27 08:32:06 --> Helper loaded: array_helper
+INFO - 2018-02-27 08:32:06 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 08:32:07 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 08:32:07 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 08:32:07 --> Email Class Initialized
+INFO - 2018-02-27 08:32:07 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 08:32:07 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 08:32:07 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 08:32:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 08:32:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Helper loaded: date_helper
+INFO - 2018-02-27 08:32:07 --> User Agent Class Initialized
+DEBUG - 2018-02-27 08:32:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:32:07 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Model Class Initialized
+INFO - 2018-02-27 08:32:07 --> Controller Class Initialized
+DEBUG - 2018-02-27 08:32:07 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 08:32:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 08:32:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 08:32:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 08:32:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 08:32:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 08:32:07 --> Database Driver Class Initialized
+INFO - 2018-02-27 14:32:08 --> Action: begin|API|BGL5fClnyDP7qA[::1] 
+INFO - 2018-02-27 14:32:08 --> Action: receiver |API|BGL5fClnyDP7qA ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"103";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519716728)
+INFO - 2018-02-27 14:32:08 --> Action: info |API|BGL5fClnyDP7qA |message: [paytype by [agent]]
+INFO - 2018-02-27 14:32:08 --> Action: check |API|BGL5fClnyDP7qA |message: [Admin_user2_model->User_by_username [103]]
+INFO - 2018-02-27 14:32:08 --> Action: result |API|BGL5fClnyDP7qA |message: [OK] ---|data: Array([0] => stdClass Object([id] => 103[username] => putut[first_name] => Putut[last_name] => Pujiyanto[nasabah_id] => 35200538[no_rekening] => 35.01.000538[active] => 1))
+INFO - 2018-02-27 14:32:08 --> Action: info |API|BGL5fClnyDP7qA |message: [norekening (agent) =>35.01.000538]
+INFO - 2018-02-27 14:32:08 --> Action: openhttp |API|BGL5fClnyDP7qA |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/tokenpln.php?id_pln=92739284299424&kode_produk=pln20)
+INFO - 2018-02-27 14:32:08 --> Action: result |API|BGL5fClnyDP7qA |message: [response : {"status":"OK","respon_code":"00","request_id":"628551000727","message":"SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40;26\/01\/17 14:27 ISI PLN20 KE 01108490556, BERHASIL SISA. SAL=112.800,HRG=19.860,ID=57693947,SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40; INFO : XL, AXIS, ISAT DATA untuk RS silahkan cek harga , thx.","kode_token":"3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13","saldo":"112800","id":"57693947","provider":"Powermedia"}]
+INFO - 2018-02-27 14:32:08 --> Action: insert |API|BGL5fClnyDP7qA |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5959653[TGL_TRANS] => 2018-02-27[NOCUSTOMER] => 92739284299424[COMTYPE] => PLN[MY_KODE_TRANS] => 100[KUITANSI] => 201620[POKOK] => 22000.00[ADM] => 0.00[KETERANGAN] => Commerce PLN 92739284299424 22.000 SN:92372892749748[VERIFIKASI] => 1[USERID] => 103[KODE_TRANS] => 101[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5959654)
+INFO - 2018-02-27 14:32:08 --> Action: update |API|BGL5fClnyDP7qA |message: [ADD POIN] ---|data: Array([tid] => 5959653[agent] => 103[kode] => 100[jenis] => COM[nilai] => 22000.00)
+INFO - 2018-02-27 14:32:09 --> Action: result |API|BGL5fClnyDP7qA |message: [success, running trasaction]
+INFO - 2018-02-27 14:32:09 --> Action: update |API|BGL5fClnyDP7qA |message: [Update log pulsa]
+INFO - 2018-02-27 14:32:09 --> Action: response |API|BGL5fClnyDP7qA ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 3561-2601-7730-8936-8010[code] => BGL5fClnyDP7qA[data] => Array([token] => 3561-2601-7730-8936-8010[nama] => JOHNNYWENNYWEOL[tarif_daya] => R1/1300VA[jml_kwh] => 13[nominal] => 20000[jml_bayar] => 22.000))
+INFO - 2018-02-27 14:32:09 --> Final output sent to browser
+DEBUG - 2018-02-27 14:32:09 --> Total execution time: 2.4821
+INFO - 2018-02-27 09:02:17 --> Config Class Initialized
+INFO - 2018-02-27 09:02:17 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:02:17 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:02:17 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:02:17 --> URI Class Initialized
+INFO - 2018-02-27 09:02:17 --> Router Class Initialized
+INFO - 2018-02-27 09:02:17 --> Output Class Initialized
+INFO - 2018-02-27 09:02:17 --> Security Class Initialized
+DEBUG - 2018-02-27 09:02:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:02:17 --> Input Class Initialized
+INFO - 2018-02-27 09:02:17 --> Language Class Initialized
+INFO - 2018-02-27 09:02:17 --> Language Class Initialized
+INFO - 2018-02-27 09:02:17 --> Config Class Initialized
+INFO - 2018-02-27 09:02:17 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:02:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:02:17 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:02:17 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:02:17 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:02:17 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:02:17 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:02:18 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:02:18 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:02:18 --> Email Class Initialized
+INFO - 2018-02-27 09:02:18 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:02:18 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:02:18 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:02:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:02:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:02:18 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:02:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:02:18 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Model Class Initialized
+INFO - 2018-02-27 09:02:18 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:02:18 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:02:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:02:18 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:02:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:02:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:02:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:02:18 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:02:19 --> Action: begin|API|dJ0fNmi47SvaZs[::1] 
+INFO - 2018-02-27 15:02:19 --> Action: receiver |API|dJ0fNmi47SvaZs ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"103";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718539)
+ERROR - 2018-02-27 15:02:19 --> Severity: Warning --> Missing argument 5 for Commerce::_Check_prm_topup(), called in C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php on line 1642 and defined C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php 3016
+ERROR - 2018-02-27 15:02:19 --> Severity: Warning --> Missing argument 5 for Commerce::_Check_prm_topup(), called in C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php on line 1643 and defined C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php 3016
+ERROR - 2018-02-27 15:02:19 --> Severity: Warning --> Missing argument 5 for Commerce::_Check_prm_topup(), called in C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php on line 1644 and defined C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Commerce.php 3016
+INFO - 2018-02-27 15:02:19 --> Action: info |API|dJ0fNmi47SvaZs |message: [paytype by [agent]]
+INFO - 2018-02-27 15:02:19 --> Action: check |API|dJ0fNmi47SvaZs |message: [Admin_user2_model->User_by_username [103]]
+INFO - 2018-02-27 15:02:19 --> Action: result |API|dJ0fNmi47SvaZs |message: [OK] ---|data: Array([0] => stdClass Object([id] => 103[username] => putut[first_name] => Putut[last_name] => Pujiyanto[nasabah_id] => 35200538[no_rekening] => 35.01.000538[active] => 1))
+INFO - 2018-02-27 15:02:19 --> Action: info |API|dJ0fNmi47SvaZs |message: [norekening (agent) =>35.01.000538]
+INFO - 2018-02-27 15:02:19 --> Action: openhttp |API|dJ0fNmi47SvaZs |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/tokenpln.php?id_pln=92739284299424&kode_produk=pln20)
+INFO - 2018-02-27 15:02:19 --> Action: result |API|dJ0fNmi47SvaZs |message: [response : {"status":"OK","respon_code":"00","request_id":"628551000727","message":"SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40;26\/01\/17 14:27 ISI PLN20 KE 01108490556, BERHASIL SISA. SAL=112.800,HRG=19.860,ID=57693947,SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40; INFO : XL, AXIS, ISAT DATA untuk RS silahkan cek harga , thx.","kode_token":"3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13","saldo":"112800","id":"57693947","provider":"Powermedia"}]
+INFO - 2018-02-27 15:02:19 --> Action: insert |API|dJ0fNmi47SvaZs |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5959656[TGL_TRANS] => 2018-02-27[NOCUSTOMER] => 92739284299424[COMTYPE] => PLN[MY_KODE_TRANS] => 100[KUITANSI] => 201621[POKOK] => 22000.00[ADM] => 0.00[KETERANGAN] => Commerce PLN 92739284299424 22.000 SN:92372892749748[VERIFIKASI] => 1[USERID] => 103[KODE_TRANS] => 101[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5959657)
+INFO - 2018-02-27 15:02:19 --> Action: update |API|dJ0fNmi47SvaZs |message: [ADD POIN] ---|data: Array([tid] => 5959656[agent] => 103[kode] => 100[jenis] => COM[nilai] => 22000.00)
+INFO - 2018-02-27 15:02:19 --> Action: result |API|dJ0fNmi47SvaZs |message: [success, running trasaction]
+INFO - 2018-02-27 15:02:19 --> Action: update |API|dJ0fNmi47SvaZs |message: [Update log pulsa]
+INFO - 2018-02-27 15:02:19 --> Action: response |API|dJ0fNmi47SvaZs ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 3561-2601-7730-8936-8010[code] => dJ0fNmi47SvaZs[data] => Array([token] => 3561-2601-7730-8936-8010[nama] => JOHNNYWENNYWEOL[tarif_daya] => R1/1300VA[jml_kwh] => 13[nominal] => 20000[jml_bayar] => 22.000))
+INFO - 2018-02-27 15:02:19 --> Final output sent to browser
+DEBUG - 2018-02-27 15:02:19 --> Total execution time: 2.4511
+INFO - 2018-02-27 09:02:56 --> Config Class Initialized
+INFO - 2018-02-27 09:02:56 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:02:56 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:02:56 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:02:56 --> URI Class Initialized
+INFO - 2018-02-27 09:02:56 --> Router Class Initialized
+INFO - 2018-02-27 09:02:56 --> Output Class Initialized
+INFO - 2018-02-27 09:02:56 --> Security Class Initialized
+DEBUG - 2018-02-27 09:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:02:56 --> Input Class Initialized
+INFO - 2018-02-27 09:02:56 --> Language Class Initialized
+INFO - 2018-02-27 09:02:56 --> Language Class Initialized
+INFO - 2018-02-27 09:02:56 --> Config Class Initialized
+INFO - 2018-02-27 09:02:56 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:02:56 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:02:56 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:02:56 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:02:56 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:02:56 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:02:56 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:02:57 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:02:57 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:02:57 --> Email Class Initialized
+INFO - 2018-02-27 09:02:57 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:02:57 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:02:57 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:02:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:02:57 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:02:57 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:02:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:02:57 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Model Class Initialized
+INFO - 2018-02-27 09:02:57 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:02:57 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:02:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:02:57 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:02:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:02:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:02:57 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:02:57 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:02:58 --> Action: begin|API|oEc4ZvCWfaX3QN[::1] 
+INFO - 2018-02-27 15:02:58 --> Action: receiver |API|oEc4ZvCWfaX3QN ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"103";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718578)
+INFO - 2018-02-27 15:02:58 --> Action: info |API|oEc4ZvCWfaX3QN |message: [paytype by [agent]]
+INFO - 2018-02-27 15:02:58 --> Action: check |API|oEc4ZvCWfaX3QN |message: [Admin_user2_model->User_by_username [103]]
+INFO - 2018-02-27 15:02:58 --> Action: result |API|oEc4ZvCWfaX3QN |message: [OK] ---|data: Array([0] => stdClass Object([id] => 103[username] => putut[first_name] => Putut[last_name] => Pujiyanto[nasabah_id] => 35200538[no_rekening] => 35.01.000538[active] => 1))
+INFO - 2018-02-27 15:02:58 --> Action: info |API|oEc4ZvCWfaX3QN |message: [norekening (agent) =>35.01.000538]
+INFO - 2018-02-27 15:02:58 --> Action: openhttp |API|oEc4ZvCWfaX3QN |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/tokenpln.php?id_pln=92739284299424&kode_produk=pln20)
+INFO - 2018-02-27 15:02:58 --> Action: result |API|oEc4ZvCWfaX3QN |message: [response : {"status":"OK","respon_code":"00","request_id":"628551000727","message":"SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40;26\/01\/17 14:27 ISI PLN20 KE 01108490556, BERHASIL SISA. SAL=112.800,HRG=19.860,ID=57693947,SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40; INFO : XL, AXIS, ISAT DATA untuk RS silahkan cek harga , thx.","kode_token":"3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13","saldo":"112800","id":"57693947","provider":"Powermedia"}]
+INFO - 2018-02-27 15:02:59 --> Action: insert |API|oEc4ZvCWfaX3QN |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5959659[TGL_TRANS] => 2018-02-27[NOCUSTOMER] => 92739284299424[COMTYPE] => PLN[MY_KODE_TRANS] => 100[KUITANSI] => 201622[POKOK] => 22000.00[ADM] => 0.00[KETERANGAN] => Commerce PLN 92739284299424 22.000 SN:92372892749748[VERIFIKASI] => 1[USERID] => 103[KODE_TRANS] => 101[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5959660)
+INFO - 2018-02-27 15:02:59 --> Action: update |API|oEc4ZvCWfaX3QN |message: [ADD POIN] ---|data: Array([tid] => 5959659[agent] => 103[kode] => 100[jenis] => COM[nilai] => 22000.00)
+INFO - 2018-02-27 15:02:59 --> Action: result |API|oEc4ZvCWfaX3QN |message: [success, running trasaction]
+INFO - 2018-02-27 15:02:59 --> Action: update |API|oEc4ZvCWfaX3QN |message: [Update log pulsa]
+INFO - 2018-02-27 15:02:59 --> Action: response |API|oEc4ZvCWfaX3QN ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 3561-2601-7730-8936-8010[code] => oEc4ZvCWfaX3QN[data] => Array([token] => 3561-2601-7730-8936-8010[nama] => JOHNNYWENNYWEOL[tarif_daya] => R1/1300VA[jml_kwh] => 13[nominal] => 20000[jml_bayar] => 22.000))
+INFO - 2018-02-27 15:02:59 --> Final output sent to browser
+DEBUG - 2018-02-27 15:02:59 --> Total execution time: 2.5391
+INFO - 2018-02-27 09:03:05 --> Config Class Initialized
+INFO - 2018-02-27 09:03:05 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:03:05 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:03:05 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:03:05 --> URI Class Initialized
+INFO - 2018-02-27 09:03:05 --> Router Class Initialized
+INFO - 2018-02-27 09:03:05 --> Output Class Initialized
+INFO - 2018-02-27 09:03:05 --> Security Class Initialized
+DEBUG - 2018-02-27 09:03:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:03:05 --> Input Class Initialized
+INFO - 2018-02-27 09:03:05 --> Language Class Initialized
+INFO - 2018-02-27 09:03:05 --> Language Class Initialized
+INFO - 2018-02-27 09:03:05 --> Config Class Initialized
+INFO - 2018-02-27 09:03:05 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:03:05 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:03:05 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:03:05 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:03:05 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:03:05 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:03:05 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:03:06 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:03:06 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:03:06 --> Email Class Initialized
+INFO - 2018-02-27 09:03:06 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:03:06 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:03:06 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:03:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:03:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:03:06 --> Model Class Initialized
+INFO - 2018-02-27 09:03:06 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:03:06 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:03:06 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:03:06 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:03:06 --> Model Class Initialized
+INFO - 2018-02-27 09:03:06 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Model Class Initialized
+INFO - 2018-02-27 09:03:07 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:03:07 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:03:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:03:07 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:03:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:03:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:03:07 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:03:07 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:03:08 --> Action: begin|API|Pgmj7HaCzA3kJu[::1] 
+INFO - 2018-02-27 15:03:08 --> Action: receiver |API|Pgmj7HaCzA3kJu ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:0:"";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718588)
+INFO - 2018-02-27 15:03:08 --> Action: response |API|Pgmj7HaCzA3kJu |message: [failed,in_agenid isempty] ---|data: Array([status] => [error_code] => 612[message] => in_agenid isempty[sn] => [code] => )
+INFO - 2018-02-27 15:03:08 --> Final output sent to browser
+DEBUG - 2018-02-27 15:03:08 --> Total execution time: 2.6011
+INFO - 2018-02-27 09:04:13 --> Config Class Initialized
+INFO - 2018-02-27 09:04:13 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:04:13 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:04:13 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:04:13 --> URI Class Initialized
+INFO - 2018-02-27 09:04:13 --> Router Class Initialized
+INFO - 2018-02-27 09:04:13 --> Output Class Initialized
+INFO - 2018-02-27 09:04:13 --> Security Class Initialized
+DEBUG - 2018-02-27 09:04:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:04:13 --> Input Class Initialized
+INFO - 2018-02-27 09:04:13 --> Language Class Initialized
+INFO - 2018-02-27 09:04:13 --> Language Class Initialized
+INFO - 2018-02-27 09:04:13 --> Config Class Initialized
+INFO - 2018-02-27 09:04:13 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:04:13 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:04:13 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:04:13 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:04:13 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:04:13 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:04:13 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:04:14 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:04:14 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:04:14 --> Email Class Initialized
+INFO - 2018-02-27 09:04:14 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:04:14 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:04:14 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:04:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:04:14 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:04:14 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:04:14 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:04:14 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Model Class Initialized
+INFO - 2018-02-27 09:04:14 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:04:14 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:04:14 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:04:14 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:04:14 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:04:14 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:04:14 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:04:14 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:04:15 --> Action: begin|API|Rp75gMDb8xJuLd[::1] 
+INFO - 2018-02-27 15:04:15 --> Action: receiver |API|Rp75gMDb8xJuLd ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:0:"";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718655)
+INFO - 2018-02-27 15:04:15 --> Action: response |API|Rp75gMDb8xJuLd |message: [failed,in_agenid isempty] ---|data: Array([status] => [error_code] => 612[message] => in_agenid isempty[sn] => [code] => [data] => Array([token] => [nama] => [tarif_daya] => [jml_kwh] => [nominal] => [jml_bayar] => ))
+INFO - 2018-02-27 15:04:15 --> Final output sent to browser
+DEBUG - 2018-02-27 15:04:15 --> Total execution time: 2.2121
+INFO - 2018-02-27 09:04:30 --> Config Class Initialized
+INFO - 2018-02-27 09:04:30 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:04:30 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:04:30 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:04:30 --> URI Class Initialized
+INFO - 2018-02-27 09:04:30 --> Router Class Initialized
+INFO - 2018-02-27 09:04:30 --> Output Class Initialized
+INFO - 2018-02-27 09:04:30 --> Security Class Initialized
+DEBUG - 2018-02-27 09:04:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:04:30 --> Input Class Initialized
+INFO - 2018-02-27 09:04:30 --> Language Class Initialized
+INFO - 2018-02-27 09:04:30 --> Language Class Initialized
+INFO - 2018-02-27 09:04:30 --> Config Class Initialized
+INFO - 2018-02-27 09:04:30 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:04:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:04:30 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:04:30 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:04:30 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:04:30 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:04:30 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:04:31 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:04:31 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:04:31 --> Email Class Initialized
+INFO - 2018-02-27 09:04:31 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:04:31 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:04:31 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:04:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:04:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:04:31 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:04:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:04:31 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Model Class Initialized
+INFO - 2018-02-27 09:04:31 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:04:31 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:04:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:04:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:04:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:04:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:04:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:04:31 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:04:32 --> Action: begin|API|GMWPFO5l60ILxB[::1] 
+INFO - 2018-02-27 15:04:32 --> Action: receiver |API|GMWPFO5l60ILxB ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"102";s:5:"plnid";s:0:"";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718672)
+INFO - 2018-02-27 15:04:32 --> Action: response |API|GMWPFO5l60ILxB |message: [failed,plnid isempty] ---|data: Array([status] => [error_code] => 614[message] => plnid isempty[sn] => [code] => )
+INFO - 2018-02-27 15:04:32 --> Final output sent to browser
+DEBUG - 2018-02-27 15:04:32 --> Total execution time: 2.2511
+INFO - 2018-02-27 09:04:44 --> Config Class Initialized
+INFO - 2018-02-27 09:04:44 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:04:44 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:04:44 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:04:44 --> URI Class Initialized
+INFO - 2018-02-27 09:04:44 --> Router Class Initialized
+INFO - 2018-02-27 09:04:44 --> Output Class Initialized
+INFO - 2018-02-27 09:04:44 --> Security Class Initialized
+DEBUG - 2018-02-27 09:04:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:04:44 --> Input Class Initialized
+INFO - 2018-02-27 09:04:44 --> Language Class Initialized
+INFO - 2018-02-27 09:04:44 --> Language Class Initialized
+INFO - 2018-02-27 09:04:44 --> Config Class Initialized
+INFO - 2018-02-27 09:04:44 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:04:44 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:04:44 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:04:44 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:04:44 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:04:44 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:04:44 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:04:45 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:04:45 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:04:45 --> Email Class Initialized
+INFO - 2018-02-27 09:04:45 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:04:45 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:04:45 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:04:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:04:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:04:45 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:04:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:04:45 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Model Class Initialized
+INFO - 2018-02-27 09:04:45 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:04:45 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:04:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:04:45 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:04:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:04:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:04:45 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:04:45 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:04:46 --> Action: begin|API|t8dl63mFJfeqPu[::1] 
+INFO - 2018-02-27 15:04:46 --> Action: receiver |API|t8dl63mFJfeqPu ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:0:"";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718686)
+INFO - 2018-02-27 15:04:46 --> Action: response |API|t8dl63mFJfeqPu |message: [failed,in_agenid isempty] ---|data: Array([status] => [error_code] => 612[message] => in_agenid isempty[sn] => [code] => [data] => Array([token] => [nama] => [tarif_daya] => [jml_kwh] => [nominal] => [jml_bayar] => ))
+INFO - 2018-02-27 15:04:46 --> Final output sent to browser
+DEBUG - 2018-02-27 15:04:46 --> Total execution time: 2.3671
+INFO - 2018-02-27 09:05:23 --> Config Class Initialized
+INFO - 2018-02-27 09:05:23 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:05:23 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:05:23 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:05:23 --> URI Class Initialized
+INFO - 2018-02-27 09:05:23 --> Router Class Initialized
+INFO - 2018-02-27 09:05:23 --> Output Class Initialized
+INFO - 2018-02-27 09:05:23 --> Security Class Initialized
+DEBUG - 2018-02-27 09:05:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:05:23 --> Input Class Initialized
+INFO - 2018-02-27 09:05:23 --> Language Class Initialized
+INFO - 2018-02-27 09:05:23 --> Language Class Initialized
+INFO - 2018-02-27 09:05:23 --> Config Class Initialized
+INFO - 2018-02-27 09:05:23 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:05:23 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:05:23 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:05:23 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:05:23 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:05:23 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:05:23 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:05:24 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:05:24 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:05:24 --> Email Class Initialized
+INFO - 2018-02-27 09:05:24 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:05:24 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:05:24 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:05:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:05:24 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:05:24 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:05:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:05:24 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Model Class Initialized
+INFO - 2018-02-27 09:05:24 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:05:24 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:05:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:05:24 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:05:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:05:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:05:24 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:05:24 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:05:26 --> Action: begin|API|XDeLCfhJ5kwK0v[::1] 
+INFO - 2018-02-27 15:05:26 --> Action: receiver |API|XDeLCfhJ5kwK0v ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:0:"";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718726)
+INFO - 2018-02-27 15:05:26 --> Action: response |API|XDeLCfhJ5kwK0v |message: [failed,in_agenid isempty] ---|data: Array([0] => Array([status] => [error_code] => 612[message] => in_agenid isempty[sn] => [code] => )[data] => Array([token] => [nama] => [tarif_daya] => [jml_kwh] => [nominal] => [jml_bayar] => ))
+INFO - 2018-02-27 15:05:26 --> Final output sent to browser
+DEBUG - 2018-02-27 15:05:26 --> Total execution time: 2.5871
+INFO - 2018-02-27 09:05:37 --> Config Class Initialized
+INFO - 2018-02-27 09:05:37 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:05:37 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:05:37 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:05:37 --> URI Class Initialized
+INFO - 2018-02-27 09:05:37 --> Router Class Initialized
+INFO - 2018-02-27 09:05:37 --> Output Class Initialized
+INFO - 2018-02-27 09:05:37 --> Security Class Initialized
+DEBUG - 2018-02-27 09:05:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:05:37 --> Input Class Initialized
+INFO - 2018-02-27 09:05:37 --> Language Class Initialized
+INFO - 2018-02-27 09:05:37 --> Language Class Initialized
+INFO - 2018-02-27 09:05:37 --> Config Class Initialized
+INFO - 2018-02-27 09:05:37 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:05:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:05:37 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:05:37 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:05:37 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:05:37 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:05:37 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:05:38 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:05:38 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:05:38 --> Email Class Initialized
+INFO - 2018-02-27 09:05:38 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:05:38 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:05:38 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:05:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:05:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:05:38 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:05:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:05:38 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Model Class Initialized
+INFO - 2018-02-27 09:05:38 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:05:38 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:05:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:05:38 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:05:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:05:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:05:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:05:38 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:05:39 --> Action: begin|API|37UClOS0fGjEHn[::1] 
+INFO - 2018-02-27 15:05:39 --> Action: receiver |API|37UClOS0fGjEHn ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:0:"";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718739)
+INFO - 2018-02-27 15:05:39 --> Action: response |API|37UClOS0fGjEHn |message: [failed,in_agenid isempty] ---|data: Array([status] => [error_code] => 612[message] => in_agenid isempty[sn] => [code] => [data] => Array([token] => [nama] => [tarif_daya] => [jml_kwh] => [nominal] => [jml_bayar] => ))
+INFO - 2018-02-27 15:05:39 --> Final output sent to browser
+DEBUG - 2018-02-27 15:05:39 --> Total execution time: 2.3111
+INFO - 2018-02-27 09:06:02 --> Config Class Initialized
+INFO - 2018-02-27 09:06:02 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:06:02 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:06:02 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:06:02 --> URI Class Initialized
+INFO - 2018-02-27 09:06:02 --> Router Class Initialized
+INFO - 2018-02-27 09:06:02 --> Output Class Initialized
+INFO - 2018-02-27 09:06:02 --> Security Class Initialized
+DEBUG - 2018-02-27 09:06:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:06:02 --> Input Class Initialized
+INFO - 2018-02-27 09:06:02 --> Language Class Initialized
+INFO - 2018-02-27 09:06:02 --> Language Class Initialized
+INFO - 2018-02-27 09:06:02 --> Config Class Initialized
+INFO - 2018-02-27 09:06:02 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:06:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:06:02 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:06:02 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:06:02 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:06:02 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:06:02 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:06:03 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:06:03 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:06:03 --> Email Class Initialized
+INFO - 2018-02-27 09:06:03 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:06:03 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:06:03 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:06:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:06:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:06:03 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:06:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:06:03 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Model Class Initialized
+INFO - 2018-02-27 09:06:03 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:06:03 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:06:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:06:03 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:06:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:06:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:06:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:06:03 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:06:04 --> Action: begin|API|ujP68UL3rbaR7Z[::1] 
+INFO - 2018-02-27 15:06:04 --> Action: receiver |API|ujP68UL3rbaR7Z ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"102";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718764)
+INFO - 2018-02-27 15:06:04 --> Action: info |API|ujP68UL3rbaR7Z |message: [paytype by [agent]]
+INFO - 2018-02-27 15:06:04 --> Action: check |API|ujP68UL3rbaR7Z |message: [Admin_user2_model->User_by_username [102]]
+INFO - 2018-02-27 15:06:04 --> Action: result |API|ujP68UL3rbaR7Z |message: [OK] ---|data: Array([0] => stdClass Object([id] => 102[username] => devapp[first_name] => Edi[last_name] => Supriyanto[nasabah_id] => [no_rekening] => [active] => 1))
+INFO - 2018-02-27 15:06:04 --> Action: response |API|ujP68UL3rbaR7Z |message: [failed,rekening agent invalid] ---|data: Array([status] => [error_code] => 627[message] => rekening agent invalid[sn] => )
+INFO - 2018-02-27 15:06:04 --> Final output sent to browser
+DEBUG - 2018-02-27 15:06:04 --> Total execution time: 2.2201
+INFO - 2018-02-27 09:06:17 --> Config Class Initialized
+INFO - 2018-02-27 09:06:17 --> Hooks Class Initialized
+DEBUG - 2018-02-27 09:06:17 --> UTF-8 Support Enabled
+INFO - 2018-02-27 09:06:17 --> Utf8 Class Initialized
+INFO - 2018-02-27 09:06:17 --> URI Class Initialized
+INFO - 2018-02-27 09:06:17 --> Router Class Initialized
+INFO - 2018-02-27 09:06:17 --> Output Class Initialized
+INFO - 2018-02-27 09:06:17 --> Security Class Initialized
+DEBUG - 2018-02-27 09:06:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-27 09:06:17 --> Input Class Initialized
+INFO - 2018-02-27 09:06:17 --> Language Class Initialized
+INFO - 2018-02-27 09:06:17 --> Language Class Initialized
+INFO - 2018-02-27 09:06:17 --> Config Class Initialized
+INFO - 2018-02-27 09:06:17 --> Loader Class Initialized
+DEBUG - 2018-02-27 09:06:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-27 09:06:17 --> Helper loaded: url_helper
+INFO - 2018-02-27 09:06:17 --> Helper loaded: inflector_helper
+INFO - 2018-02-27 09:06:17 --> Helper loaded: string_helper
+INFO - 2018-02-27 09:06:17 --> Helper loaded: array_helper
+INFO - 2018-02-27 09:06:17 --> Database Driver Class Initialized
+DEBUG - 2018-02-27 09:06:18 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-27 09:06:18 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-27 09:06:18 --> Email Class Initialized
+INFO - 2018-02-27 09:06:18 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-27 09:06:18 --> Helper loaded: cookie_helper
+INFO - 2018-02-27 09:06:18 --> Helper loaded: language_helper
+DEBUG - 2018-02-27 09:06:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-27 09:06:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Helper loaded: date_helper
+INFO - 2018-02-27 09:06:18 --> User Agent Class Initialized
+DEBUG - 2018-02-27 09:06:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:06:18 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Model Class Initialized
+INFO - 2018-02-27 09:06:18 --> Controller Class Initialized
+DEBUG - 2018-02-27 09:06:18 --> Commerce MX_Controller Initialized
+DEBUG - 2018-02-27 09:06:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-27 09:06:18 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-27 09:06:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-27 09:06:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-27 09:06:18 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-27 09:06:18 --> Database Driver Class Initialized
+INFO - 2018-02-27 15:06:19 --> Action: begin|API|EaYN6hK10DXVzS[::1] 
+INFO - 2018-02-27 15:06:19 --> Action: receiver |API|EaYN6hK10DXVzS ---|data: Array([uri] => api/commerce/topup_pln[method] => post[params] => a:4:{s:7:"agentid";s:3:"103";s:5:"plnid";s:14:"92739284299424";s:7:"paytype";s:5:"agent";s:6:"produk";s:5:"pln20";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519718779)
+INFO - 2018-02-27 15:06:19 --> Action: info |API|EaYN6hK10DXVzS |message: [paytype by [agent]]
+INFO - 2018-02-27 15:06:19 --> Action: check |API|EaYN6hK10DXVzS |message: [Admin_user2_model->User_by_username [103]]
+INFO - 2018-02-27 15:06:19 --> Action: result |API|EaYN6hK10DXVzS |message: [OK] ---|data: Array([0] => stdClass Object([id] => 103[username] => putut[first_name] => Putut[last_name] => Pujiyanto[nasabah_id] => 35200538[no_rekening] => 35.01.000538[active] => 1))
+INFO - 2018-02-27 15:06:19 --> Action: info |API|EaYN6hK10DXVzS |message: [norekening (agent) =>35.01.000538]
+INFO - 2018-02-27 15:06:19 --> Action: openhttp |API|EaYN6hK10DXVzS |message: [hit url] ---|data: Array([url] => http://10.1.1.62/API_BMT_NEW/tokenpln.php?id_pln=92739284299424&kode_produk=pln20)
+INFO - 2018-02-27 15:06:19 --> Action: result |API|EaYN6hK10DXVzS |message: [response : {"status":"OK","respon_code":"00","request_id":"628551000727","message":"SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40;26\/01\/17 14:27 ISI PLN20 KE 01108490556, BERHASIL SISA. SAL=112.800,HRG=19.860,ID=57693947,SN=3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13,40; INFO : XL, AXIS, ISAT DATA untuk RS silahkan cek harga , thx.","kode_token":"3561-2601-7730-8936-8010\/JOHNNYWENNYWEOL\/R1\/1300VA\/13","saldo":"112800","id":"57693947","provider":"Powermedia"}]
+INFO - 2018-02-27 15:06:19 --> Action: insert |API|EaYN6hK10DXVzS |message: [Tab_model->Ins_Tbl("COMTRANS")] ---|data: Array([COMTRANS_ID] => 5959662[TGL_TRANS] => 2018-02-27[NOCUSTOMER] => 92739284299424[COMTYPE] => PLN[MY_KODE_TRANS] => 100[KUITANSI] => 201623[POKOK] => 22000.00[ADM] => 0.00[KETERANGAN] => Commerce PLN 92739284299424 22.000 SN:92372892749748[VERIFIKASI] => 1[USERID] => 103[KODE_TRANS] => 101[TOB] => T[SANDI_TRANS] => [KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => 0.00[MODEL] => COM[COMMON_ID] => 5959663)
+INFO - 2018-02-27 15:06:19 --> Action: update |API|EaYN6hK10DXVzS |message: [ADD POIN] ---|data: Array([tid] => 5959662[agent] => 103[kode] => 100[jenis] => COM[nilai] => 22000.00)
+INFO - 2018-02-27 15:06:20 --> Action: result |API|EaYN6hK10DXVzS |message: [success, running trasaction]
+INFO - 2018-02-27 15:06:20 --> Action: update |API|EaYN6hK10DXVzS |message: [Update log pulsa]
+INFO - 2018-02-27 15:06:20 --> Action: response |API|EaYN6hK10DXVzS ---|data: Array([status] => 1[error_code] => 600[message] => success[sn] => 3561-2601-7730-8936-8010[code] => EaYN6hK10DXVzS[data] => Array([token] => 3561-2601-7730-8936-8010[nama] => JOHNNYWENNYWEOL[tarif_daya] => R1/1300VA[jml_kwh] => 13[nominal] => 20000[jml_bayar] => 22.000))
+INFO - 2018-02-27 15:06:20 --> Final output sent to browser
+DEBUG - 2018-02-27 15:06:20 --> Total execution time: 2.6452

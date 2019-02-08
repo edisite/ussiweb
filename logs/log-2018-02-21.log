@@ -1,0 +1,690 @@
+INFO - 2018-02-21 08:23:29 --> Config Class Initialized
+INFO - 2018-02-21 08:23:29 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:23:29 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:23:29 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:23:29 --> URI Class Initialized
+INFO - 2018-02-21 08:23:29 --> Router Class Initialized
+INFO - 2018-02-21 08:23:29 --> Output Class Initialized
+INFO - 2018-02-21 08:23:29 --> Security Class Initialized
+DEBUG - 2018-02-21 08:23:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:23:29 --> Input Class Initialized
+INFO - 2018-02-21 08:23:29 --> Language Class Initialized
+INFO - 2018-02-21 08:23:29 --> Language Class Initialized
+INFO - 2018-02-21 08:23:29 --> Config Class Initialized
+INFO - 2018-02-21 08:23:29 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:23:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:23:29 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:23:29 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:23:29 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:23:29 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:23:29 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:23:30 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:23:30 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:23:30 --> Email Class Initialized
+INFO - 2018-02-21 08:23:30 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:23:30 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:23:30 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:23:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:23:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:23:30 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:23:30 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:23:30 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:30 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Model Class Initialized
+INFO - 2018-02-21 08:23:31 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:23:31 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:23:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:23:31 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:23:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:23:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:23:31 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:23:31 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:23:32 --> Action: begin|API|hjgtd42zafHG1r[::1] 
+INFO - 2018-02-21 14:23:32 --> Action: receiver |API|hjgtd42zafHG1r ---|data: Array([uri] => api/tabung/setor[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519197812)
+INFO - 2018-02-21 14:23:33 --> Action: insert |API|hjgtd42zafHG1r |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959546[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 100[KUITANSI] => Tab.0001[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 100[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959547)
+INFO - 2018-02-21 14:23:33 --> Action: update  |API|hjgtd42zafHG1r |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:23:36 --> Action: select |API|hjgtd42zafHG1r |message: [Tab_model->Tab_trans(5959546)]
+INFO - 2018-02-21 14:23:36 --> Action: select |API|hjgtd42zafHG1r |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:23:36 --> Action: result |API|hjgtd42zafHG1r |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:23:36 --> Action: select |API|hjgtd42zafHG1r |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:23:36 --> Action: result |API|hjgtd42zafHG1r |message: [kode_perk_kas set default] ---|data: Array([kode_perk_kas] => 10101)
+INFO - 2018-02-21 14:23:36 --> Action: select |API|hjgtd42zafHG1r |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:23:36 --> Action: result |API|hjgtd42zafHG1r |message: [g_or_d] ---|data: Array([G_OR_D] => D[nama_perk] => Kas Kasanah)
+INFO - 2018-02-21 14:23:36 --> Action: select |API|hjgtd42zafHG1r |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:23:36 --> Action: result |API|hjgtd42zafHG1r |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:23:36 --> Action: kodejurnal |API|hjgtd42zafHG1r |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:23:36 --> Action: transaction |API|hjgtd42zafHG1r |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959548[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.0001[TGL_TRANS] => 2018-02-21[URAIAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959546[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:23:36 --> Action: transaction |API|hjgtd42zafHG1r |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959549[MASTER_ID] => 5959548[KODE_PERK] => 20201[DEBET] => 0[KREDIT] => 10000)[1] => Array([TRANS_ID] => 5959550[MASTER_ID] => 5959548[KODE_PERK] => 10101[DEBET] => 10000[KREDIT] => 0))
+INFO - 2018-02-21 14:23:36 --> Action: update |API|hjgtd42zafHG1r |message: [ADD POIN] ---|data: Array([tid] => 5959546[agent] => 102[kode] => 100[jenis] => TAB[nilai] => 10000)
+ERROR - 2018-02-21 14:23:37 --> Severity: Warning --> file_get_contents(http://localhost/insert_poin/insert_his_reward.php?transaksi_id=5959546&amp;agent_id=102&amp;jenis_transaksi=TAB&amp;kode_transaksi=100&amp;value=10000): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ C:\xampp\htdocs\ci\ussiweb\application\models\Poin_model.php 45
+INFO - 2018-02-21 14:23:37 --> Action: result |API|hjgtd42zafHG1r |message: [response]
+INFO - 2018-02-21 14:23:37 --> Action: result |API|hjgtd42zafHG1r |message: [success, running trasaction]
+INFO - 2018-02-21 14:23:37 --> Action: response |API|hjgtd42zafHG1r ---|data: Array([status] => 1[code] => 5959546[message] => success[data] => Array([saldo_awal] => 30.975,00[jml_setoran] => 10.000,00[saldo_akhir] => 40.975,00))
+INFO - 2018-02-21 14:23:37 --> Final output sent to browser
+DEBUG - 2018-02-21 14:23:37 --> Total execution time: 7.9355
+INFO - 2018-02-21 08:24:16 --> Config Class Initialized
+INFO - 2018-02-21 08:24:16 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:24:16 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:24:16 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:24:16 --> URI Class Initialized
+INFO - 2018-02-21 08:24:16 --> Router Class Initialized
+INFO - 2018-02-21 08:24:16 --> Output Class Initialized
+INFO - 2018-02-21 08:24:16 --> Security Class Initialized
+DEBUG - 2018-02-21 08:24:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:24:16 --> Input Class Initialized
+INFO - 2018-02-21 08:24:16 --> Language Class Initialized
+INFO - 2018-02-21 08:24:16 --> Language Class Initialized
+INFO - 2018-02-21 08:24:16 --> Config Class Initialized
+INFO - 2018-02-21 08:24:16 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:24:16 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:24:16 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:24:16 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:24:16 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:24:16 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:24:16 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:24:17 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:24:17 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:24:17 --> Email Class Initialized
+INFO - 2018-02-21 08:24:17 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:24:17 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:24:17 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:24:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:24:17 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:24:17 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:24:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:24:17 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Model Class Initialized
+INFO - 2018-02-21 08:24:17 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:24:17 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:24:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:24:17 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:24:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:24:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:24:17 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:24:17 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:24:18 --> Action: begin|API|Zemg7aQnIt5lSY[::1] 
+INFO - 2018-02-21 14:24:18 --> Action: receiver |API|Zemg7aQnIt5lSY ---|data: Array([uri] => api/tabung/setor[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519197858)
+INFO - 2018-02-21 14:24:18 --> Action: insert |API|Zemg7aQnIt5lSY |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959551[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 100[KUITANSI] => Tab.2[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 100[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959552)
+INFO - 2018-02-21 14:24:18 --> Action: update  |API|Zemg7aQnIt5lSY |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:24:18 --> Action: select |API|Zemg7aQnIt5lSY |message: [Tab_model->Tab_trans(5959551)]
+INFO - 2018-02-21 14:24:18 --> Action: select |API|Zemg7aQnIt5lSY |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:24:18 --> Action: result |API|Zemg7aQnIt5lSY |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:24:18 --> Action: select |API|Zemg7aQnIt5lSY |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:24:18 --> Action: result |API|Zemg7aQnIt5lSY |message: [kode_perk_kas set default] ---|data: Array([kode_perk_kas] => 10101)
+INFO - 2018-02-21 14:24:18 --> Action: select |API|Zemg7aQnIt5lSY |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:24:18 --> Action: result |API|Zemg7aQnIt5lSY |message: [g_or_d] ---|data: Array([G_OR_D] => D[nama_perk] => Kas Kasanah)
+INFO - 2018-02-21 14:24:18 --> Action: select |API|Zemg7aQnIt5lSY |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:24:18 --> Action: result |API|Zemg7aQnIt5lSY |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:24:18 --> Action: kodejurnal |API|Zemg7aQnIt5lSY |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:24:18 --> Action: transaction |API|Zemg7aQnIt5lSY |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959553[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.2[TGL_TRANS] => 2018-02-21[URAIAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959551[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:24:18 --> Action: transaction |API|Zemg7aQnIt5lSY |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959554[MASTER_ID] => 5959553[KODE_PERK] => 20201[DEBET] => 0[KREDIT] => 10000)[1] => Array([TRANS_ID] => 5959555[MASTER_ID] => 5959553[KODE_PERK] => 10101[DEBET] => 10000[KREDIT] => 0))
+INFO - 2018-02-21 14:24:18 --> Action: update |API|Zemg7aQnIt5lSY |message: [ADD POIN] ---|data: Array([tid] => 5959551[agent] => 102[kode] => 100[jenis] => TAB[nilai] => 10000)
+INFO - 2018-02-21 14:24:18 --> Action: result |API|Zemg7aQnIt5lSY |message: [response]
+INFO - 2018-02-21 14:24:18 --> Action: result |API|Zemg7aQnIt5lSY |message: [success, running trasaction]
+INFO - 2018-02-21 14:24:18 --> Action: response |API|Zemg7aQnIt5lSY ---|data: Array([status] => 1[code] => 5959551[message] => success[data] => Array([saldo_awal] => 40.975,00[jml_setoran] => 10.000,00[saldo_akhir] => 50.975,00))
+INFO - 2018-02-21 14:24:18 --> Final output sent to browser
+DEBUG - 2018-02-21 14:24:18 --> Total execution time: 2.8092
+INFO - 2018-02-21 08:44:26 --> Config Class Initialized
+INFO - 2018-02-21 08:44:26 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:44:26 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:44:26 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:44:26 --> URI Class Initialized
+INFO - 2018-02-21 08:44:26 --> Router Class Initialized
+INFO - 2018-02-21 08:44:26 --> Output Class Initialized
+INFO - 2018-02-21 08:44:26 --> Security Class Initialized
+DEBUG - 2018-02-21 08:44:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:44:26 --> Input Class Initialized
+INFO - 2018-02-21 08:44:26 --> Language Class Initialized
+INFO - 2018-02-21 08:44:26 --> Language Class Initialized
+INFO - 2018-02-21 08:44:26 --> Config Class Initialized
+INFO - 2018-02-21 08:44:26 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:44:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:44:26 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:44:26 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:44:26 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:44:26 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:44:26 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:44:27 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:44:27 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:44:27 --> Email Class Initialized
+INFO - 2018-02-21 08:44:27 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:44:27 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:44:27 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:44:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:44:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:44:27 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:44:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:44:27 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Model Class Initialized
+INFO - 2018-02-21 08:44:27 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:44:27 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:44:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:44:27 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:44:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:44:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:44:27 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:44:27 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:44:29 --> Action: begin|API|KtazVM48d5o0RO[::1] 
+INFO - 2018-02-21 14:44:29 --> Action: receiver |API|KtazVM48d5o0RO ---|data: Array([uri] => api/tabung/setor[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199069)
+INFO - 2018-02-21 14:44:29 --> Action: insert |API|KtazVM48d5o0RO |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959556[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 100[KUITANSI] => Tab.0003[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 100[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959557)
+INFO - 2018-02-21 14:44:29 --> Action: update  |API|KtazVM48d5o0RO |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:44:29 --> Action: select |API|KtazVM48d5o0RO |message: [Tab_model->Tab_trans(5959556)]
+INFO - 2018-02-21 14:44:29 --> Action: select |API|KtazVM48d5o0RO |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:44:29 --> Action: result |API|KtazVM48d5o0RO |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:44:29 --> Action: select |API|KtazVM48d5o0RO |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:44:29 --> Action: result |API|KtazVM48d5o0RO |message: [kode_perk_kas set default] ---|data: Array([kode_perk_kas] => 10101)
+INFO - 2018-02-21 14:44:29 --> Action: select |API|KtazVM48d5o0RO |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:44:29 --> Action: result |API|KtazVM48d5o0RO |message: [g_or_d] ---|data: Array([G_OR_D] => D[nama_perk] => Kas Kasanah)
+INFO - 2018-02-21 14:44:29 --> Action: select |API|KtazVM48d5o0RO |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:44:29 --> Action: result |API|KtazVM48d5o0RO |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:44:29 --> Action: kodejurnal |API|KtazVM48d5o0RO |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:44:29 --> Action: transaction |API|KtazVM48d5o0RO |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959558[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.0003[TGL_TRANS] => 2018-02-21[URAIAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959556[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:44:29 --> Action: transaction |API|KtazVM48d5o0RO |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959559[MASTER_ID] => 5959558[KODE_PERK] => 20201[DEBET] => 0[KREDIT] => 10000)[1] => Array([TRANS_ID] => 5959560[MASTER_ID] => 5959558[KODE_PERK] => 10101[DEBET] => 10000[KREDIT] => 0))
+INFO - 2018-02-21 14:44:29 --> Action: update |API|KtazVM48d5o0RO |message: [ADD POIN] ---|data: Array([tid] => 5959556[agent] => 102[kode] => 100[jenis] => TAB[nilai] => 10000)
+INFO - 2018-02-21 14:44:29 --> Action: result |API|KtazVM48d5o0RO |message: [response]
+INFO - 2018-02-21 14:44:29 --> Action: result |API|KtazVM48d5o0RO |message: [success, running trasaction]
+INFO - 2018-02-21 14:44:29 --> Action: response |API|KtazVM48d5o0RO ---|data: Array([status] => 1[code] => 5959556[message] => success[data] => Array([saldo_awal] => 50.975,00[nominal] => 10.000,00[saldo_akhir] => 60.975,00))
+INFO - 2018-02-21 14:44:29 --> Final output sent to browser
+DEBUG - 2018-02-21 14:44:29 --> Total execution time: 2.7072
+INFO - 2018-02-21 08:44:51 --> Config Class Initialized
+INFO - 2018-02-21 08:44:51 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:44:51 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:44:51 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:44:51 --> URI Class Initialized
+INFO - 2018-02-21 08:44:51 --> Router Class Initialized
+INFO - 2018-02-21 08:44:51 --> Output Class Initialized
+INFO - 2018-02-21 08:44:51 --> Security Class Initialized
+DEBUG - 2018-02-21 08:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:44:51 --> Input Class Initialized
+INFO - 2018-02-21 08:44:51 --> Language Class Initialized
+INFO - 2018-02-21 08:44:51 --> Language Class Initialized
+INFO - 2018-02-21 08:44:51 --> Config Class Initialized
+INFO - 2018-02-21 08:44:51 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:44:51 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:44:51 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:44:51 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:44:51 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:44:51 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:44:51 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:44:52 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:44:52 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:44:52 --> Email Class Initialized
+INFO - 2018-02-21 08:44:52 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:44:52 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:44:52 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:44:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:44:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:44:52 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:44:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:44:52 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Model Class Initialized
+INFO - 2018-02-21 08:44:52 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:44:52 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:44:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:44:52 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:44:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:44:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:44:52 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:44:52 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:44:53 --> Action: begin|API|QEw2cXmyTk60Is[::1] 
+INFO - 2018-02-21 14:44:53 --> Action: receiver |API|QEw2cXmyTk60Is ---|data: Array([uri] => api/tabung/setor[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199093)
+INFO - 2018-02-21 14:44:53 --> Action: insert |API|QEw2cXmyTk60Is |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959561[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 100[KUITANSI] => Tab.0003[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 100[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959562)
+INFO - 2018-02-21 14:44:53 --> Action: update  |API|QEw2cXmyTk60Is |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:44:53 --> Action: select |API|QEw2cXmyTk60Is |message: [Tab_model->Tab_trans(5959561)]
+INFO - 2018-02-21 14:44:53 --> Action: select |API|QEw2cXmyTk60Is |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:44:53 --> Action: result |API|QEw2cXmyTk60Is |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:44:53 --> Action: select |API|QEw2cXmyTk60Is |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:44:53 --> Action: result |API|QEw2cXmyTk60Is |message: [kode_perk_kas set default] ---|data: Array([kode_perk_kas] => 10101)
+INFO - 2018-02-21 14:44:53 --> Action: select |API|QEw2cXmyTk60Is |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:44:53 --> Action: result |API|QEw2cXmyTk60Is |message: [g_or_d] ---|data: Array([G_OR_D] => D[nama_perk] => Kas Kasanah)
+INFO - 2018-02-21 14:44:53 --> Action: select |API|QEw2cXmyTk60Is |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:44:53 --> Action: result |API|QEw2cXmyTk60Is |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:44:53 --> Action: kodejurnal |API|QEw2cXmyTk60Is |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:44:53 --> Action: transaction |API|QEw2cXmyTk60Is |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959563[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.0003[TGL_TRANS] => 2018-02-21[URAIAN] => Setoran Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959561[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:44:53 --> Action: transaction |API|QEw2cXmyTk60Is |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959564[MASTER_ID] => 5959563[KODE_PERK] => 20201[DEBET] => 0[KREDIT] => 10000)[1] => Array([TRANS_ID] => 5959565[MASTER_ID] => 5959563[KODE_PERK] => 10101[DEBET] => 10000[KREDIT] => 0))
+INFO - 2018-02-21 14:44:53 --> Action: update |API|QEw2cXmyTk60Is |message: [ADD POIN] ---|data: Array([tid] => 5959561[agent] => 102[kode] => 100[jenis] => TAB[nilai] => 10000)
+INFO - 2018-02-21 14:44:53 --> Action: result |API|QEw2cXmyTk60Is |message: [response]
+INFO - 2018-02-21 14:44:53 --> Action: result |API|QEw2cXmyTk60Is |message: [success, running trasaction]
+INFO - 2018-02-21 14:44:53 --> Action: response |API|QEw2cXmyTk60Is ---|data: Array([status] => 1[code] => 5959561[message] => success[data] => Array([saldo_awal] => 60.975,00[nominal] => 10.000,00[saldo_akhir] => 70.975,00))
+INFO - 2018-02-21 14:44:53 --> Final output sent to browser
+DEBUG - 2018-02-21 14:44:53 --> Total execution time: 2.6482
+INFO - 2018-02-21 08:45:28 --> Config Class Initialized
+INFO - 2018-02-21 08:45:28 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:45:28 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:45:28 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:45:28 --> URI Class Initialized
+INFO - 2018-02-21 08:45:28 --> Router Class Initialized
+INFO - 2018-02-21 08:45:28 --> Output Class Initialized
+INFO - 2018-02-21 08:45:28 --> Security Class Initialized
+DEBUG - 2018-02-21 08:45:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:45:28 --> Input Class Initialized
+INFO - 2018-02-21 08:45:28 --> Language Class Initialized
+INFO - 2018-02-21 08:45:28 --> Language Class Initialized
+INFO - 2018-02-21 08:45:28 --> Config Class Initialized
+INFO - 2018-02-21 08:45:28 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:45:28 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:45:28 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:45:28 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:45:28 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:45:28 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:45:28 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:45:29 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:45:29 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:45:29 --> Email Class Initialized
+INFO - 2018-02-21 08:45:29 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:45:29 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:45:29 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:45:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:45:29 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:45:29 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:45:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:45:29 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Model Class Initialized
+INFO - 2018-02-21 08:45:29 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:45:29 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:45:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:45:29 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:45:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:45:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:45:29 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:45:29 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:45:30 --> Action: begin|API|0oCqFUv7wDH3g4[::1] 
+INFO - 2018-02-21 14:45:30 --> Action: receiver |API|0oCqFUv7wDH3g4 ---|data: Array([uri] => api/tabung/tarik[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199130)
+ERROR - 2018-02-21 14:45:30 --> Severity: Notice --> Undefined variable: cek_saldo_akhir C:\xampp\htdocs\ci\ussiweb\application\modules\api\controllers\Tabung.php 479
+INFO - 2018-02-21 14:45:30 --> Final output sent to browser
+DEBUG - 2018-02-21 14:45:30 --> Total execution time: 2.2041
+INFO - 2018-02-21 08:46:10 --> Config Class Initialized
+INFO - 2018-02-21 08:46:10 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:46:10 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:46:10 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:46:10 --> URI Class Initialized
+INFO - 2018-02-21 08:46:10 --> Router Class Initialized
+INFO - 2018-02-21 08:46:10 --> Output Class Initialized
+INFO - 2018-02-21 08:46:10 --> Security Class Initialized
+DEBUG - 2018-02-21 08:46:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:46:10 --> Input Class Initialized
+INFO - 2018-02-21 08:46:10 --> Language Class Initialized
+INFO - 2018-02-21 08:46:10 --> Language Class Initialized
+INFO - 2018-02-21 08:46:10 --> Config Class Initialized
+INFO - 2018-02-21 08:46:10 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:46:10 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:46:10 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:46:10 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:46:10 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:46:10 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:46:10 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:46:11 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:46:11 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:46:11 --> Email Class Initialized
+INFO - 2018-02-21 08:46:11 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:46:11 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:46:11 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:46:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:46:11 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:46:11 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:46:11 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Model Class Initialized
+INFO - 2018-02-21 08:46:11 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:46:11 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:46:11 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:46:11 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:46:11 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:46:12 --> Action: begin|API|rGVLZXKRWQcPvJ[::1] 
+INFO - 2018-02-21 14:46:12 --> Action: receiver |API|rGVLZXKRWQcPvJ ---|data: Array([uri] => api/tabung/tarik[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199172)
+INFO - 2018-02-21 14:46:12 --> Action: insert |API|rGVLZXKRWQcPvJ |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959566[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 200[KUITANSI] => Tab.0003[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Pengambilan Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 200[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959567)
+INFO - 2018-02-21 14:46:12 --> Action: update |API|rGVLZXKRWQcPvJ |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:46:13 --> Action: select |API|rGVLZXKRWQcPvJ |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:46:13 --> Action: result |API|rGVLZXKRWQcPvJ |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:46:13 --> Action: select |API|rGVLZXKRWQcPvJ |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:46:13 --> Action: select |API|rGVLZXKRWQcPvJ |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:46:13 --> Action: select |API|rGVLZXKRWQcPvJ |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:46:13 --> Action: result |API|rGVLZXKRWQcPvJ |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:46:13 --> Action: kodejurnal |API|rGVLZXKRWQcPvJ |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:46:13 --> Action: transaction |API|rGVLZXKRWQcPvJ |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959568[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.0003[TGL_TRANS] => 2018-02-21[URAIAN] => Pengambilan Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959566[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:46:13 --> Action: transaction |API|rGVLZXKRWQcPvJ |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959569[MASTER_ID] => 5959568[KODE_PERK] => 20201[DEBET] => 10000[KREDIT] => 0)[1] => Array([TRANS_ID] => 5959570[MASTER_ID] => 5959568[KODE_PERK] => 10101[DEBET] => 0[KREDIT] => 10000))
+INFO - 2018-02-21 14:46:13 --> Action: update |API|rGVLZXKRWQcPvJ |message: [ADD POIN] ---|data: Array([tid] => 5959566[agent] => 102[kode] => 200[jenis] => TAB[nilai] => 10000)
+INFO - 2018-02-21 14:46:13 --> Action: result |API|rGVLZXKRWQcPvJ |message: [response]
+INFO - 2018-02-21 14:46:13 --> Action: result |API|rGVLZXKRWQcPvJ |message: [success, running trasaction]
+INFO - 2018-02-21 14:46:13 --> Action: response |API|rGVLZXKRWQcPvJ ---|data: Array([status] => 1[code] => 5959566[message] => success[data] => Array([saldo_awal] => 70.975,00[nominal] => 10.000,00[saldo_akhir] => 60.975,00))
+INFO - 2018-02-21 14:46:13 --> Final output sent to browser
+DEBUG - 2018-02-21 14:46:13 --> Total execution time: 2.8002
+INFO - 2018-02-21 08:46:36 --> Config Class Initialized
+INFO - 2018-02-21 08:46:36 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:46:36 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:46:36 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:46:36 --> URI Class Initialized
+INFO - 2018-02-21 08:46:36 --> Router Class Initialized
+INFO - 2018-02-21 08:46:36 --> Output Class Initialized
+INFO - 2018-02-21 08:46:36 --> Security Class Initialized
+DEBUG - 2018-02-21 08:46:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:46:36 --> Input Class Initialized
+INFO - 2018-02-21 08:46:36 --> Language Class Initialized
+INFO - 2018-02-21 08:46:36 --> Language Class Initialized
+INFO - 2018-02-21 08:46:36 --> Config Class Initialized
+INFO - 2018-02-21 08:46:36 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:46:36 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:46:36 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:46:36 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:46:36 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:46:36 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:46:36 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:46:37 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:46:37 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:46:37 --> Email Class Initialized
+INFO - 2018-02-21 08:46:37 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:46:37 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:46:37 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:46:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:46:37 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:46:37 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:46:37 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:46:37 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:37 --> Model Class Initialized
+INFO - 2018-02-21 08:46:38 --> Model Class Initialized
+INFO - 2018-02-21 08:46:38 --> Model Class Initialized
+INFO - 2018-02-21 08:46:38 --> Model Class Initialized
+INFO - 2018-02-21 08:46:38 --> Model Class Initialized
+INFO - 2018-02-21 08:46:38 --> Model Class Initialized
+INFO - 2018-02-21 08:46:38 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:46:38 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:46:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:46:38 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:46:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:46:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:46:38 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:46:38 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:46:39 --> Action: begin|API|2gUH9V3SbMwZz1[::1] 
+INFO - 2018-02-21 14:46:39 --> Action: receiver |API|2gUH9V3SbMwZz1 ---|data: Array([uri] => api/tabung/tarik[method] => post[params] => a:6:{s:7:"agentid";s:4:"1024";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199199)
+INFO - 2018-02-21 14:46:39 --> Action: response |API|2gUH9V3SbMwZz1 |message: [agentid not registered] ---|data: Array([status] => [code] => [error] => agent[data] => Array([saldo_awal] => [nominal] => [saldo_akhir] => ))
+INFO - 2018-02-21 14:46:39 --> Final output sent to browser
+DEBUG - 2018-02-21 14:46:39 --> Total execution time: 2.1881
+INFO - 2018-02-21 08:50:02 --> Config Class Initialized
+INFO - 2018-02-21 08:50:02 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:50:02 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:50:02 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:50:02 --> URI Class Initialized
+INFO - 2018-02-21 08:50:02 --> Router Class Initialized
+INFO - 2018-02-21 08:50:02 --> Output Class Initialized
+INFO - 2018-02-21 08:50:02 --> Security Class Initialized
+DEBUG - 2018-02-21 08:50:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:50:02 --> Input Class Initialized
+INFO - 2018-02-21 08:50:02 --> Language Class Initialized
+INFO - 2018-02-21 08:50:02 --> Language Class Initialized
+INFO - 2018-02-21 08:50:02 --> Config Class Initialized
+INFO - 2018-02-21 08:50:02 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:50:02 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:50:02 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:50:02 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:50:02 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:50:02 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:50:02 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:50:03 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:50:03 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:50:03 --> Email Class Initialized
+INFO - 2018-02-21 08:50:03 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:50:03 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:50:03 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:50:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:50:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:50:03 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:50:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:50:03 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Model Class Initialized
+INFO - 2018-02-21 08:50:03 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:50:03 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:50:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:50:03 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:50:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:50:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:50:03 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:50:03 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:50:04 --> Action: begin|API|cKFMs9favVq4Y0[::1] 
+INFO - 2018-02-21 14:50:04 --> Action: receiver |API|cKFMs9favVq4Y0 ---|data: Array([uri] => api/tabung/tarik[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199404)
+INFO - 2018-02-21 14:50:04 --> Action: insert |API|cKFMs9favVq4Y0 |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959571[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 200[KUITANSI] => Tab.0003[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Pengambilan Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 200[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959572)
+INFO - 2018-02-21 14:50:04 --> Action: update |API|cKFMs9favVq4Y0 |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:50:05 --> Action: select |API|cKFMs9favVq4Y0 |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:50:05 --> Action: result |API|cKFMs9favVq4Y0 |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:50:05 --> Action: select |API|cKFMs9favVq4Y0 |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:50:05 --> Action: select |API|cKFMs9favVq4Y0 |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:50:05 --> Action: select |API|cKFMs9favVq4Y0 |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:50:05 --> Action: result |API|cKFMs9favVq4Y0 |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:50:05 --> Action: kodejurnal |API|cKFMs9favVq4Y0 |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:50:05 --> Action: transaction |API|cKFMs9favVq4Y0 |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959573[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.0003[TGL_TRANS] => 2018-02-21[URAIAN] => Pengambilan Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959571[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:50:05 --> Action: transaction |API|cKFMs9favVq4Y0 |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959574[MASTER_ID] => 5959573[KODE_PERK] => 20201[DEBET] => 10000[KREDIT] => 0)[1] => Array([TRANS_ID] => 5959575[MASTER_ID] => 5959573[KODE_PERK] => 10101[DEBET] => 0[KREDIT] => 10000))
+INFO - 2018-02-21 14:50:05 --> Action: update |API|cKFMs9favVq4Y0 |message: [ADD POIN] ---|data: Array([tid] => 5959571[agent] => 102[kode] => 200[jenis] => TAB[nilai] => 10000)
+ERROR - 2018-02-21 14:50:05 --> Severity: Warning --> file_get_contents(http://localhost/insert_poin/insert_his_reward.php?transaksi_id=5959571&amp;agent_id=102&amp;jenis_transaksi=TAB&amp;kode_transaksi=200&amp;value=10000): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ C:\xampp\htdocs\ci\ussiweb\application\models\Poin_model.php 45
+INFO - 2018-02-21 14:50:05 --> Action: result |API|cKFMs9favVq4Y0 |message: [response]
+INFO - 2018-02-21 14:50:05 --> Action: result |API|cKFMs9favVq4Y0 |message: [success, running trasaction]
+INFO - 2018-02-21 14:50:05 --> Action: response |API|cKFMs9favVq4Y0 ---|data: Array([status] => 1[code] => 5959571[message] => success[data] => Array([saldo_awal] => 60.975,00[nominal] => 10.000,00[saldo_akhir] => 50.975,00))
+INFO - 2018-02-21 14:50:05 --> Final output sent to browser
+DEBUG - 2018-02-21 14:50:05 --> Total execution time: 2.6892
+INFO - 2018-02-21 08:50:25 --> Config Class Initialized
+INFO - 2018-02-21 08:50:25 --> Hooks Class Initialized
+DEBUG - 2018-02-21 08:50:25 --> UTF-8 Support Enabled
+INFO - 2018-02-21 08:50:25 --> Utf8 Class Initialized
+INFO - 2018-02-21 08:50:25 --> URI Class Initialized
+INFO - 2018-02-21 08:50:25 --> Router Class Initialized
+INFO - 2018-02-21 08:50:25 --> Output Class Initialized
+INFO - 2018-02-21 08:50:25 --> Security Class Initialized
+DEBUG - 2018-02-21 08:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-21 08:50:25 --> Input Class Initialized
+INFO - 2018-02-21 08:50:25 --> Language Class Initialized
+INFO - 2018-02-21 08:50:25 --> Language Class Initialized
+INFO - 2018-02-21 08:50:25 --> Config Class Initialized
+INFO - 2018-02-21 08:50:25 --> Loader Class Initialized
+DEBUG - 2018-02-21 08:50:25 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/site.php
+INFO - 2018-02-21 08:50:25 --> Helper loaded: url_helper
+INFO - 2018-02-21 08:50:25 --> Helper loaded: inflector_helper
+INFO - 2018-02-21 08:50:25 --> Helper loaded: string_helper
+INFO - 2018-02-21 08:50:25 --> Helper loaded: array_helper
+INFO - 2018-02-21 08:50:25 --> Database Driver Class Initialized
+DEBUG - 2018-02-21 08:50:26 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\config/ion_auth.php
+DEBUG - 2018-02-21 08:50:26 --> Config file loaded: C:\xampp\htdocs\ci\ussiweb\application\third_party/ion_auth/config/ion_auth.php
+INFO - 2018-02-21 08:50:26 --> Email Class Initialized
+INFO - 2018-02-21 08:50:26 --> Language file loaded: language/english/ion_auth_lang.php
+INFO - 2018-02-21 08:50:26 --> Helper loaded: cookie_helper
+INFO - 2018-02-21 08:50:26 --> Helper loaded: language_helper
+DEBUG - 2018-02-21 08:50:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-21 08:50:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Helper loaded: date_helper
+INFO - 2018-02-21 08:50:26 --> User Agent Class Initialized
+DEBUG - 2018-02-21 08:50:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:50:26 --> User_agent class already loaded. Second attempt ignored.
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Model Class Initialized
+INFO - 2018-02-21 08:50:26 --> Controller Class Initialized
+DEBUG - 2018-02-21 08:50:26 --> Tabung MX_Controller Initialized
+DEBUG - 2018-02-21 08:50:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/autoload.php
+DEBUG - 2018-02-21 08:50:26 --> User_agent class already loaded. Second attempt ignored.
+DEBUG - 2018-02-21 08:50:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/config/rest.php
+DEBUG - 2018-02-21 08:50:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/libraries/Format.php
+DEBUG - 2018-02-21 08:50:26 --> File loaded: C:\xampp\htdocs\ci\ussiweb\application\modules/api/language/english/rest_controller_lang.php
+INFO - 2018-02-21 08:50:26 --> Database Driver Class Initialized
+INFO - 2018-02-21 14:50:27 --> Action: begin|API|6EnTvClI1pwbOf[::1] 
+INFO - 2018-02-21 14:50:27 --> Action: receiver |API|6EnTvClI1pwbOf ---|data: Array([uri] => api/tabung/tarik[method] => post[params] => a:6:{s:7:"agentid";s:3:"102";s:9:"nasabahid";s:8:"35200032";s:7:"nominal";s:5:"10000";s:3:"pin";s:6:"123456";s:3:"adm";s:12:"35.01.000030";s:11:"no_rekening";s:12:"35.01.000031";}[api_key] => a1s2d3f4g5Q[key_session] => [time] => 1519199427)
+INFO - 2018-02-21 14:50:27 --> Action: insert |API|6EnTvClI1pwbOf |message: [Tab_model->Ins_Tbl(TABTRANS)] ---|data: Array([TABTRANS_ID] => 5959576[TGL_TRANS] => 2018-02-21[NO_REKENING] => 35.01.000031[MY_KODE_TRANS] => 200[KUITANSI] => Tab.0003[POKOK] => 10000[ADM] => 35.01.000030[KETERANGAN] => Pengambilan Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[VERIFIKASI] => 1[USERID] => 102[KODE_TRANS] => 200[TOB] => T[SANDI_TRANS] => 01[KODE_PERK_OB] => [NO_REKENING_VS] => [KODE_KOLEKTOR] => 000[KODE_KANTOR] => 35[ADM_PENUTUPAN] => [COMMON_ID] => 5959577)
+INFO - 2018-02-21 14:50:27 --> Action: update |API|6EnTvClI1pwbOf |message: [update saldo : Tab_model->Saldo_upd_by_rekening(35.01.000031)]
+INFO - 2018-02-21 14:50:28 --> Action: select |API|6EnTvClI1pwbOf |message: [kode_integrasi > Tab_model->Tab_byrek(35.01.000031)]
+INFO - 2018-02-21 14:50:28 --> Action: result |API|6EnTvClI1pwbOf |message: [kode integrasi] ---|data: Array([kode_integrasi] => 01)
+INFO - 2018-02-21 14:50:28 --> Action: select |API|6EnTvClI1pwbOf |message: [kode_perk_kas > Sys_daftar_user_model->Perk_kas(102)]
+INFO - 2018-02-21 14:50:28 --> Action: select |API|6EnTvClI1pwbOf |message: [perkkode_G_OR_D > Perk_model->perk_by_kodeperk(10101)]
+INFO - 2018-02-21 14:50:28 --> Action: select |API|6EnTvClI1pwbOf |message: [kode integrasi > Tab_model->Integrasi_by_kd_int(01)]
+INFO - 2018-02-21 14:50:28 --> Action: result |API|6EnTvClI1pwbOf |message: [kode integrasi] ---|data: Array([0] => stdClass Object([KODE_PERK_KAS] => 101[KODE_PERK_HUTANG_POKOK] => 20201[KODE_PERK_PEND_ADM] => 407[KODE_PERK_TRANSFER] => 409))
+INFO - 2018-02-21 14:50:28 --> Action: kodejurnal |API|6EnTvClI1pwbOf |message: [kode jurnal = TAB]
+INFO - 2018-02-21 14:50:28 --> Action: transaction |API|6EnTvClI1pwbOf |message: [TRANSAKSI_MASTER] ---|data: Array([TRANS_ID] => 5959578[KODE_JURNAL] => TAB[NO_BUKTI] => Tab.0003[TGL_TRANS] => 2018-02-21[URAIAN] => Pengambilan Tabungan Tunai : an 35.01.000031 Hadi/ Nur Halimah[MODUL_ID_SOURCE] => TAB[TRANS_ID_SOURCE] => 5959576[USERID] => 102[KODE_KANTOR] => 35)
+INFO - 2018-02-21 14:50:28 --> Action: transaction |API|6EnTvClI1pwbOf |message: [TRANSAKSI_DETAIL] ---|data: Array([0] => Array([TRANS_ID] => 5959579[MASTER_ID] => 5959578[KODE_PERK] => 20201[DEBET] => 10000[KREDIT] => 0)[1] => Array([TRANS_ID] => 5959580[MASTER_ID] => 5959578[KODE_PERK] => 10101[DEBET] => 0[KREDIT] => 10000))
+INFO - 2018-02-21 14:50:28 --> Action: update |API|6EnTvClI1pwbOf |message: [ADD POIN] ---|data: Array([tid] => 5959576[agent] => 102[kode] => 200[jenis] => TAB[nilai] => 10000)
+INFO - 2018-02-21 14:50:28 --> Action: result |API|6EnTvClI1pwbOf |message: [response]
+INFO - 2018-02-21 14:50:28 --> Action: result |API|6EnTvClI1pwbOf |message: [success, running trasaction]
+INFO - 2018-02-21 14:50:28 --> Action: response |API|6EnTvClI1pwbOf ---|data: Array([status] => 1[code] => 5959576[message] => success[data] => Array([saldo_awal] => 50.975,00[nominal] => 10.000,00[saldo_akhir] => 40.975,00))
+INFO - 2018-02-21 14:50:28 --> Final output sent to browser
+DEBUG - 2018-02-21 14:50:28 --> Total execution time: 2.7162
