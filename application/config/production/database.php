@@ -97,10 +97,10 @@ $db['default'] = array(
 */
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '10.1.1.73',
-	'username' => 'bmt_sejahtera',
-	'password' => '!6gt62!!s@8js@@0k',
-	'database' => 'sejahtera',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
