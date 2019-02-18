@@ -938,12 +938,12 @@ class Tab_model extends MY_Model{
         
         $in_KUITANSI    = $this->_Kuitansi();
         
-        if(trim(strtolower($status_trans)) == "setor"){//nabung
+        if(strtolower($status_trans) == "setor"){//nabung
             $in_DEBET100   = $topup_total ;
             $in_KREDIT100  = 0 ;
             $in_DEBET200   = 0;
             $in_KREDIT200  = $topup_total ;
-        }elseif(trim(strtolower($status_trans)) == "tarik"){ // tarikan
+        }elseif(strtolower($status_trans) == "tarik"){ // tarikan
             $in_DEBET100   = 0 ;
             $in_KREDIT100  = $topup_total;
             $in_DEBET200   = $topup_total ;

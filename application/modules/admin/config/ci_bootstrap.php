@@ -38,12 +38,14 @@ $config['ci_bootstrap'] = array(
 			'assets/dist/admin/app.min.js'
 		),
 		'foot'	=> array(
+                   
 		),
 	),
 
 	// Default stylesheets to embed at page head
 	'stylesheets' => array(
 		'screen' => array(
+                       
 			'assets/dist/admin/adminlte.min.css',
 			'assets/dist/admin/lib.min.css',
 			'assets/dist/admin/app.min.css'

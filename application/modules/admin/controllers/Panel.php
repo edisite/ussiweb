@@ -281,7 +281,7 @@ class Panel extends Admin_Controller {
                 redirect('admin/panel/admin_user/');
             }
             $out_menuid = json_decode($in_menuid,true);            
-            $arr = '';
+            $arr = array();
             $get_menu_id = 1;
             foreach($out_menuid as $val=>$v){
                  //$get_menu_id       = $v['id'] ?: '';

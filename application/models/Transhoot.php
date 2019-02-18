@@ -481,9 +481,9 @@ class Transhoot extends MY_Model{
                 $this->logAction('insert', $trace_id, array(), 'result : failed');
             }
             $this->logAction('insert', $trace_id, array(), 'partner : Tab_model->Tab_commerce('.$get_nomor_rekening_partner.''
-                    . ','.$no_bpjsid.','.$in_agenid.','.$topup_tagihan.','.PULSA_INDOSIS_CODE.','
-                    . ''.PULSA_INDOSIS_MYCODE.','.$gen_id_TABTRANS_ID.',"",SETOR');
-            $res_indosis = $this->Tab_model->Tab_commerce($get_nomor_rekening_partner,$no_bpjsid,$in_agenid,$topup_tagihan,BPJS_CODE,BPJS_CODE,$gen_id_TABTRANS_ID,'','SETOR');
+                    . ','.$no_bpjsid.','.$in_agenid.','.$topup_tagihan.','.BPJS_POSTPAID_INDOSIS_CODE.','
+                    . ''.BPJS_POSTPAID_INDOSIS_MYCODE.','.$gen_id_TABTRANS_ID.',"",SETOR');
+            $res_indosis = $this->Tab_model->Tab_commerce($get_nomor_rekening_partner,$no_bpjsid,$in_agenid,$topup_tagihan,BPJS_POSTPAID_INDOSIS_CODE,BPJS_POSTPAID_INDOSIS_MYCODE,$gen_id_TABTRANS_ID,'','SETOR');
             if($res_indosis){
                 $this->logAction('insert', $trace_id, array(), 'result : OK');
             }else{                

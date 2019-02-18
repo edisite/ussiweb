@@ -14,8 +14,9 @@ class User extends Admin_Controller {
 	{
 		$crud = $this->generate_crud('users');
                 $crud->set_theme('datatables');
-		$crud->columns('groups', 'username', 'email', 'first_name', 'last_name', 'active');
+		$crud->columns('username', 'first_name','address', 'active');
 		$this->unset_crud_fields('ip_address', 'last_login');
+                $crud->display_as('first_name', 'Name');
 
 		// only webmaster and admin can change member groups
 		if ($crud->getState()=='list' || $this->ion_auth->in_group(array('webmaster', 'admin')))
@@ -24,14 +25,14 @@ class User extends Admin_Controller {
 		}
 
 		// only webmaster and admin can reset user password
-		if ($this->ion_auth->in_group(array('webmaster', 'admin')))
+		if ($this->ion_auth->in_group(array('webmaster', 'admin','manager')))
 		{
 			$crud->add_action('Reset Password', '', 'admin/user/reset_password', 'fa fa-repeat');
 		}
 
 		// disable direct create / delete Frontend User
 		$crud->unset_add();
-		$crud->unset_delete();
+		//$crud->unset_delete();
 
 		$this->mTitle = 'Users Agent';
 		$this->render_crud();
@@ -40,20 +41,23 @@ class User extends Admin_Controller {
 	// Create Frontend User
 	public function Create()
 	{
-		$form = $this->form_builder->create_form();
-
+            
+                
+            $form = $this->form_builder->create_form();
 		if ($form->validate())
 		{
 			// passed validation
-			$username = $this->input->post('username');
-			$email = $this->input->post('email');
-			$password = $this->input->post('password');
-			$identity = empty($username) ? $email : $username;
-			$additional_data = array(
+			$username           = $this->input->post('username');
+			$email              = $this->input->post('email');
+			$password           = $this->input->post('password');
+			$identity           = empty($username) ? $email : $username;
+			$additional_data    = array(
 				'first_name'	=> $this->input->post('first_name'),
-				'last_name'		=> $this->input->post('last_name'),
+				'address'		=> $this->input->post('addresss'),
+				'nasabah_id'		=> $nasabahid,
+				'pin_payment'		=> $this->input->post('pin'),
 			);
-			$groups = $this->input->post('groups');
+			$groups = $this->input->post('groups') ?: 'member';
 
 			// [IMPORTANT] override database tables to update Frontend Users instead of Admin Users
 			$this->ion_auth_model->tables = array(
@@ -82,16 +86,56 @@ class User extends Admin_Controller {
 			}
 			refresh();
 		}
+               
+                $nasabahid = $this->input->get('nasabahid')     ?: '';
+            
+                if(empty($nasabahid)){
+                    $this->messages->add('Nasabah sudah terdaftar di BMT USER', 'info');             
+                    redirect('admin/user');
+                }
+                $this->load->model('user_model', 'users');
+                $chek = $this->users->get_by('nasabah_id',$nasabahid);
+                if($chek){
+                    $this->messages->add('Nasabah sudah terdaftar di BMT USER', 'info');             
+                    redirect('admin/user');
+                }
+                $getnas = $this->Nas_model->Nas_by_id($nasabahid);
 
+                foreach ($getnas as $v) {
+                    $namanasabah    = $v->nama_nasabah ?: '';
+                    $alamat         = $v->alamat ?: '';                
+                }
 		// get list of Frontend user groups
 		$this->load->model('group_model', 'groups');
-		$this->mViewData['groups'] = $this->groups->get_all();
+		$this->mViewData['groups']      = $this->groups->get_all();
+		$this->mViewData['nasabahid']   = $nasabahid;
+		$this->mViewData['nama']        = $namanasabah;
+		$this->mViewData['alamat']      = $alamat;
 		$this->mTitle = 'Create User';
 
 		$this->mViewData['form'] = $form;
 		$this->render('user/create');
 	}
-
+        
+        public function Usershow() {
+        
+            $crud = $this->generate_crud('nasabah');       
+            $crud->set_model('Master_simpan_user_model');
+            //$crud->set_theme('datatables');
+            $crud->columns('NASABAH_ID','NO_REKENING','NAMA_NASABAH','ALAMAT','SALDO_AKHIR','TGL_REGISTER','VERIFIKASI');
+            $crud->unset_read();
+            $crud->unset_edit();
+            $crud->unset_delete();
+            $crud->unset_export();
+            $crud->unset_add();
+            $crud->unset_print();
+            $crud->add_action('Pilih', 'show_button', base_url().'admin/user/create/?nasabahid=');               
+            $crud->set_subject('NASABAH');
+            //$this->mTitle.= '[2000]Data master simpanan';
+            $this->render_crud();     
+        
+        }
+    
 	// User Groups CRUD
 	public function Group()
 	{

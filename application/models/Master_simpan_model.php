@@ -7,7 +7,7 @@ class Master_simpan_model extends Grocery_crud_model
     		return false;
     	
     	$select = "{$this->table_name}.*";
-        $select .= ", nasabah.NAMA_NASABAH,nasabah.ALAMAT,";
+        $select .= ", nasabah.NAMA_NASABAH,nasabah.ALAMAT,nasabah.NASABAH_ID";
     	
 		// ADD YOUR SELECT FROM JOIN HERE <------------------------------------------------------
 		// for example $select .= ", user_log.created_date, user_log.update_date";

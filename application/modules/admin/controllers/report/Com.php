@@ -187,6 +187,176 @@ class Com extends Admin_Controller {
         $this->render_crud();
 
     }
+    public function Report_agent_commerce_per_mount($datefil = '') {
+
+//        /$datefil = $this->input->get('datefilter') ?: '';
+        if(empty($datefil)){
+            $dtfrom     = date('Y-m-d');
+            $dtto       = date('Y-m-d');
+            $datefil    = $dtfrom.'_'.$dtto;
+            $datefil_par    = $dtfrom.' sd '.$dtto;
+        }else{
+            $par        = explode('_', $datefil);
+            $dtfrom     = $par[0] ?: date('Y-m-d');
+            $dtto       = $par[1] ?: date('Y-m-d');
+            $datefil    = trim($dtfrom).'_'.trim($dtto);
+            $datefil_par    = trim($dtfrom).' sd '.trim($dtto);
+        }
+        
+        //echo $datefil;
+        $crud = $this->generate_crud('com_pulsa_log');        
+        $crud->set_theme('datatables');    
+        $crud->set_model('report_com_model');
+        
+        $crud->columns('dtm','userid','username','nominal','msisdn','product','price_fr_mitra','price_original','price_stok','price_selling','res_sn','res_code');
+//        $this->unset_crud_fields('TRANSACTION_ID', 'apikeyid');
+//        
+//        $crud->callback_column('POKOK',array($this,'rp'));
+//        $crud->callback_column('ADM',array($this,'rp'));
+        // only webmaster can reset Admin User password
+        $crud->callback_column('price_stok',array($this,'_column_bonus_right_align'));
+        $crud->callback_column('price_selling',array($this,'_column_bonus_right_align'));
+        $crud->callback_column('price_fr_mitra',array($this,'_column_bonus_right_align'));
+        $crud->callback_column('price_original',array($this,'_column_bonus_right_align'));
+        
+        //$crud->add_action('Log Detail', '', 'demo/action_more','ui-icon-plus',array($this,'mutasi_fwlogdetail'));
+        $crud->display_as('dtm','Tanggal');
+        $crud->display_as('price_stok','Harga BMT');
+        $crud->display_as('price_selling','Harga Jual Akhir');
+        $crud->display_as('price_fr_mitra','Harga Mitra');
+        $crud->display_as('price_original','Harga Indosis');
+        $crud->display_as('msisdn','NomorID');
+        $crud->display_as('res_sn','S/N');
+        $crud->display_as('nominal','Tipe');
+        $crud->display_as('res_code','status');
+        $crud->where('date(dtm) >="'. $dtfrom.'"');
+        $crud->where('date(dtm) <="'. $dtto.'"');
+        
+        $crud->unset_add();
+        $crud->unset_delete();
+        //$crud->unset_export();
+        $crud->unset_read();
+        $crud->unset_print();
+        $crud->unset_edit();
+        //$this->render_crud();
+        //$this->mPageTitle .= 'Mutasi Transaksi Koperasi';
+        
+        
+        $crud_obj_name = strtolower(get_class($this->mCrud));
+        if ($crud_obj_name==='grocery_crud')
+        {
+                $this->mCrud->unset_fields($this->mCrudUnsetFields);	
+        }
+
+        // render CRUD
+        $crud_data = $this->mCrud->render();
+
+        // append scripts
+        $this->add_stylesheet($crud_data->css_files, FALSE);
+        $this->add_script($crud_data->js_files, TRUE, 'head');
+
+        // display view
+        $this->mViewData['crud_output'] = $crud_data->output;
+        $this->mViewData['tgl'] = $datefil_par;
+        $this->mViewData['pathe'] = "admin/report/com/report_agent_commerce_per_mount";
+        $this->mMenuID = "8606";
+        $this->render('crud_tgl');
+    }
+    
+    public function Report_user_commerce_per_mount($datefil = '') {
+
+//        /$datefil = $this->input->get('datefilter') ?: '';
+        if(empty($datefil)){
+            $dtfrom     = date('Y-m-d');
+            $dtto       = date('Y-m-d');
+            $datefil    = $dtfrom.'_'.$dtto;
+            $datefil_par    = $dtfrom.' sd '.$dtto;
+        }else{
+            $par        = explode('_', $datefil);
+            $dtfrom     = $par[0] ?: date('Y-m-d');
+            $dtto       = $par[1] ?: date('Y-m-d');
+            $datefil    = trim($dtfrom).'_'.trim($dtto);
+            $datefil_par    = trim($dtfrom).' sd '.trim($dtto);
+        }
+        
+        //echo $datefil;
+        $crud = $this->generate_crud('com_pulsa_log');        
+        $crud->set_theme('datatables');    
+        $crud->set_model('report_com_user_model');
+        
+        $crud->columns('dtm','userid','username','nominal','msisdn','product','price_fr_mitra','price_original','price_stok','res_sn','res_code');
+//        $this->unset_crud_fields('TRANSACTION_ID', 'apikeyid');
+//        
+//        $crud->callback_column('POKOK',array($this,'rp'));
+//        $crud->callback_column('ADM',array($this,'rp'));
+        // only webmaster can reset Admin User password
+        $crud->callback_column('price_stok',array($this,'_column_bonus_right_align'));
+        $crud->callback_column('price_selling',array($this,'_column_bonus_right_align'));
+        $crud->callback_column('price_fr_mitra',array($this,'_column_bonus_right_align'));
+        $crud->callback_column('price_original',array($this,'_column_bonus_right_align'));
+        
+        //$crud->add_action('Log Detail', '', 'demo/action_more','ui-icon-plus',array($this,'mutasi_fwlogdetail'));
+        $crud->display_as('dtm','Tanggal');
+        $crud->display_as('price_stok','Harga BMT');
+        $crud->display_as('price_selling','Harga Jual Akhir');
+        $crud->display_as('price_fr_mitra','Harga Mitra');
+        $crud->display_as('price_original','Harga Indosis');
+        $crud->display_as('msisdn','NomorID');
+        $crud->display_as('res_sn','S/N');
+        $crud->display_as('nominal','Tipe');
+        $crud->display_as('res_code','status');
+        $crud->where('date(dtm) >="'. $dtfrom.'"');
+        $crud->where('date(dtm) <="'. $dtto.'"');
+        
+        $crud->unset_add();
+        $crud->unset_delete();
+        //$crud->unset_export();
+        $crud->unset_read();
+        $crud->unset_print();
+        $crud->unset_edit();
+        //$this->render_crud();
+        //$this->mPageTitle .= 'Mutasi Transaksi Koperasi';
+        
+        
+        $crud_obj_name = strtolower(get_class($this->mCrud));
+        if ($crud_obj_name==='grocery_crud')
+        {
+                $this->mCrud->unset_fields($this->mCrudUnsetFields);	
+        }
+
+        // render CRUD
+        $crud_data = $this->mCrud->render();
+
+        // append scripts
+        $this->add_stylesheet($crud_data->css_files, FALSE);
+        $this->add_script($crud_data->js_files, TRUE, 'head');
+
+        // display view
+        $this->mViewData['crud_output'] = $crud_data->output;
+        $this->mViewData['tgl'] = $datefil_par;
+        $this->mViewData['pathe'] = "admin/report/com/report_user_commerce_per_mount";
+        $this->mMenuID = "8607";
+        $this->render('crud_tgl');
+    }
+    
+    public function Tgl() {
+        $dirpathye = $this->input->get('pathye') ?: '';
+        $datefil = $this->input->get('datefilter') ?: '';
+        if(empty($datefil)){
+            $dtfrom = date('Y-m-d');
+            $dtto = date('Y-m-d');
+            $datefil = trim($dtfrom).'_'.trim($dtto);
+        }else{
+            $par        = explode('sd', $datefil);
+            $dtfrom     = $par[0] ?: date('Y-m-d');
+            $dtto       = $par[1] ?: date('Y-m-d');
+            $datefil    = trim($dtfrom).'_'.trim($dtto);
+        }
+        $url = base_url().$dirpathye.'/'.$datefil;
+        //echo $url;
+        redirect($url);
+    }
+    
     public function log_user_before_delete($primary_key)    {
         $this->db->where('id',$primary_key);
         $user = $this->db->get('cms_user')->row();
