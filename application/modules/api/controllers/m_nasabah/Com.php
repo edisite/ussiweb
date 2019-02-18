@@ -125,6 +125,7 @@ class Com extends API_Controller{
         $topup_respon_code      = isset($data_topup->rc) ? $data_topup->rc : '';
         $topup_message          = isset($data_topup->message) ? $data_topup->message : '';
         $topup_saldo            = isset($data_topup->saldo) ? $data_topup->saldo : NULL;
+        $topup_harga            = isset($data_topup->harga) ? $data_topup->harga : NULL;
         $topup_no_serial        = isset($data_topup->sn) ? $data_topup->sn : NULL;
         $topup_transid          = isset($data_topup->trx_id) ? $data_topup->trx_id : NULL;
         $topup_provider         = isset($data_topup->provider) ? $data_topup->provider : NULL;
@@ -153,9 +154,10 @@ class Com extends API_Controller{
             'trx_status'    => 'topup',
             'desc_trx'      => 'hit topup 3party',
             'provider'      => $r_provider,
-            'price_selling' => $r_price_selling,
-            'price_stok'    => $r_price_stok,
+            'price_fr_mitra'=> $topup_harga,
             'price_original'=> $r_price_original,
+            'price_stok'    => $r_price_stok,
+            'price_selling' => $r_price_selling,
             'res_sn'        => $topup_no_serial,
             'res_transid'   => $topup_transid,
             'log_trace'      => $trace_id,
