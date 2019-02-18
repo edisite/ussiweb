@@ -551,7 +551,7 @@ class Transfer extends API_Controller {
             //request ke AJ
             $arr_post = array(
                 'acc_no'            => '0014400143',
-                'acc_name'          => '999/'.substr($sender_nama_nasabah,0,20),
+                'acc_name'          => '004/'.substr($sender_nama_nasabah,0,20),
                 'dest_bank_code'    => $in_kode_bank_receiver,
                 'dest_acc_no'       => $in_rek_receiver,
                 'amount'            => $in_nominal,
@@ -1145,7 +1145,7 @@ class Transfer extends API_Controller {
         //begin
         $arr_post = array(
                 'acc_no'            => '0014400143',
-                'acc_name'          => '999/'.substr($sender_nama_nasabah,0,20),
+                'acc_name'          => '004/'.substr($sender_nama_nasabah,0,20),
                 'dest_bank_code'    => $greceiver_kode_bank,
                 'dest_acc_no'       => $greceiver_rekening,
                 'dest_acc_name'     => $greceiver_name,
