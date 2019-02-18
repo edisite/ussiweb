@@ -9,7 +9,7 @@
 class MY_Controller extends MX_Controller {
 
 	// Values to be obtained automatically from router
-	protected $mModule = '';			// module name (empty = Frontend Website)
+	protected $mModule = 'admin';			// module name (empty = Frontend Website)
 	protected $mCtrler = 'home';		// current controller
 	protected $mAction = 'index';		// controller function being called
 	protected $mMethod = 'GET';			// HTTP request method
@@ -79,23 +79,25 @@ class MY_Controller extends MX_Controller {
                 foreach ($get_group as $rw){
                     $menug =  $rw->menu_group;          
                     $urutg =  $rw->urutan_group;                     
-
+                    //$datamenu[] = '';
                     $datagrop['name'] = $menug;
                     $datagrop['url']  = '';
                     $datagrop['icon'] = 'fa fa-tasks';
                         if($this->menu_prompt($urutg)){
-                            $datamenu = '';
-                            foreach ($this->menu_prompt($urutg) as $pal) {                                                     
-                                          $datamenu[$pal->submenu] = $pal->menu_form ?: '-';                                    
-                                     }
+                            unset($datamenu);
+                            foreach ($this->menu_prompt($urutg) as $pal) {
+                                $datamenu[$pal->submenu] = $pal->menu_form;                                    
+                            }                            
                             $datagrop['children'] = $datamenu;
                         }else{
                              $datagrop['children'] = '';
                         }
                       $data[$menug] = $datagrop;    
+                      
                 }
                 $nodta = 1;
             }
+            
             if ( $this->ion_auth->in_group(array('webmaster')) )
             {
                  $datagrop1 = array();
@@ -112,7 +114,7 @@ class MY_Controller extends MX_Controller {
                  $datagrop1['children'] = $dataapi;
                  $data['Monitor API'] = $datagrop1;
                  $nodta = 1;
-                }
+            }
                 if($nodta == 0){
                     $data = '';
                 }
@@ -169,13 +171,9 @@ class MY_Controller extends MX_Controller {
 			if ( !empty($this->mUser) )
 			{
 				$this->mUserGroups = $this->ion_auth->get_users_groups($this->mUser->id)->result();
+
 				// TODO: get group with most permissions (instead of getting first group)
-				if($this->mUserGroups){
-                                    $this->mUserMainGroup = $this->mUserGroups[0]->name;
-                                }else{
-                                    
-                                    $this->mUserMainGroup = '';
-                                }
+				$this->mUserMainGroup = $this->mUserGroups[0]->name;	
 			}
 		}
 
@@ -197,9 +195,7 @@ class MY_Controller extends MX_Controller {
             if(empty($get_username)){
                 return;
             }
-//            $sql = 'SELECT a.menu_id, b.menu_prompt,concat("[",a.MENU_ID,"]",menu_prompt) as submenu,menu_form FROM sys_user_menu_def a,sys_daftar_menu b where a.user_name ="'.$get_username.'" and a.menu_id =b.menu_id and b.flag = "1"and urutan_group = '.$urutangrp.'
-//ORDER BY a.URUTAN_MENU ASC';
-            $sql = 'SELECT a.menu_id, b.menu_prompt,menu_prompt as submenu,menu_form FROM sys_user_menu_def a,sys_daftar_menu b where a.user_name ="'.$get_username.'" and a.menu_id =b.menu_id and b.flag = "1"and urutan_group = '.$urutangrp.'
+            $sql = 'SELECT a.menu_id, b.menu_prompt,CONCAT("[",a.MENU_ID,"] ",b.menu_prompt) as submenu,menu_form FROM sys_user_menu_def a,sys_daftar_menu b where a.user_name ="'.$get_username.'" and a.menu_id =b.menu_id and b.flag = "1"and urutan_group = '.$urutangrp.'
 ORDER BY a.URUTAN_MENU ASC';
             $qsub = $this->db->query($sql);
             //echo $sql."qsub";
