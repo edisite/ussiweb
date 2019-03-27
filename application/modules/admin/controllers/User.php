@@ -52,7 +52,7 @@ class User extends Admin_Controller {
 			$password           = $this->input->post('password');
 			$identity           = empty($username) ? $email : $username;
 			$additional_data    = array(
-				'first_name'	=> $this->input->post('first_name'),
+				'first_name'            => $this->input->post('first_name'),
 				'address'		=> $this->input->post('addresss'),
 				'nasabah_id'		=> $nasabahid,
 				'pin_payment'		=> $this->input->post('pin'),
@@ -68,7 +68,10 @@ class User extends Admin_Controller {
 			);
 
 			// proceed to create user
-			$user_id = $this->ion_auth->register($identity, $password, $email, $additional_data, $groups);			
+			$user_id = $this->ion_auth->register($identity, $password, $email, $additional_data, $groups);	
+                        var_dump($user_id);
+                        echo "ok";
+                        return;
 			if ($user_id)
 			{
 				// success

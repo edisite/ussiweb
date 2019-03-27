@@ -20,12 +20,16 @@ class Login extends MY_Controller {
 			$password = $this->input->post('password');
 			$remember = ($this->input->post('remember')=='on');
 			
+                        
 			if ($this->ion_auth->login($identity, $password, $remember))
 			{
 				// login succeed
 				$messages = $this->ion_auth->messages();
-				$this->system_message->set_success($messages);
-				redirect('admin');
+				$this->system_message->set_success($messages);  
+                                
+				redirect(base_url().'admin');
+                                
+                                
 			}
 			else
 			{

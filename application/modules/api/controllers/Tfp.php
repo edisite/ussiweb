@@ -19,8 +19,8 @@ define('setor_kode_trans', '137');
 class Tfp extends API_Controller{
     //put your code here
     protected $resinq = [
-        'rekening'          => '',
-        'nama_cust'          => '',
+        'vaid'          => '',
+        'customer_name'          => '',
         'reference_number'  => '',
         'booking_id'        => '',
         'product_id'        => ''
@@ -67,7 +67,7 @@ class Tfp extends API_Controller{
         $this->_Inqcekvar($booking_id,'103', $trace_id, 'booking_id kosong');
         $this->_Inqcekvar($product_id,'104', $trace_id, 'product_id kosong');
         $this->_Inqcekvar($reqstatus,'105', $trace_id, 'status invalid');
-        if($reqstatus == "resinqpayment"){            
+        if($reqstatus == "reqinqpayment"){            
         }else{
             $this->_Inqcekvar('','105', $trace_id, 'status invalid');
         }
@@ -84,10 +84,10 @@ class Tfp extends API_Controller{
                 $this->_Inqcekvar('','106',$trace_id, 'rekening tidak ditemukan');   //***
             }else{
                 $arr = array(
-                        'error_code'        => 100,
+                        'ack'               => 100,
                         'message'           => 'sukses',
-                        'rekening'          => $rekening,
-                        'nama_cust'         => $nama,
+                        'vaid'          => $rekening,
+                        'customer_name'     => $nama,
                         'reference_number'  => $ref_number,
                         'booking_id'        => $booking_id,
                         'product_id'        => $product_id,
@@ -103,7 +103,7 @@ class Tfp extends API_Controller{
 //7080120652
     protected function _Inqcekvar($var = '',$errorcode = '',$trace_id = '',$field = '') {
         if(empty($var) || strlen($var) > 50){
-            $arr_res   = array('error_code' => $errorcode,'message' => $field);
+            $arr_res   = array('ack' => $errorcode,'message' => $field);
             $arr_res = array_merge($arr_res,  $this->resinq);
             $this->logAction('response', $trace_id, $arr_res, 'failed,'.$field);
             $this->response($arr_res);            

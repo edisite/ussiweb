@@ -7,7 +7,7 @@
 			<?php echo $form->messages(); ?>
 			<?php echo $form->bs3_text('Username', 'username', ENVIRONMENT==='development' ? '' : ''); ?>
 			<?php echo $form->bs3_password('Password', 'password', ENVIRONMENT==='development' ? '' : ''); ?>			
-                        <?php /*echo $form->field_recaptcha();*/ ?>
+                        <?php //echo $form->field_recaptcha(); ?>
                         <div class="row">
 				<div class="col-xs-8">
 					<div class="checkbox">

@@ -24,26 +24,20 @@ $config = array(
 
 	// Create User
 	'user/create' => array(
-		
 		array(
-			'field'		=> 'pin',
-			'label'		=> 'PIN',
+			'field'		=> 'first_name',
+			'label'		=> 'First Name',
 			'rules'		=> 'required',
 		),
 		array(
-			'field'		=> 'nasabahid',
-			'label'		=> 'nasabah ID',
+			'field'		=> 'last_name',
+			'label'		=> 'Last Name',
 			'rules'		=> 'required',
 		),
 		array(
 			'field'		=> 'username',
 			'label'		=> 'Username',
 			'rules'		=> 'is_unique[users.username]',				// use email as username if empty
-		),
-		array(
-			'field'		=> 'addresss',
-			'label'		=> 'Alamat',
-			'rules'		=> 'required',				// use email as username if empty
 		),
 		array(
 			'field'		=> 'email',
@@ -81,7 +75,7 @@ $config = array(
 		array(
 			'field'		=> 'username',
 			'label'		=> 'Username',
-			'rules'		=> 'required|users.username]',
+			'rules'		=> 'required|is_unique[users.username]',
 		),
 		array(
 			'field'		=> 'first_name',
