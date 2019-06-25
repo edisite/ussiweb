@@ -67,9 +67,32 @@ class Merchant extends API_Controller{
                 $mc_status                 = $va->status;
                 $mc_keterangan             = $va->keterangan;
                 $mc_transid                = $va->transid;
-                
+                if($mc_status != '2') {  
+                    $cstatus = $this->mc->MerchantStatusCheck($mc_id, $mc_dtm_expired);
+                    if($cstatus)                    {   
+                        
+                    }else
+                    {
+                        $mc_status = '2';
+                        $statustxt = "EXPIRED";
+                        $mc_keterangan  = "expired, waktu konfirmasi oleh user telah habis";
+                    }
+                }
                 if($mc_status == "0" || empty($mc_status))                {
                     $statustxt = "WAITING";
+                    $arres[] = array(
+                        'merchant_id'           => $va->m_userid,
+                        'merchant_norekening'   => $va->merchant_norekening,
+                        'merchant_name'         => $va->merchant_name,
+                        't_amount'              => $va->t_amount,
+                        't_notifikasi'          => $va->t_notifikasi,
+                        't_trans_id'            => $mc_transid,
+                        't_dtm_trans'           => $mc_dtm_trans,
+                        't_dtm_expired'         => $mc_dtm_expired,
+                        'status'                => $mc_status,
+                        'statusdesc'            => $statustxt,
+                        'systemdesc'            => $mc_keterangan
+                    );
                 }
                 elseif ($mc_status == "2")                 {
                     $mc_status = '2';
@@ -88,35 +111,21 @@ class Merchant extends API_Controller{
                     $statustxt = "OTHERS";
                 }
                 //
-                if($mc_status != '2') {  
-                    $cstatus = $this->mc->MerchantStatusCheck($mc_id, $mc_dtm_expired);
-                    if($cstatus)                    {   
-                        
-                    }else
-                    {
-                        $mc_status = '2';
-                        $statustxt = "EXPIRED";
-                        $mc_keterangan  = "expired, waktu konfirmasi oleh user telah habis";
-                    }
-                }
-                $arres[] = array(
-                        'merchant_id'           => $va->m_userid,
-                        'merchant_norekening'   => $va->merchant_norekening,
-                        'merchant_name'         => $va->merchant_name,
-                        't_amount'              => $va->t_amount,
-                        't_notifikasi'          => $va->t_notifikasi,
-                        't_trans_id'            => $mc_transid,
-                        't_dtm_trans'           => $mc_dtm_trans,
-                        't_dtm_expired'         => $mc_dtm_expired,
-                        'status'                => $mc_status,
-                        'statusdesc'            => $statustxt,
-                        'systemdesc'            => $mc_keterangan
-                    );
+                
+                
+                
                 
             }
-            $data = array('status' => '3000','msg' => 'OK');
-            $data = array_merge($data, array('data' => $arres));
-            $this->response($data);
+            if(count($arres) < 1){                 
+                $data = array('status' => '3003','msg' => 'List Order Kosong');
+                $data = array_merge($data, array('data' => array($this->arr_lo)));
+                $this->logAction('response', $trace_id, $data, 'failed, List Order Kosong');
+                $this->response($data);
+            }else{
+                $data = array('status' => '3000','msg' => 'OK');
+                $data = array_merge($data, array('data' => $arres));
+                $this->response($data);
+            }
             
         }else{
             $data = array('status' => '3003','msg' => 'List Order Kosong');
@@ -145,7 +154,7 @@ class Merchant extends API_Controller{
         }
         if(empty($in_trans_id) || (strlen($in_trans_id) > 40 || strlen($in_trans_id) < 25))
         {            
-            $data = array('status' => '102','msg' => 'Invalid trans_id');            
+            $data = array('status' => '3102','msg' => 'Invalid trans_id');            
             $this->logAction('response', $trace_id, $data, 'failed, Invalid trans_id');
             $this->response($data);            
         }
@@ -173,10 +182,8 @@ class Merchant extends API_Controller{
                 $mc_transid                = $va->transid;
                 $mc_amount                = $va->t_amount;  
             }
-            echo $this->StatusCheck($mc_id,$mc_status);
-            return;
-            
-            if($this->StatusCheck($mc_id, $mc_status) != 0){
+
+            if($this->StatusCheck($mc_id, $mc_status,$mc_dtm_expired) != 0){
                 $data = array('status' => '3004','msg' => 'Transaksi tidak bisa di proses');
                 $data = array_merge($data, array('data' => array($this->arr_lo)));
                 $this->logAction('response', $trace_id, $data, 'failed, List Order Kosong');
@@ -185,7 +192,7 @@ class Merchant extends API_Controller{
             
                 
             $data = array('status' => '3000','msg' => 'OK');
-            $data = array_merge($data, array('data' => $arres));
+            $data = array_merge($data, array('data' => ''));
             $this->response($data);
             
         }else{
@@ -195,9 +202,9 @@ class Merchant extends API_Controller{
             $this->response($data); 
         } 
     }
-    function StatusCheck($mc_id, $mc_status) {
+    function StatusCheck($mc_id, $mc_status,$mc_dtm_expired) {
         if($mc_status == "0" || empty($mc_status))                {
-                    $mc_status = '2';
+                    $mc_status = '0';
                     $statustxt = "WAITING";
                 }            //
         if($mc_status != '2') {  

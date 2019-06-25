@@ -1,5 +1,6 @@
 <?php echo $form->messages(); ?>
 
+
 <div class="row">
 
 	<div class="col-md-8">
@@ -19,9 +20,10 @@
                                             </div>
                                         </div>
                                         <div class="col-md-6">
-					<?php echo $form->bs3_text('Username', 'username'); ?>
+                                        <input type="hidden" name="nasabahid" value="<?php echo $nasabahid; ?>" id="nasabahid"  class="form-control" />
+					<?php echo $form->bs3_text('Username (*10 Huruf)', 'username',$usernamesugest); ?>
 					<?php echo $form->bs3_text('Email', 'email'); ?>                                        
-					<?php echo $form->bs3_text('PIN', 'pin'); ?>                                        
+					<?php echo $form->bs3_text('PIN (*4 digit)', 'pin',random_string('numeric',4)); ?>                                        
 					<?php echo $form->bs3_password('Password', 'password'); ?>
 					<?php echo $form->bs3_password('Retype Password', 'retype_password'); ?>
 

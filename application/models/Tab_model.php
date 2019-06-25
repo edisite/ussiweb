@@ -1169,4 +1169,58 @@ class Tab_model extends MY_Model{
         return $this->db->update('transfer_ses_e', $data);        
     }
     
+    public function Recycle_master_detail_by_transid($transid = '') {
+        $sql = "SELECT * FROM recycle_bin_transaksi_master WHERE trans_id = '".$transid."' limit 1";
+        $query  = $this->db->query($sql);
+        return $query->result();
+    }
+    function Recycle_tabtrans_insert($tabtrans_id = '') {
+        $sql = "INSERT INTO tabtrans (
+        TABTRANS_ID, TGL_TRANS, NO_REKENING, KODE_TRANS, MY_KODE_TRANS, POKOK, ADM, KUITANSI, USERID, KETERANGAN, VERIFIKASI, MODUL_ID_SOURCE, TRANS_ID_SOURCE, TOB, PRINT_BUKU, PRINT_KARTU, TABTRANS_TAG, 
+	SANDI_TRANS, OTORISASI, FLAG, KODE_PERK_OB, KODE_PERK_RAK, NO_REKENING_VS, POSTED_TO_GL, KODE_KOLEKTOR, KODE_KANTOR, counter_sign, ADM_PENUTUPAN, common_id, TITIPAN_BUNGA, FLAG_EXCEL, kode_pemb, 
+	jam, ip_add, flag_insentif, flag_jt, NPM, institusion_id, institusion_id_vs, BUNGA_TAS, PRINT_BUKU_RMB, transfer)
+        SELECT 	
+        TABTRANS_ID, TGL_TRANS, NO_REKENING, KODE_TRANS, MY_KODE_TRANS, POKOK, ADM, KUITANSI, USERID, KETERANGAN, VERIFIKASI, MODUL_ID_SOURCE, TRANS_ID_SOURCE, TOB, PRINT_BUKU, PRINT_KARTU, TABTRANS_TAG, 
+	SANDI_TRANS, OTORISASI, FLAG, KODE_PERK_OB, KODE_PERK_RAK, NO_REKENING_VS, POSTED_TO_GL, KODE_KOLEKTOR, KODE_KANTOR, counter_sign, ADM_PENUTUPAN, common_id, TITIPAN_BUNGA, FLAG_EXCEL, kode_pemb, 
+	jam, ip_add, flag_insentif, flag_jt, NPM, institusion_id, institusion_id_vs, BUNGA_TAS, PRINT_BUKU_RMB, transfer
+	FROM 
+	recycle_bin_tabtrans WHERE TABTRANS_ID = '".$tabtrans_id."' LIMIT 1";
+        
+        $query  = $this->db->query($sql);
+        return $query;
+    }
+    function Recycle_tabtrans_delete($tabtrans_id) {
+        $query = $this->db->delete('recycle_bin_tabtrans', array('TABTRANS_ID' => $tabtrans_id)); 
+        return $query; 
+    }
+    function Recycle_master_insert($transid= '') {
+        $sql = "INSERT INTO transaksi_master 	(
+	TRANS_ID, KODE_JURNAL, NO_BUKTI, TGL_TRANS, URAIAN, MODUL_ID_SOURCE, TRANS_ID_SOURCE, USERID, IS_BANK, KODE_KANTOR, transfer	 
+	)
+        SELECT 	
+        TRANS_ID, KODE_JURNAL, NO_BUKTI, TGL_TRANS, URAIAN, MODUL_ID_SOURCE, TRANS_ID_SOURCE, USERID, IS_BANK, KODE_KANTOR, transfer	 
+	FROM 
+	recycle_bin_transaksi_master WHERE TRANS_ID ='".$transid."' limit 1";
+        $query  = $this->db->query($sql);
+        return $query;
+    }
+    function Recycle_master_delete($tabtrans_id) {
+        $query = $this->db->delete('recycle_bin_transaksi_master', array('TRANS_ID' => $tabtrans_id)); 
+        return $query; 
+    }
+    function Recycle_detail_insert($transid= '') {
+        $sql = "INSERT INTO transaksi_detail (
+	TRANS_ID, MASTER_ID, KODE_PERK, DEBET, KREDIT, KETERANGAN
+	)
+        SELECT 	
+        TRANS_ID, MASTER_ID, KODE_PERK, DEBET, KREDIT, KETERANGAN	 
+	FROM 
+	recycle_bin_transaksi_detail WHERE MASTER_ID ='".$transid."' limit 10";
+        $query  = $this->db->query($sql);
+        return $query;
+    }
+    function Recycle_detail_delete($transid) {
+        $query = $this->db->delete('recycle_bin_transaksi_detail', array('MASTER_ID' => $transid)); 
+        return $query; 
+    }
 }

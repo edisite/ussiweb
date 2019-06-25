@@ -40,84 +40,95 @@ class User extends Admin_Controller {
 
 	// Create Frontend User
 	public function Create()
-	{
-            
-                
-            $form = $this->form_builder->create_form();
-		if ($form->validate())
-		{
-			// passed validation
-			$username           = $this->input->post('username');
-			$email              = $this->input->post('email');
-			$password           = $this->input->post('password');
-			$identity           = empty($username) ? $email : $username;
-			$additional_data    = array(
-				'first_name'            => $this->input->post('first_name'),
-				'address'		=> $this->input->post('addresss'),
-				'nasabah_id'		=> $nasabahid,
-				'pin_payment'		=> $this->input->post('pin'),
-			);
-			$groups = $this->input->post('groups') ?: 'member';
-
-			// [IMPORTANT] override database tables to update Frontend Users instead of Admin Users
-			$this->ion_auth_model->tables = array(
-				'users'				=> 'users',
-				'groups'			=> 'groups',
-				'users_groups'		=> 'users_groups',
-				'login_attempts'	=> 'login_attempts',
-			);
-
-			// proceed to create user
-			$user_id = $this->ion_auth->register($identity, $password, $email, $additional_data, $groups);	
-                        var_dump($user_id);
-                        echo "ok";
-                        return;
-			if ($user_id)
-			{
-				// success
-				$messages = $this->ion_auth->messages();
-				$this->system_message->set_success($messages);
-
-				// directly activate user
-				$this->ion_auth->activate($user_id);
-			}
-			else
-			{
-				// failed
-				$errors = $this->ion_auth->errors();
-				$this->system_message->set_error($errors);
-			}
-			refresh();
-		}
-               
-                $nasabahid = $this->input->get('nasabahid')     ?: '';
-            
-                if(empty($nasabahid)){
-                    $this->messages->add('Nasabah sudah terdaftar di BMT USER', 'info');             
-                    redirect('admin/user');
-                }
-                $this->load->model('user_model', 'users');
-                $chek = $this->users->get_by('nasabah_id',$nasabahid);
+	{      
+            $this->load->model('user_model', 'users');
+            $nasabahid = $this->input->get('nasabahid')     ?: '';
+            $url = base_url().'admin/user/create/?nasabahid='.$nasabahid;
+            $form = $this->form_builder->create_form($url);
+            if ($form->validate())
+            {
+                // passed validation
+                $username           = $this->input->post('username');
+                $email              = $this->input->post('email');
+                $password           = $this->input->post('password');
+                $identity           = empty($username) ? $email : $username;
+                $additional_data    = array(
+                        'first_name'            => $this->input->post('first_name'),
+                        'address'		=> $this->input->post('addresss'),
+                        'nasabah_id'		=> $this->input->post('nasabahid'),
+                        'pin_payment'		=> $this->input->post('pin'),
+                );
+                $groups = $this->input->post('groups') ?: 'member';
+                $chek = $this->users->get_by('username',$username);
                 if($chek){
                     $this->messages->add('Nasabah sudah terdaftar di BMT USER', 'info');             
-                    redirect('admin/user');
+                    redirect('admin/user/');
                 }
-                $getnas = $this->Nas_model->Nas_by_id($nasabahid);
+            
+                // [IMPORTANT] override database tables to update Frontend Users instead of Admin Users
+                $this->ion_auth_model->tables = array(
+                        'users'				=> 'users',
+                        'groups'			=> 'groups',
+                        'users_groups'		=> 'users_groups',
+                        'login_attempts'	=> 'login_attempts',
+                );
 
+                // proceed to create user
+                $user_id = $this->ion_auth->register($username, $password, $email, $additional_data, $groups);	
+                if ($user_id)
+                {
+                        // success
+                        $messages = $this->ion_auth->messages();
+                        $this->system_message->set_success($messages);
+
+                        // directly activate user
+                        $this->ion_auth->activate($user_id);
+                }
+                else
+                {
+                        // failed
+                        $errors = $this->ion_auth->errors();
+                        $this->system_message->set_error($errors);
+                }
+                refresh();
+            }
+
+            if(empty($nasabahid)){
+                $this->messages->add('Nasabah sudah terdaftar di BMT USER', 'info');             
+                redirect('admin/user/');
+            }
+            
+            $chek = $this->users->get_by('nasabah_id',$nasabahid);
+            if($chek){
+                $this->messages->add('Nasabah sudah terdaftar di BMT USER', 'info');             
+                redirect('admin/user/');
+            }
+            $getnas = $this->Nas_model->Nas_by_id($nasabahid);
+            if($getnas){
                 foreach ($getnas as $v) {
                     $namanasabah    = $v->nama_nasabah ?: '';
                     $alamat         = $v->alamat ?: '';                
                 }
-		// get list of Frontend user groups
-		$this->load->model('group_model', 'groups');
-		$this->mViewData['groups']      = $this->groups->get_all();
-		$this->mViewData['nasabahid']   = $nasabahid;
-		$this->mViewData['nama']        = $namanasabah;
-		$this->mViewData['alamat']      = $alamat;
-		$this->mTitle = 'Create User';
+            }
+            // get list of Frontend user groups
+            $sugestusername = strtolower(str_replace(' ', '', $namanasabah));
+            $getpanjang = strlen($sugestusername);
+            if($getpanjang < 10){
+                $sisa           = 10 - $getpanjang;
+                $sugestusername = $sugestusername.random_string('numeric',$sisa);
+            }
+            $this->load->model('group_model', 'groups');
+            $this->mViewData['groups']      = $this->groups->get_all();
+            $this->mViewData['nasabahid']   = $nasabahid;
+            $this->mViewData['nama']        = $namanasabah;
+            $this->mViewData['alamat']      = $alamat;
+            $this->mViewData['usernamesugest']      = $sugestusername;
 
-		$this->mViewData['form'] = $form;
-		$this->render('user/create');
+            
+            $this->mTitle = 'Create User';
+
+            $this->mViewData['form'] = $form;
+            $this->render('user/create');
 	}
         
         public function Usershow() {

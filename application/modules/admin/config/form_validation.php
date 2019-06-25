@@ -25,24 +25,19 @@ $config = array(
 	// Create User
 	'user/create' => array(
 		array(
-			'field'		=> 'first_name',
-			'label'		=> 'First Name',
-			'rules'		=> 'required',
-		),
-		array(
-			'field'		=> 'last_name',
-			'label'		=> 'Last Name',
-			'rules'		=> 'required',
-		),
-		array(
 			'field'		=> 'username',
-			'label'		=> 'Username',
-			'rules'		=> 'is_unique[users.username]',				// use email as username if empty
+			'label'		=> 'username',
+			'rules'		=> 'required',
+		),
+		array(
+			'field'		=> 'pin',
+			'label'		=> 'pin',
+			'rules'		=> 'required',
 		),
 		array(
 			'field'		=> 'email',
 			'label'		=> 'Email',
-			'rules'		=> 'required|valid_email|is_unique[users.email]',
+			'rules'		=> 'required',
 		),
 		array(
 			'field'		=> 'password',

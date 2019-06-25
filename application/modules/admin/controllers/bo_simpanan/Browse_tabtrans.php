@@ -27,8 +27,8 @@ class Browse_tabtrans extends Admin_Controller{
         $crud->callback_column('ADM',array($this,'_column_bonus_right_align'));
         $crud->callback_column('VERIFIKASI',array($this,'_column_center_align'));
         $crud->callback_column('TOB',array($this,'_column_center_align'));
-        $crud->add_action('HAPUS', 'show_button', base_url().'admin/bo_simpanan/browse_tabtrans/tabtrx_hps/?idtrans=');
-        $crud->add_action('PEMBATALAN', 'show_button', '');
+        //$crud->add_action('HAPUS', 'show_button', base_url().'admin/bo_simpanan/browse_tabtrans/tabtrx_hps/?idtrans=');
+//        $crud->add_action('PEMBATALAN', 'show_button', '');
                
         $crud->unset_add();
         $crud->unset_edit();

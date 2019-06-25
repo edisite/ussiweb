@@ -1,5 +1,5 @@
 <?php
-    $this->load->view('tgl_view');
+    $this->load->view('report/tgl_view');
 ?>
 <?php if ( !empty($crud_note) ) echo "<p>//$crud_note</p>"; ?>
 

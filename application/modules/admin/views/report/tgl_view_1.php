@@ -1,17 +1,17 @@
-<!--<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>-->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
-<form action="<?php echo base_url().'admin/report/recycle/tgl'; ?>" method="get">
+<form action="<?php echo base_url().'_finance/transaksi/tgl'; ?>" method="get">
 <div class="row">
     <div class="box box-primary">
         <div class="box-body">            
             <div class="col-md-6 col-sm-12 col-lg-3">
-                <input type="text" class="form-control" name="datefilter" value="<?php echo $tgl; ?>" />   
-                <input type="hidden" class="form-control" name="pathye" value="<?php echo $pathe; ?>" />
+                <input type="text" class="form-control" name="datefilter" value="<?php echo $tgl; ?>" />  
+                <input type="hidden" class="form-control" name="pathye" value="<?php echo $pathe; ?>" />  
             </div>   
             <button type="submit" id="saveBtn" class="btn btn-primary"><i class="fa fa-search"> Search</i></button>
-            <!--<a href="<?php echo base_url().'admin/report/recycle/mutasi'; ?>" class="btn btn-danger pull-right"><i class="fa fa-reply"> Back </i></a>-->
+            <a href="<?php echo base_url().'_finance/transaksi/transGetKoperasi'; ?>" class="btn btn-danger pull-right"><i class="fa fa-reply"> Back </i></a>
         </div>
     </div>
 </div>
